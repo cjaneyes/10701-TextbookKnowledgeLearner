@@ -1,4 +1,5 @@
-e  © o N be C E re R pu T bl is h  CHAPTER 8  QUADRILATERALS 8.1 Introduction  You have studied many properties of a triangle in Chapters 6 and 7 and you know that on joining three non-collinear points in pairs, the figure so obtained is a triangle.
+e  © o N be C E re R pu T bl is h  CHAPTER 8  QUADRILATERALS 8.1 Introduction  
+-true	You have studied many properties of a triangle in Chapters 6 and 7 and you know that on joining three non-collinear points in pairs, the figure so obtained is a triangle.
 Now, let us mark four points and see what we obtain on joining them in pairs in some order.
 Fig.
 8.1  Note that if all the points are collinear (in the same line), we obtain a line segment [see Fig.
@@ -9,10 +10,12 @@ Such a figure formed by joining four points in an order is called a quadrilatera
 In this book, we will consider only quadrilaterals of the type given in Fig.
 8.1 (iii) but not as given in Fig.
 8.1 (iv).
-no  tt  A quadrilateral has four sides, four angles and four vertices [see Fig.
+no  tt  
+-true	A quadrilateral has four sides, four angles and four vertices [see Fig.
 8.2 (i)].
 Fig.
-8.2  136  MATHEMATICS  In quadrilateral ABCD, AB, BC, CD and DA are the four sides; A, B, C and D are the four vertices and ∠ A, ∠ B, ∠ C and ∠ D are the four angles formed at the vertices.
+8.2  136  MATHEMATICS  
+-true	In quadrilateral ABCD, AB, BC, CD and DA are the four sides; A, B, C and D are the four vertices and ∠ A, ∠ B, ∠ C and ∠ D are the four angles formed at the vertices.
 AC and BD are the two diagonals of the quadrilateral ABCD.
 e  Now join the opposite vertices A to C and B to D [see Fig.
 8.2 (ii)].
@@ -23,7 +26,8 @@ Some of these are given below (see Fig.
 Fig.
 8.3  Although most of the objects we see around are of the shape of special quadrilateral called rectangle, we shall study more about quadrilaterals and especially parallelograms because a rectangle is also a parallelogram and all properties of a parallelogram are true for a rectangle as well.
 8.2 Angle Sum Property of a Quadrilateral  Let us now recall the angle sum property of a quadrilateral.
-tt  The sum of the angles of a quadrilateral is 360º.
+tt  
+-true	The sum of the angles of a quadrilateral is 360º.
 This can be verified by drawing a diagonal and dividing the quadrilateral into two triangles.
 no  Let ABCD be a quadrilateral and AC be a diagonal (see Fig.
 8.4).
@@ -55,12 +59,12 @@ In quadrilateral ABCD of Fig.
 8.5 (vi), AD = CD and AB = CB i.e., two pairs of adjacent sides are equal.
 It is not a parallelogram.
 It is called a kite.
-Note that a square, rectangle and rhombus are all parallelograms.
-A square is a rectangle and also a rhombus.
-A parallelogram is a trapezium.
-A kite is not a parallelogram.
-A trapezium is not a parallelogram (as only one pair of opposite sides is parallel in a trapezium and we require both pairs to be parallel in a parallelogram).
-A rectangle or a rhombus is not a square.
+-true	Note that a square, rectangle and rhombus are all parallelograms.
+-true	A square is a rectangle and also a rhombus.
+-true	A parallelogram is a trapezium.
+-true	A kite is not a parallelogram.
+-true	A trapezium is not a parallelogram (as only one pair of opposite sides is parallel in a trapezium and we require both pairs to be parallel in a parallelogram).
+-true	A rectangle or a rhombus is not a square.
 Look at the Fig.
 8.6.
 We have a rectangle and a parallelogram with same perimeter 14 cm.
@@ -81,7 +85,7 @@ Fig.
 8.7  Repeat this activity with some more parallelograms.
 Each time you will observe that each diagonal divides the parallelogram into two congruent triangles.
 Let us now prove this result.
-Theorem 8.1 : A diagonal of a parallelogram divides it into two congruent triangles.
+-true	Theorem 8.1 : A diagonal of a parallelogram divides it into two congruent triangles.
 Proof : Let ABCD be a parallelogram and AC be a diagonal (see Fig.
 8.8).
 Observe that the diagonal AC divides parallelogram ABCD into two triangles, namely, ∆ ABC and ∆ CDA.
@@ -93,13 +97,16 @@ So,  ∠ BAC = ∠ DCA (Pair of alternate angles)  and  AC = CA  (Common)  So,  
 Now, measure the opposite sides of parallelogram ABCD.
 What do you observe?
 tt  You will find that AB = DC and AD = BC.
-This is another property of a parallelogram stated below:  no  Theorem 8.2 : In a parallelogram, opposite sides are equal.
+This is another property of a parallelogram stated below:  no  
+-true	Theorem 8.2 : In a parallelogram, opposite sides are equal.
 You have already proved that a diagonal divides the parallelogram into two congruent  140  MATHEMATICS  triangles; so what can you say about the corresponding parts say, the corresponding sides?
 They are equal.
 So,  AB = DC  and  AD = BC  © o N be C E re R pu T bl is h  e  Now what is the converse of this result?
 You already know that whatever is given in a theorem, the same is to be proved in the converse and whatever is proved in the theorem it is given in the converse.
-Thus, Theorem 8.2 can be stated as given below :  If a quadrilateral is a parallelogram, then each pair of its opposite sides is equal.
-So its converse is : Theorem 8.3 : If each pair of opposite sides of a quadrilateral is equal, then it is a parallelogram.
+Thus, Theorem 8.2 can be stated as given below :  
+-true	If a quadrilateral is a parallelogram, then each pair of its opposite sides is equal.
+So its converse is : 
+-true	Theorem 8.3 : If each pair of opposite sides of a quadrilateral is equal, then it is a parallelogram.
 Can you reason out why?
 Let sides AB and CD of the quadrilateral ABCD be equal and also AD = BC (see Fig.
 8.9).
@@ -116,11 +123,12 @@ What do you observe?
 Each pair of opposite angles is equal.
 Repeat this with some more parallelograms.
 We arrive at yet another result as given below.
-Theorem 8.4 : In a parallelogram, opposite angles are equal.
+-true	Theorem 8.4 : In a parallelogram, opposite angles are equal.
 tt  Now, is the converse of this result also true?
 Yes.
 Using the angle sum property of a quadrilateral and the results of parallel lines intersected by a transversal, we can see that the converse is also true.
-So, we have the following theorem :  no  Theorem 8.5 : If in a quadrilateral, each pair of opposite angles is equal, then it is a parallelogram.
+So, we have the following theorem :  no  
+-true	Theorem 8.5 : If in a quadrilateral, each pair of opposite angles is equal, then it is a parallelogram.
 QUADRILATERALS  141  There is yet another property of a parallelogram.
 Let us study the same.
 Draw a parallelogram ABCD and draw both its diagonals intersecting at the point O (see Fig.
@@ -131,12 +139,14 @@ You will observe that and OB = OD.
 © o N be C E re R pu T bl is h  OA = OC or,  O is the mid-point of both the diagonals.
 Repeat this activity with some more parallelograms.
 Each time you will find that O is the mid-point of both the diagonals.
-So, we have the following theorem :  Theorem 8.6 : The diagonals of a parallelogram bisect each other.
+So, we have the following theorem :  
+-true	Theorem 8.6 : The diagonals of a parallelogram bisect each other.
 Now, what would happen, if in a quadrilateral the diagonals bisect each other?
 Will it be a parallelogram?
 Indeed this is true.
 This result is the converse of the result of Theorem 8.6.
-It is given below:  Theorem 8.7 : If the diagonals of a quadrilateral bisect each other, then it is a parallelogram.
+It is given below:  
+-true	Theorem 8.7 : If the diagonals of a quadrilateral bisect each other, then it is a parallelogram.
 Fig.
 8.10  You can reason out this result as follows:  Note that in Fig.
 8.11, it is given that OA = OC and OB = OD.
@@ -147,7 +157,7 @@ So,  From this, we get AB || CD Similarly,  BC || AD  Fig.
 Let us now take some examples.
 Example 1 : Show that each angle of a rectangle is a right angle.
 no  Solution : Let us recall what a rectangle is.
-A rectangle is a parallelogram in which one angle is a right angle.
+-true	A rectangle is a parallelogram in which one angle is a right angle.
 142  MATHEMATICS  Let ABCD be a rectangle in which ∠ A = 90°.
 We have, AD || BC and AB is a transversal (see Fig.
 8.12).
@@ -194,7 +204,8 @@ So both pairs of opposite angles are equal.
 Therefore, PQRS is a parallelogram in which one angle (in fact all angles) is 90° and so, PQRS is a rectangle.
 8.5 Another Condition for a Quadrilateral to be a Parallelogram  You have studied many properties of a parallelogram in this chapter and you have also verified that if in a quadrilateral any one of those properties is satisfied, then it becomes a parallelogram.
 We now study yet another condition which is the least required condition for a quadrilateral to be a parallelogram.
-It is stated in the form of a theorem as given below:  Theorem 8.8 : A quadrilateral is a parallelogram if a pair of opposite sides is equal and parallel.
+It is stated in the form of a theorem as given below:  
+-true	Theorem 8.8 : A quadrilateral is a parallelogram if a pair of opposite sides is equal and parallel.
 Look at Fig 8.17 in which AB = CD and AB || CD.
 Let us draw a diagonal AC.
 You can show that ∆ ABC ≅ ∆ CDA by SAS congruence rule.
@@ -257,7 +268,8 @@ Measure ∠ AEF and ∠ ABC.
 What do you observe?
 You will find that :  1 BC and ∠ AEF = ∠ ABC 2 so, EF || BC EF =  Repeat this activity with some more triangles.
 Fig.
-8.24  So, you arrive at the following theorem:  Theorem 8.9 : The line segment joining the mid-points of two sides of a triangle is parallel to the third side.
+8.24  So, you arrive at the following theorem:  
+-true	Theorem 8.9 : The line segment joining the mid-points of two sides of a triangle is parallel to the third side.
 You can prove this theorem using the following clue: Observe Fig 8.25 in which E and F are mid-points of AB and AC respectively and CD || BA.
 ∆ AEF ≅ ∆ CDF  So,  (ASA Rule)  EF = DF and BE = AE = DC  (Why?)
 Therefore, BCDE is a parallelogram.
@@ -267,7 +279,8 @@ Fig.
 1 1 ED = BC.
 2 2 Can you state the converse of Theorem 8.9?
 Is the converse true?
-You will see that converse of the above theorem is also true which is stated as below:  tt  In this case, also note that EF =  no  Theorem 8.10 : The line drawn through the mid-point of one side of a triangle, parallel to another side bisects the third side.
+You will see that converse of the above theorem is also true which is stated as below:  tt  In this case, also note that EF =  no  
+-true	Theorem 8.10 : The line drawn through the mid-point of one side of a triangle, parallel to another side bisects the third side.
 QUADRILATERALS  149  © o N be C E re R pu T bl is h  e  In Fig 8.26, observe that E is the mid-point of AB, line l is passsing through E and is parallel to BC and CM || BA.
 Prove that AF = CF by using the congruence of ∆ AEF and ∆ CDF.
 Fig.
@@ -311,20 +324,20 @@ Show that the line segments AF and EC trisect the diagonal BD.
 Fig.
 8.31 Show that the line segments joining the mid-points of the opposite sides of a quadrilateral bisect each other.
 ABC is a triangle right angled at C. A line through the mid-point M of hypotenuse AB and parallel to BC intersects AC at D. Show that (ii) MD ⊥ AC  (i) D is the mid-point of AC 1 (iii) CM = MA = AB 2  8.7 Summary  In this chapter, you have studied the following points : 1.
-Sum of the angles of a quadrilateral is 360°.
+-true	Sum of the angles of a quadrilateral is 360°.
 2.
-A diagonal of a parallelogram divides it into two congruent triangles.
+-true	A diagonal of a parallelogram divides it into two congruent triangles.
 3.
-In a parallelogram, (i)  opposite sides are equal  (ii) opposite angles are equal  (iii) diagonals bisect each other  4.
-A quadrilateral is a parallelogram, if (i)  opposite sides are equal  or  (ii) opposite angles are equal  or (iii) diagonals bisect each other  or (iv)a pair of opposite sides is equal and parallel  Diagonals of a rectangle bisect each other and are equal and vice-versa.
+-true	In a parallelogram, (i)  opposite sides are equal  (ii) opposite angles are equal  (iii) diagonals bisect each other  4.
+-true	A quadrilateral is a parallelogram, if (i)  opposite sides are equal  or  (ii) opposite angles are equal  or (iii) diagonals bisect each other  or (iv)a pair of opposite sides is equal and parallel  Diagonals of a rectangle bisect each other and are equal and vice-versa.
 6.
-Diagonals of a rhombus bisect each other at right angles and vice-versa.
+-true	Diagonals of a rhombus bisect each other at right angles and vice-versa.
 7.
-Diagonals of a square bisect each other at right angles and are equal, and vice-versa.
+-true	Diagonals of a square bisect each other at right angles and are equal, and vice-versa.
 8.
-The line-segment joining the mid-points of any two sides of a triangle is parallel to the third side and is half of it.
+-true	The line-segment joining the mid-points of any two sides of a triangle is parallel to the third side and is half of it.
 9.
-A line through the mid-point of a side of a triangle parallel to another side bisects the third side.
+-true	A line through the mid-point of a side of a triangle parallel to another side bisects the third side.
 no  tt  5.
 10.
-The quadrilateral formed by joining the mid-points of the sides of a quadrilateral, in order, is a parallelogram.
+-true	The quadrilateral formed by joining the mid-points of the sides of a quadrilateral, in order, is a parallelogram.

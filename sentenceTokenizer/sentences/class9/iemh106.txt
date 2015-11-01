@@ -18,32 +18,34 @@ To find the height of a tower or to find the distance of a ship from the light h
 Plenty of other examples can be given where lines and angles are used.
 In the subsequent chapters of geometry, you will be using these properties of lines and angles to deduce more and more useful properties.
 © o N be C E re R pu T bl is h  e  Let us first revise the terms and definitions related to lines and angles learnt in earlier classes.
-6.2 Basic Terms and Definitions  Recall that a part (or portion) of a line with two end points is called a line-segment and a part of a line with one end point is called a ray.
+6.2 Basic Terms and Definitions  
+-true	Recall that a part (or portion) of a line with two end points is called a line-segment and a part of a line with one end point is called a ray.
 Note that the line segment AB is denoted by AB , and its length is denoted by AB.
 The ray AB is denoted by AB , and a line is denoted by AB .
 However, we will not use these symbols, and will denote the line segment AB, ray AB, length AB and line AB by the same symbol, AB.
 The meaning will be clear from the context.
 Sometimes small letters l, m, n, etc.
 will be used to denote lines.
-If three or more points lie on the same line, they are called collinear points; otherwise they are called non-collinear points.
+-true	If three or more points lie on the same line, they are called collinear points; otherwise they are called non-collinear points.
 Recall that an angle is formed when two rays originate from the same end point.
-The rays making an angle are called the arms of the angle and the end point is called the vertex of the angle.
+-true	The rays making an angle are called the arms of the angle and the end point is called the vertex of the angle.
 You have studied different types of angles, such as acute angle, right angle, obtuse angle, straight angle and reflex angle in earlier classes (see Fig.
 6.1).
 (ii) right angle : y = 90°  (iii) obtuse angle : 90° < z < 180°  no  tt  (i) acute angle : 0° < x < 90°  (iv) straight angle : s = 180°  (v) reflex angle : 180° < t < 360° Fig.
 6.1 : Types of Angles  LINES AND ANGLES  91  © o N be C E re R pu T bl is h  You have also studied about adjacent angles in the earlier classes (see Fig.
 6.2).
-Two angles are adjacent, if they have a common vertex, a common arm and their non-common arms are on different sides of the common arm.
+-true	Two angles are adjacent, if they have a common vertex, a common arm and their non-common arms are on different sides of the common arm.
 In Fig.
 6.2, ∠ ABD and ∠ DBC are adjacent angles.
 Ray BD is their common arm and point B is their common vertex.
 Ray BA and ray BC are non common arms.
 Moreover, when two angles are adjacent, then their sum is always equal to the angle formed by the two noncommon arms.
-So, we can write  e  An acute angle measures between 0° and 90°, whereas a right angle is exactly equal to 90°.
-An angle greater than 90° but less than 180° is called an obtuse angle.
-Also, recall that a straight angle is equal to 180°.
-An angle which is greater than 180° but less than 360° is called a reflex angle.
-Further, two angles whose sum is 90° are called complementary angles, and two angles whose sum is 180° are called supplementary angles.
+So, we can write  e  
+-true	An acute angle measures between 0° and 90°, whereas a right angle is exactly equal to 90°.
+-true	An angle greater than 90° but less than 180° is called an obtuse angle.
+-true	Also, recall that a straight angle is equal to 180°.
+-true	An angle which is greater than 180° but less than 360° is called a reflex angle.
+-true	Further, two angles whose sum is 90° are called complementary angles, and two angles whose sum is 180° are called supplementary angles.
 Fig.
 6.2 : Adjacent angles  ∠ ABC = ∠ ABD + ∠ DBC.
 Note that ∠ ABC and ∠ ABD are not adjacent angles.
@@ -89,8 +91,10 @@ It is 180°.
 no  From (1) and (2), can you say that ∠ AOC + ∠ BOC = 180°?
 From the above discussion, we can state the following Axiom:  (2) Yes!
 (Why?)
-LINES AND ANGLES  93  Axiom 6.1 : If a ray stands on a line, then the sum of two adjacent angles so formed is 180°.
-e  Recall that when the sum of two adjacent angles is 180°, then they are called a linear pair of angles.
+LINES AND ANGLES  93  
+-true	Axiom 6.1 : If a ray stands on a line, then the sum of two adjacent angles so formed is 180°.
+e  
+-true	Recall that when the sum of two adjacent angles is 180°, then they are called a linear pair of angles.
 © o N be C E re R pu T bl is h  In Axiom 6.1, it is given that ‘a ray stands on a line’.
 From this ‘given’, we have concluded that ‘the sum of two adjacent angles so formed is 180°’.
 Can we write Axiom 6.1 the other way?
@@ -109,13 +113,14 @@ Fig.
 6.7 (iii), both the non-common arms lie along the ruler, that is, points A, O and B lie on the same line and ray OC stands on it.
 Also see that ∠ AOC + ∠ COB = 125° + 55° = 180°.
 From this, you may conclude that statement (A) is true.
-So, you can state in the form of an axiom as follows:  e  Axiom 6.2 : If the sum of two adjacent angles is 180°, then the non-common arms of the angles form a line.
+So, you can state in the form of an axiom as follows:  e  
+-true	Axiom 6.2 : If the sum of two adjacent angles is 180°, then the non-common arms of the angles form a line.
 © o N be C E re R pu T bl is h  For obvious reasons, the two axioms above together is called the Linear Pair Axiom.
 Let us now examine the case when two lines intersect each other.
 Recall, from earlier classes, that when two lines intersect, the vertically opposite angles are equal.
 Let us prove this result now.
 See Appendix 1 for the ingredients of a proof, and keep those in mind while studying the proof given below.
-Theorem 6.1 : If two lines intersect each other, then the vertically opposite angles are equal.
+-true	Theorem 6.1 : If two lines intersect each other, then the vertically opposite angles are equal.
 Proof : In the statement above, it is given that ‘two lines intersect each other’.
 So, let AB and CD be two lines intersecting at O as shown in Fig.
 6.8.
@@ -174,7 +179,8 @@ Prove that 1 ∠ ROS = (∠ QOS – ∠ POS).
 If ray YQ bisects ∠ ZYP, find ∠ XYQ and reflex ∠ QYP.
 tt  5.  no  6.
 Fig.
-6.17  98  MATHEMATICS  6.5 Parallel Lines and a Transversal  © o N be C E re R pu T bl is h  e  Recall that a line which intersects two or more lines at distinct points is called a transversal (see Fig.
+6.17  98  MATHEMATICS  6.5 Parallel Lines and a Transversal  © o N be C E re R pu T bl is h  e  
+-true	Recall that a line which intersects two or more lines at distinct points is called a transversal (see Fig.
 6.18).
 Line l intersects lines m and n at points P and Q respectively.
 Therefore, line l is a transversal for lines m and n. Observe that four angles are formed at each of the points P and Q.
@@ -185,7 +191,8 @@ Let us name these angles as ∠ 1, ∠ 2, .
 ∠ 1, ∠ 2, ∠ 7 and ∠ 8 are called exterior angles, while ∠ 3, ∠ 4, ∠ 5 and ∠ 6 are called interior angles.
 Fig.
 6.18  Recall that in the earlier classes, you have named some pairs of angles formed when a transversal intersects two lines.
-These are as follows: (a) Corresponding angles : (i) ∠ 1 and ∠ 5  (ii) ∠ 2 and ∠ 6  (iii) ∠ 4 and ∠ 8  (iv) ∠ 3 and ∠ 7  (b) Alternate interior angles : (i) ∠ 4 and ∠ 6  (ii) ∠ 3 and ∠ 5  (c) Alternate exterior angles: (i) ∠ 1 and ∠ 7  (ii) ∠ 2 and ∠ 8  (d) Interior angles on the same side of the transversal: (i) ∠ 4 and ∠ 5  (ii) ∠ 3 and ∠ 6  Interior angles on the same side of the transversal are also referred to as consecutive interior angles or allied angles or co-interior angles.
+These are as follows: (a) Corresponding angles : (i) ∠ 1 and ∠ 5  (ii) ∠ 2 and ∠ 6  (iii) ∠ 4 and ∠ 8  (iv) ∠ 3 and ∠ 7  (b) Alternate interior angles : (i) ∠ 4 and ∠ 6  (ii) ∠ 3 and ∠ 5  (c) Alternate exterior angles: (i) ∠ 1 and ∠ 7  (ii) ∠ 2 and ∠ 8  (d) Interior angles on the same side of the transversal: (i) ∠ 4 and ∠ 5  (ii) ∠ 3 and ∠ 6  
+-true	Interior angles on the same side of the transversal are also referred to as consecutive interior angles or allied angles or co-interior angles.
 Further, many a times, we simply use the words alternate angles for alternate interior angles.
 no  tt  Now, let us find out the relation between the angles in these pairs when line m is parallel to line n. You know that the ruled lines of your notebook are parallel to each other.
 So, with ruler and pencil, draw two parallel lines along any two of these lines and a transversal to intersect them as shown in Fig.
@@ -194,9 +201,11 @@ Fig.
 6.19  LINES AND ANGLES  99  Now, measure any pair of corresponding angles and find out the relation between them.
 You may find that : ∠ 1 = ∠ 5, ∠ 2 = ∠ 6, ∠ 4 = ∠ 8 and ∠ 3 = ∠ 7.
 From this, you may conclude the following axiom.
-e  Axiom 6.3 : If a transversal intersects two parallel lines, then each pair of corresponding angles is equal.
+e  
+-true	Axiom 6.3 : If a transversal intersects two parallel lines, then each pair of corresponding angles is equal.
 © o N be C E re R pu T bl is h  Axiom 6.3 is also referred to as the corresponding angles axiom.
-Now, let us discuss the converse of this axiom which is as follows: If a transversal intersects two lines such that a pair of corresponding angles is equal, then the two lines are parallel.
+Now, let us discuss the converse of this axiom which is as follows: 
+-true	If a transversal intersects two lines such that a pair of corresponding angles is equal, then the two lines are parallel.
 Does this statement hold true?
 It can be verified as follows: Draw a line AD and mark points B and C on it.
 At B and C, construct ∠ ABQ and ∠ BCS equal to each other as shown in Fig.
@@ -209,7 +218,8 @@ You may also draw common perpendiculars to the two lines PQ and RS at different 
 You will find it the same everywhere.
 So, you may conclude that the lines are parallel.
 Therefore, the converse of corresponding angles axiom is also true.
-So, we have the following axiom: Axiom 6.4 : If a transversal intersects two lines such that a pair of corresponding angles is equal, then the two lines are parallel to each other.
+So, we have the following axiom: 
+-true	Axiom 6.4 : If a transversal intersects two lines such that a pair of corresponding angles is equal, then the two lines are parallel to each other.
 tt  Can we use corresponding angles axiom to find out the relation between the alternate interior angles when a transversal intersects two parallel lines?
 In Fig.
 6.21, transveral PS intersects parallel lines AB and CD at points Q and R respectively.
@@ -220,7 +230,8 @@ Yes!
 (Why ?)
 Is  (2)  So, from (1) and (2), you may conclude that ∠ BQR = ∠ QRC.
 e  ∠ AQR = ∠ QRD.
-Similarly,  This result can be stated as a theorem given below:  © o N be C E re R pu T bl is h  Theorem 6.2 : If a transversal intersects two parallel lines, then each pair of alternate interior angles is equal.
+Similarly,  This result can be stated as a theorem given below:  © o N be C E re R pu T bl is h  
+-true	Theorem 6.2 : If a transversal intersects two parallel lines, then each pair of alternate interior angles is equal.
 Now, using the converse of the corresponding angles axiom, can we show the two lines parallel if a pair of alternate interior angles is equal?
 In Fig.
 6.22, the transversal PS intersects lines AB and CD at points Q and R respectively such that ∠ BQR = ∠ QRC.
@@ -228,10 +239,12 @@ Is AB || CD?
 But,  ∠ BQR = ∠ PQA  (Why?)
 (1)  ∠ BQR = ∠ QRC  (Given)  (2)  So, from (1) and (2), you may conclude that ∠ PQA = ∠ QRC  But they are corresponding angles.
 So, AB || CD  (Converse of corresponding angles axiom)  This result can be stated as a theorem given below:  Fig.
-6.22  Theorem 6.3 : If a transversal intersects two lines such that a pair of alternate interior angles is equal, then the two lines are parallel.
+6.22  
+-true	Theorem 6.3 : If a transversal intersects two lines such that a pair of alternate interior angles is equal, then the two lines are parallel.
 In a similar way, you can obtain the following two theorems related to interior angles on the same side of the transversal.
-Theorem 6.4 : If a transversal intersects two parallel lines, then each pair of interior angles on the same side of the transversal is supplementary.
-tt  Theorem 6.5 : If a transversal intersects two lines such that a pair of interior angles on the same side of the transversal is supplementary, then the two lines are parallel.
+-true	Theorem 6.4 : If a transversal intersects two parallel lines, then each pair of interior angles on the same side of the transversal is supplementary.
+tt  
+-true	Theorem 6.5 : If a transversal intersects two lines such that a pair of interior angles on the same side of the transversal is supplementary, then the two lines are parallel.
 no  You may recall that you have verified all the above axioms and theorems in earlier classes through activities.
 You may repeat those activities here also.
 LINES AND ANGLES  101  6.6 Lines Parallel to the Same Line If two lines are parallel to the same line, will they be parallel to each other?
@@ -240,7 +253,8 @@ See Fig.
 6.23 in which line m || line l and line n || line l.  e  Let us draw a line t transversal for the lines, l, m and n. It is given that line m || line l and line n || line l.  © o N be C E re R pu T bl is h  Therefore, ∠ 1 = ∠ 2 and ∠ 1 = ∠ 3 (Corresponding angles axiom)  So,  ∠ 2 = ∠ 3 (Why?)
 But ∠ 2 and ∠ 3 are corresponding angles and they are equal.
 Therefore, you can say that  Line m || Line n  (Converse of corresponding angles axiom)  Fig.
-6.23  This result can be stated in the form of the following theorem:  Theorem 6.6 : Lines which are parallel to the same line are parallel to each other.
+6.23  This result can be stated in the form of the following theorem:  
+-true	Theorem 6.6 : Lines which are parallel to the same line are parallel to each other.
 Note : The property above can be extended to more than two lines also.
 Now, let us solve some examples related to parallel lines.
 tt  Example 4 : In Fig.
@@ -293,9 +307,10 @@ An incident ray AB strikes the mirror PQ at B, the reflected ray moves along the
 Prove that AB || CD.
 no  tt  6.
 Fig.
-6.33  LINES AND ANGLES  105  6.7 Angle Sum Property of a Triangle  e  In the earlier classes, you have studied through activities that the sum of all the angles of a triangle is 180°.
+6.33  LINES AND ANGLES  105  6.7 Angle Sum Property of a Triangle  e  
+-true	In the earlier classes, you have studied through activities that the sum of all the angles of a triangle is 180°.
 We can prove this statement using the axioms and theorems related to parallel lines.
-Theorem 6.7 : The sum of the angles of a triangle is 180º.
+-true	Theorem 6.7 : The sum of the angles of a triangle is 180º.
 © o N be C E re R pu T bl is h  Proof : Let us see what is given in the statement above, that is, the hypothesis and what we need to prove.
 We are given a triangle PQR and ∠ 1, ∠ 2 and ∠ 3 are the angles of ∆ PQR (see Fig.
 6.34).
@@ -313,8 +328,9 @@ Is  ∠ 3 + ∠ 4 = 180°?
 (Why?)
 (1)  Also, see that  tt  ∠ 1 + ∠ 2 + ∠ 3 = 180° (Why?)
 (2)  From (1) and (2), you can see that ∠ 4 = ∠ 1 + ∠ 2.  no  This result can be stated in the form of a theorem as given below:  Fig.
-6.36  106  MATHEMATICS  Theorem 6.8 : If a side of a triangle is produced, then the exterior angle so formed is equal to the sum of the two interior opposite angles.
-It is obvious from the above theorem that an exterior angle of a triangle is greater than either of its interior apposite angles.
+6.36  106  MATHEMATICS  
+-true	Theorem 6.8 : If a side of a triangle is produced, then the exterior angle so formed is equal to the sum of the two interior opposite angles.
+-true	It is obvious from the above theorem that an exterior angle of a triangle is greater than either of its interior apposite angles.
 e  Now, let us take some examples based on the above theorems.
 © o N be C E re R pu T bl is h  Example 7 : In Fig.
 6.37, if QT ⊥ PR, ∠ TQR = 40° and ∠ SPR = 30°, find x and y.
@@ -352,17 +368,17 @@ Fig.
 6.44, the side QR of ∆ PQR is produced to a point S. If the bisectors of ∠ PQR and ∠ PRS meet at point T, then prove that 1 ∠ QTR = ∠ QPR.
 2  6.8 Summary  Fig.
 6.44  In this chapter, you have studied the following points:  1.
-If a ray stands on a line, then the sum of the two adjacent angles so formed is 180° and viceversa.
+-true	If a ray stands on a line, then the sum of the two adjacent angles so formed is 180° and viceversa.
 This property is called as the Linear pair axiom.
 2.
-If two lines intersect each other, then the vertically opposite angles are equal.
+-true	If two lines intersect each other, then the vertically opposite angles are equal.
 3.
-If a transversal intersects two parallel lines, then (i) each pair of corresponding angles is equal,  (ii) each pair of alternate interior angles is equal,  (iii) each pair of interior angles on the same side of the transversal is supplementary.
+-true	If a transversal intersects two parallel lines, then (i) each pair of corresponding angles is equal,  (ii) each pair of alternate interior angles is equal,  (iii) each pair of interior angles on the same side of the transversal is supplementary.
 4.
-If a transversal intersects two lines such that, either  (i) any one pair of corresponding angles is equal, or  (ii) any one pair of alternate interior angles is equal, or  tt  (iii) any one pair of interior angles on the same side of the transversal is supplementary, then the lines are parallel.
+-true	If a transversal intersects two lines such that, either  (i) any one pair of corresponding angles is equal, or  (ii) any one pair of alternate interior angles is equal, or  tt  (iii) any one pair of interior angles on the same side of the transversal is supplementary, then the lines are parallel.
 5.
-Lines which are parallel to a given line are parallel to each other.
+-true	Lines which are parallel to a given line are parallel to each other.
 no  6.
-The sum of the three angles of a triangle is 180°.
+-true	The sum of the three angles of a triangle is 180°.
 7.
-If a side of a triangle is produced, the exterior angle so formed is equal to the sum of the two interior opposite angles.
+-true	If a side of a triangle is produced, the exterior angle so formed is equal to the sum of the two interior opposite angles.

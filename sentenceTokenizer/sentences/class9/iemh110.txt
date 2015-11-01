@@ -7,7 +7,8 @@ Fig.
 10.1  File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65  C IRCLES  169  10.2 Circles and Its Related Terms: A Review  he is  © no N C tt E o R be T re pu  The fixed point is called the centre of the circle and the fixed distance is called the radius of the circle.
 In Fig.10.3, O is the centre and the length OP is the radius of the circle.
 Fig.
-10.2  bl  The collection of all the points in a plane, which are at a fixed distance from a fixed point in the plane, is called a circle.
+10.2  bl  
+-true	The collection of all the points in a plane, which are at a fixed distance from a fixed point in the plane, is called a circle.
 d  Take a compass and fix a pencil in it.
 Put its pointed leg on a point on a sheet of a paper.
 Open the other leg to some distance.
@@ -16,7 +17,8 @@ What is the closed figure traced by the pencil on paper?
 As you know, it is a circle (see Fig.10.2).
 How did you get a circle?
 You kept one point fixed (A in Fig.10.2) and drew all the points that were at a fixed distance from A.
-This gives us the following definition:  Remark : Note that the line segment joining the centre and any point on the circle is also called a radius of the circle.
+This gives us the following definition:  
+-true	Remark : Note that the line segment joining the centre and any point on the circle is also called a radius of the circle.
 That is, ‘radius’ is used in two senses-in the sense of a line segment and also in the sense of its length.
 Fig.
 10.3  You are already familiar with some of the following concepts from Class VI.
@@ -25,12 +27,13 @@ A circle divides the plane on which it lies into three parts.
 They are: (i) inside the circle, which is also called the interior of the circle; (ii) the circle and (iii) outside the circle, which is also called the exterior of the circle (see Fig.10.4).
 The circle and its interior make up the circular region.
 Fig.
-10.4  If you take two points P and Q on a circle, then the line segment PQ is called a chord of the circle (see Fig.
+10.4  
+-true	If you take two points P and Q on a circle, then the line segment PQ is called a chord of the circle (see Fig.
 10.5).
-The chord, which passes through the centre of the circle, is called a diameter of the circle.
+-true	The chord, which passes through the centre of the circle, is called a diameter of the circle.
 As in the case of radius, the word ‘diameter’ is also used in two senses, that is, as a line segment and also as its length.
 Do you find any other chord of the circle longer than a diameter?
-No, you see that a diameter is the longest chord and all diameters have the same length, which is equal to two  File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65  170  MATHEMATICS  d  times the radius.
+-true	No, you see that a diameter is the longest chord and all diameters have the same length, which is equal to two  File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65  170  MATHEMATICS  d  times the radius.
 In Fig.10.5, AOB is a diameter of the circle.
 How many diameters does a circle have?
 Draw a circle and see how many diameters you can find.
@@ -39,20 +42,21 @@ bl  is  Fig.
 10.6  © no N C tt E o R be T re pu  the major arc PQ by PRQ , where R is some point on the arc between P and Q.
 Unless otherwise stated, arc PQ or PQ stands for minor arc PQ.
 When P and Q are ends of a diameter, then both arcs are equal and each is called a semicircle.
-he  A piece of a circle between two points is called an arc.
+he  
+-true	A piece of a circle between two points is called an arc.
 Look at the pieces of the circle between two points P and Q in Fig.10.6.
 You find that there are two pieces, one longer and the other smaller (see Fig.10.7).
 The longer one is called the major arc PQ and the shorter one is called the minor arc PQ.
-The minor arc PQ is also denoted by PQ and  The length of the complete circle is called its circumference.
-The region between a chord and either of its arcs is called a segment of the circular region or simply a segment of the circle.
-You will find that there are two types of segments also, which are the major segment and the minor segment (see Fig.
+The minor arc PQ is also denoted by PQ and  
+-true	The length of the complete circle is called its circumference.
+-true	The region between a chord and either of its arcs is called a segment of the circular region or simply a segment of the circle.
+-true	You will find that there are two types of segments also, which are the major segment and the minor segment (see Fig.
 10.8).
-The region between an arc and the two radii, joining the centre to the end points of the Fig.
-10.7 arc is called a sector.
-Like segments, you find that the minor arc corresponds to the minor sector and the major arc corresponds to the major sector.
+-true	The region between an arc and the two radii, joining the centre to the end points of the arc is called a sector.
+-true	Like segments, you find that the minor arc corresponds to the minor sector and the major arc corresponds to the major sector.
 In Fig.
 10.9, the region OPQ is the minor sector and remaining part of the circular region is the major sector.
-When two arcs are equal, that is, each is a semicircle, then both segments and both sectors become the same and each is known as a semicircular region.
+-true	When two arcs are equal, that is, each is a semicircle, then both segments and both sectors become the same and each is known as a semicircular region.
 Fig.
 10.8  File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65  Fig.
 10.9  C IRCLES  171  EXERCISE 10.1 Fill in the blanks: (i)  The centre of a circle lies in  of the circle.
@@ -87,7 +91,8 @@ Let us give a proof of this fact.
 is  Fig.
 10.12  Proof : You are given two equal chords AB and CD of a circle with centre O (see Fig.10.13).
 You want to prove that ∠ AOB = ∠ COD.
-© no N C tt E o R be T re pu  In triangles AOB and COD,  bl  Theorem 10.1 : Equal chords of a circle subtend equal angles at the centre.
+© no N C tt E o R be T re pu  In triangles AOB and COD,  bl  
+-true	Theorem 10.1 : Equal chords of a circle subtend equal angles at the centre.
 Therefore,  OA = OC  (Radii of a circle)  OB = O D  (Radii of a circle)  AB = CD  (Given)  ∆ AOB ≅ ∆ COD  (SSS rule)  This gives ∠ AOB = ∠ COD (Corresponding parts of congruent triangles)  Fig.
 10.13  Remark : For convenience, the abbreviation CPCT will be used in place of ‘Corresponding parts of congruent triangles’, because we use this very frequently as you will see.
 Now if two chords of a circle subtend equal angles at the centre, what can you say about the chords?
@@ -103,7 +108,8 @@ If you put one on the other, what do you observe?
 They cover each other, i.e., they are congruent.
 So AB = PQ.
 File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65  Fig.
-10.14  C IRCLES  173  Theorem 10.2 : If the angles subtended by the chords of a circle at the centre are equal, then the chords are equal.
+10.14  C IRCLES  173  
+-true	Theorem 10.2 : If the angles subtended by the chords of a circle at the centre are equal, then the chords are equal.
 he  The above theorem is the converse of the Theorem 10.1.
 Note that in Fig.
 10.13, if you take ∠ AOB = ∠ COD, then  d  Though you have seen it for this particular case, try it out for other equal angles too.
@@ -124,12 +130,14 @@ Yes it will.
 So MA = MB.
 Fig.
 10.15  Give a proof yourself by joining OA and OB and proving the right triangles OMA and OMB to be congruent.
-This example is a particular instance of the following result:  Theorem 10.3 : The perpendicular from the centre of a circle to a chord bisects the chord.
+This example is a particular instance of the following result:  
+-true	Theorem 10.3 : The perpendicular from the centre of a circle to a chord bisects the chord.
 What is the converse of this theorem?
 To write this, first let us be clear what is assumed in Theorem 10.3 and what is proved.
 Given that the perpendicular from the centre of a circle to a chord is drawn and to prove that it bisects the chord.
 Thus in the converse, what the hypothesis is ‘if a line from the centre bisects a chord of a circle’ and what is to be proved is ‘the line is perpendicular to the chord’.
-So the converse is:  File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65  174  MATHEMATICS  Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+So the converse is:  File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65  174  MATHEMATICS  
+-true	Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
 he  d  Is this true?
 Try it for few cases and see.
 You will see that it is true for these cases.
@@ -144,7 +152,8 @@ This gives ∠OMA = ∠OMB = 90°  (Why ?)
 You have to prove that OM ⊥ AB.
 Join OA and OB (see Fig.
 10.16).
-In triangles OAM and OBM,  10.5 Circle through Three Points  You have learnt in Chapter 6, that two points are sufficient to determine a line.
+In triangles OAM and OBM,  10.5 Circle through Three Points  
+-true	You have learnt in Chapter 6, that two points are sufficient to determine a line.
 That is, there is one and only one line passing through two points.
 A natural question arises.
 How many points are sufficient to determine a circle?
@@ -170,10 +179,12 @@ Let these perpendicular bisectors intersect at one point O.
 10.19  Now O lies on the perpendicular bisector PQ of AB, you have OA = OB, as every point on the perpendicular bisector of a line segment is equidistant from its end points, proved in Chapter 7.
 Similarly, as O lies on the perpendicular bisector RS of BC, you get OB = OC  So OA = OB = OC, which means that the points A, B and C are at equal distances from the point O.
 So if you draw a circle with centre O and radius OA, it will also pass through B and C. This shows that there is a circle passing through the three points A, B and C. You know that two lines (perpendicular bisectors) can intersect at only one point, so you can draw only one circle with radius OA.
-In other words, there is a unique circle passing through A, B and C. You have now proved the following theorem:  Theorem 10.5 : There is one and only one circle passing through three given non-collinear points.
-File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65  176  MATHEMATICS  d  Remark : If ABC is a triangle, then by Theorem 10.5, there is a unique circle passing through the three vertices A, B and C of the triangle.
-This circle is called the circumcircle of the ∆ ABC.
-Its centre and radius are called respectively the circumcentre and the circumradius of the triangle.
+In other words, there is a unique circle passing through A, B and C. You have now proved the following theorem:  
+-true	Theorem 10.5 : There is one and only one circle passing through three given non-collinear points.
+File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65  176  MATHEMATICS  d  
+-true	Remark : If ABC is a triangle, then by Theorem 10.5, there is a unique circle passing through the three vertices A, B and C of the triangle.
+-true	This circle is called the circumcircle of the ∆ ABC.
+-true	Its centre and radius are called respectively the circumcentre and the circumradius of the triangle.
 Example 1 : Given an arc of a circle, complete the circle.
 is Fig.
 10.20  © no N C tt E o R be T re pu  EXERCISE 10.3  bl  Taking the centre and the radius so obtained, we can complete the circle (see Fig.
@@ -199,8 +210,9 @@ You may think a while and get the answer.
 Out of these line segments, the perpendicular from P to AB, namely PM in Fig.
 10.21, will be the least.
 In Mathematics, we define this least length PM to be the distance of AB from P. So you may say that:  Fig.
-10.21  The length of the perpendicular from a point to a line is the distance of the line from the point.
-Note that if the point lies on the line, the distance of the line from the point is zero.
+10.21  
+-true	The length of the perpendicular from a point to a line is the distance of the line from the point.
+-true	Note that if the point lies on the line, the distance of the line from the point is zero.
 File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65  177  © no N C tt E o R be T re pu  bl  is  he  A circle can have infinitely many chords.
 You may observe by drawing chords of a circle that longer chord is nearer to the centre than the smaller chord.
 You may observe it by drawing several chords of a circle of different lengths and measuring their distances from the centre.
@@ -217,7 +229,8 @@ Repeat the activity by drawing congruent circles with centres O and O′ and tak
 Draw perpendiculars OM and O′N on them [see Fig.
 10.22(ii)].
 Cut one circular disc and put it on the other so that AB coincides with CD.
-Then you will find that O coincides with O′ and M coincides with N. In this way you verified the following: Theorem 10.6 : Equal chords of a circle (or of congruent circles) are equidistant from the centre (or centres).
+Then you will find that O coincides with O′ and M coincides with N. In this way you verified the following: 
+-true	Theorem 10.6 : Equal chords of a circle (or of congruent circles) are equidistant from the centre (or centres).
 Next, it will be seen whether the converse of this theorem is true or not.
 For this, draw a circle with centre O.
 From the centre O, draw two line segments OL and OM of equal length and lying inside the circle [see Fig.
@@ -228,7 +241,8 @@ Are these different?
 No, both are equal.
 Repeat the activity for more equal line segments and drawing the chords perpendicular to  File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65  MATHEMATICS  is  he  d  178  Fig.
 10.23  bl  them.
-This verifies the converse of the Theorem 10.6 which is stated as follows:  © no N C tt E o R be T re pu  Theorem 10.7 : Chords equidistant from the centre of a circle are equal in length.
+This verifies the converse of the Theorem 10.6 which is stated as follows:  © no N C tt E o R be T re pu  
+-true	Theorem 10.7 : Chords equidistant from the centre of a circle are equal in length.
 We now take an example to illustrate the use of the above results:  Example 2 : If two intersecting chords of a circle make equal angles with the diameter passing through their point of intersection, prove that the chords are equal.
 Solution : Given that AB and CD are two chords of a circle, with centre O intersecting at a point E. PQ is a diameter through E, such that ∠ AEQ = ∠ DEQ (see Fig.10.24).
 You have to prove that AB = CD.
@@ -265,14 +279,16 @@ You will find that the arc CD superimpose the arc AB completely (see Fig.
 10.26).
 This shows that equal chords make congruent arcs and conversely congruent arcs make equal chords of a circle.
 You can state it as follows:  Fig.
-10.26  If two chords of a circle are equal, then their corresponding arcs are congruent and conversely, if two arcs are congruent, then their corresponding chords are equal.
+10.26  
+-true	If two chords of a circle are equal, then their corresponding arcs are congruent and conversely, if two arcs are congruent, then their corresponding chords are equal.
 File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65  180  MATHEMATICS  he  d  Also the angle subtended by an arc at the centre is defined to be angle subtended by the corresponding chord at the centre in the sense that the minor arc subtends the angle and the major arc subtends the reflex angle.
 Therefore, in Fig 10.27, the angle subtended by the minor arc PQ at O is ∠POQ and the angle subtended by the major arc PQ at O is reflex angle POQ.
 In view of the property above and Theorem 10.1, the following result is true:  is  Fig.
-10.27  Congruent arcs (or equal arcs) of a circle subtend equal angles at the centre.
+10.27  
+-true	Congruent arcs (or equal arcs) of a circle subtend equal angles at the centre.
 © no N C tt E o R be T re pu  bl  Therefore, the angle subtended by a chord of a circle at its centre is equal to the angle subtended by the corresponding (minor) arc at the centre.
 The following theorem gives the relationship between the angles subtended by an arc at the centre and at a point on the circle.
-Theorem 10.8 : The angle subtended by an arc at the centre is double the angle subtended by it at any point on the remaining part of the circle.
+-true	Theorem 10.8 : The angle subtended by an arc at the centre is double the angle subtended by it at any point on the remaining part of the circle.
 Proof : Given an arc PQ of a circle subtending angles POQ at the centre O and PAQ at a point A on the remaining part of the circle.
 We need to prove that ∠ POQ = 2 ∠ PAQ.
 Fig.
@@ -287,13 +303,16 @@ So if you take any other point C on the remaining part of the circle (see Fig.
 Then ∠ PAQ is also called the angle formed in the segment PAQP.
 is  reflex angle POQ = 2 ∠ PAQ  Therefore,  ∠ POQ = 2 ∠ PCQ = 2 ∠ PAQ ∠ PCQ = ∠ PAQ.
 Fig.
-10.29  This proves the following:  Theorem 10.9 : Angles in the same segment of a circle are equal.
+10.29  This proves the following:  
+-true	Theorem 10.9 : Angles in the same segment of a circle are equal.
 Again let us discuss the case (ii) of Theorem 10.8 separately.
 Here ∠PAQ is an angle 1 1 in the segment, which is a semicircle.
 Also, ∠ PAQ = × 180° = 90°.
-∠ POQ = 2 2 If you take any other point C on the semicircle, again you get that ∠ PCQ = 90° Therefore, you find another property of the circle as: Angle in a semicircle is a right angle.
+∠ POQ = 2 2 If you take any other point C on the semicircle, again you get that ∠ PCQ = 90° Therefore, you find another property of the circle as: 
+-true	Angle in a semicircle is a right angle.
 The converse of Theorem 10.9 is also true.
-It can be stated as:  Theorem 10.10 : If a line segment joining two points subtends equal angles at two other points lying on the same side of the line containing the line segment, the four points lie on a circle (i.e.
+It can be stated as:  
+-true	Theorem 10.10 : If a line segment joining two points subtends equal angles at two other points lying on the same side of the line containing the line segment, the four points lie on a circle (i.e.
 they are concyclic).
 File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65  d  he  From (1) and (2),  (Theorem 7.5)  182  MATHEMATICS  You can see the truth of this result as follows: In Fig.
 10.30, AB is a line segment, which subtends equal angles at two points C and D. That is  d  ∠ ACB = ∠ ADB  he  To show that the points A, B, C and D lie on a circle let us draw a circle through the points A, C and B.
@@ -304,7 +323,8 @@ Therefore,  Fig.
 10.30  ∠ AEB = ∠ ADB.
 © no N C tt E o R be T re pu  This is not possible unless E coincides with D.
 (Why?)
-bl  ∠ ACB = ∠ AEB  is  If points A, C, E and B lie on a circle,  Similarly, E′ should also coincide with D.  10.8 Cyclic Quadrilaterals  A quadrilateral ABCD is called cyclic if all the four vertices of it lie on a circle (see Fig 10.31).
+bl  ∠ ACB = ∠ AEB  is  If points A, C, E and B lie on a circle,  Similarly, E′ should also coincide with D.  10.8 Cyclic Quadrilaterals  
+-true	A quadrilateral ABCD is called cyclic if all the four vertices of it lie on a circle (see Fig 10.31).
 You will find a peculiar property in such quadrilaterals.
 Draw several cyclic quadrilaterals of different sides and name each of these as ABCD.
 (This can be done by drawing several circles of different radii and taking four points on each of them.)
@@ -318,10 +338,12 @@ of Quadrilateral  ∠A  ∠B  ∠C  ∠D  1.
 6.
 What do you infer from the table?
 File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65  Fig.
-10.31  ∠ A +∠ C ∠ B +∠ D  C IRCLES  183  Theorem 10.11 : The sum of either pair of opposite angles of a cyclic quadrilateral is 180º.
+10.31  ∠ A +∠ C ∠ B +∠ D  C IRCLES  183  
+-true	Theorem 10.11 : The sum of either pair of opposite angles of a cyclic quadrilateral is 180º.
 he  In fact, the converse of this theorem, which is stated below is also true.
 d  You find that ∠A + ∠C = 180° and ∠B + ∠D = 180°, neglecting the error in measurements.
-This verifies the following:  Theorem 10.12 : If the sum of a pair of opposite angles of a quadrilateral is 180º, the quadrilateral is cyclic.
+This verifies the following:  
+-true	Theorem 10.12 : If the sum of a pair of opposite angles of a quadrilateral is 180º, the quadrilateral is cyclic.
 is  You can see the truth of this theorem by following a method similar to the method adopted for Theorem 10.10.  bl  Example 3 : In Fig.
 10.32, AB is a diameter of the circle, CD is a chord equal to the radius of the circle.
 AC and BD when extended intersect at a point E. Prove that ∠ AEB = 60°.
@@ -414,36 +436,37 @@ Through A any line segment PAQ is drawn so that P, Q lie on the two circles.
 Prove that BP = BQ.
 d  10.
 In any triangle ABC, if the angle bisector of ∠A and perpendicular bisector of BC intersect, prove that they intersect on the circumcircle of the triangle ABC.
-he  10.9 Summary In this chapter, you have studied the following points:  A circle is the collection of all points in a plane, which are equidistant from a fixed point in the plane.
+he  10.9 Summary In this chapter, you have studied the following points:  
+-true	A circle is the collection of all points in a plane, which are equidistant from a fixed point in the plane.
 2.
-Equal chords of a circle (or of congruent circles) subtend equal angles at the centre.
+-true	Equal chords of a circle (or of congruent circles) subtend equal angles at the centre.
 3.
-If the angles subtended by two chords of a circle (or of congruent circles) at the centre (corresponding centres) are equal, the chords are equal.
+-true	If the angles subtended by two chords of a circle (or of congruent circles) at the centre (corresponding centres) are equal, the chords are equal.
 4.
-The perpendicular from the centre of a circle to a chord bisects the chord.
+-true	The perpendicular from the centre of a circle to a chord bisects the chord.
 5.
-The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+-true	The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
 © no N C tt E o R be T re pu  bl  is  1.
 6.
-There is one and only one circle passing through three non-collinear points.
+-true	There is one and only one circle passing through three non-collinear points.
 7.
-Equal chords of a circle (or of congruent circles) are equidistant from the centre (or corresponding centres).
+-true	Equal chords of a circle (or of congruent circles) are equidistant from the centre (or corresponding centres).
 8.
-Chords equidistant from the centre (or corresponding centres) of a circle (or of congruent circles) are equal.
+-true	Chords equidistant from the centre (or corresponding centres) of a circle (or of congruent circles) are equal.
 9.
-If two arcs of a circle are congruent, then their corresponding chords are equal and conversely if two chords of a circle are equal, then their corresponding arcs (minor, major) are congruent.
+-true	If two arcs of a circle are congruent, then their corresponding chords are equal and conversely if two chords of a circle are equal, then their corresponding arcs (minor, major) are congruent.
 10.
-Congruent arcs of a circle subtend equal angles at the centre.
+-true	Congruent arcs of a circle subtend equal angles at the centre.
 11.
-The angle subtended by an arc at the centre is double the angle subtended by it at any point on the remaining part of the circle.
+-true	The angle subtended by an arc at the centre is double the angle subtended by it at any point on the remaining part of the circle.
 12.
-Angles in the same segment of a circle are equal.
+-true	Angles in the same segment of a circle are equal.
 13.
-Angle in a semicircle is a right angle.
+-true	Angle in a semicircle is a right angle.
 14.
-If a line segment joining two points subtends equal angles at two other points lying on the same side of the line containing the line segment, the four points lie on a circle.
+-true	If a line segment joining two points subtends equal angles at two other points lying on the same side of the line containing the line segment, the four points lie on a circle.
 15.
-The sum of either pair of opposite angles of a cyclic quadrilateral is 180 0.
+-true	The sum of either pair of opposite angles of a cyclic quadrilateral is 180 0.
 16.
-If sum of a pair of opposite angles of a quadrilateral is 1800, the quadrilateral is cyclic.
+-true	If sum of a pair of opposite angles of a quadrilateral is 1800, the quadrilateral is cyclic.
 File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65

@@ -8,7 +8,9 @@ Unit of measurement for length or breadth is taken as metre (m) or centimetre (c
 Unit of measurement for area of any plane figure is taken as square metre (m2) or square centimetre (cm2 ) etc.
 Suppose that you are sitting in a triangular garden.
 How would you find its area?
-From Chapter 9 and from your earlier classes, you know that: Area of a triangle =  1 × base × height 2  (I)  We see that when the triangle is right angled, we can directly apply the formula by using two sides containing the right angle as base and height.
+From Chapter 9 and from your earlier classes, you know that: 
+-true	Area of a triangle =  1 × base × height 2  (I)  
+We see that when the triangle is right angled, we can directly apply the formula by using two sides containing the right angle as base and height.
 For example, suppose that the sides of a right triangle ABC are 5 cm, 12 cm and 13 cm; we take base as 12 cm and height as 5 cm (see Fig.
 12.1).
 Then the Fig.
@@ -47,7 +49,8 @@ Book I deals with the area of squares, rectangles, triangles, trapezoids (trapez
 In this book, Heron has derived the famous formula for the area of a triangle in terms of its three sides.
 Heron (10AD – 75 AD) Fig.
 12.4  The formula given by Heron about the area of a triangle, is also known as Hero’s formula.
-It is stated as: Area of a triangle =  s( s a ) ( s  b ) (s  c)  (II)  where a, b and c are the sides of the triangle, and s = semi-perimeter, i.e., half the perimeter of the triangle =  a  b 2  c,  This formula is helpful where it is not possible to find the height of the triangle easily.
+It is stated as: 
+-true	Area of a triangle =  s( s a ) ( s  b ) (s  c)  (II)  where a, b and c are the sides of the triangle, and s = semi-perimeter, i.e., half the perimeter of the triangle =  a  b 2  c,  This formula is helpful where it is not possible to find the height of the triangle easily.
 Let us apply it to calculate the area of the triangular park ABC, mentioned above (see Fig.
 12.5).
 Let us take a = 40 m, b = 24 m, c = 32 m, so that we have s =  40  24 2  32  m = 48 m.  File Name : C:\Computer Station\Maths-IX\Chapter\Chap-12\Chap-12 (03-01-2006).PM65  200  MATHEMATICS  s – a = (48 – 40) m = 8 m, s – b = (48 – 24) m = 24 m, s – c = (48 – 32) m = 16 m. Therefore, area of the park ABC = =  s (s a ) (s 48 8  b) (s  24 16 m  2  c)  Fig.
@@ -177,5 +180,6 @@ Find the cost of polishing the tiles at the rate of 50p per cm2.
 A field is in the shape of a trapezium whose parallel sides are 25 m and 10 m. The non-parallel sides are 14 m and 13 m. Find the area of the field.
 12.4 Summary  Fig.
 12.18  In this chapter, you have studied the following points : 1.
-Area of a triangle with its sides as a, b and c is calculated by using Heron’s formula, stated as Area of triangle =  a) (s  b) (s  s=  a  c)  b c 2 Area of a quadrilateral whose sides and one diagonal are given, can be calculated by dividing the quadrilateral into two triangles and using the Heron’s formula.
+-true	Area of a triangle with its sides as a, b and c is calculated by using Heron’s formula, stated as Area of triangle =  a) (s  b) (s  s=  a  c)  b c 2 
+-true	Area of a quadrilateral whose sides and one diagonal are given, can be calculated by dividing the quadrilateral into two triangles and using the Heron’s formula.
 where  2.  s( s  File Name : C:\Computer Station\Maths-IX\Chapter\Chap-12\Chap-12 (03-01-2006).PM65
