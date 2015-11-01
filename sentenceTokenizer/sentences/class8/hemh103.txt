@@ -5,7 +5,7 @@ Match the following: (Caution!
 A figure may match to more than one type).
 Figure  Type  (1)  (a)  Simple closed curve  (2)  (b)  A closed curve that is not simple  (3)  (c)  Simple curve that is not closed  (4)  (d)  Not a simple curve  Compare your matchings with those of your friends.
 Do they agree?
-3.2 Polygons A simple closed curve made up of only line segments is called a polygon.
+-true	3.2 Polygons A simple closed curve made up of only line segments is called a polygon.
 Curves that are polygons  Curves that are not polygons  37  CHAPTER  3  38  MATHEMATICS  Try to give a few more examples and non-examples for a polygon.
 Draw a rough figure of a polygon and identify its sides and vertices.
 3.2.1 Classification of polygons We classify polygons according to the number of sides (or vertices) they have.
@@ -25,7 +25,7 @@ Study the figures given.
 Then try to describe in your own words what we mean by a convex polygon and what we mean by a concave polygon.
 Give two rough sketches of each kind.
 In our work in this class, we will be dealing with convex polygons only.
-3.2.4 Regular and irregular polygons A regular polygon is both ‘equiangular’ and ‘equilateral’.
+-true	3.2.4 Regular and irregular polygons A regular polygon is both ‘equiangular’ and ‘equilateral’.
 For example, a square has sides of equal length and angles of equal measure.
 Hence it is a regular polygon.
 A rectangle is equiangular but not equilateral.
@@ -173,7 +173,7 @@ Now place the other strip in a slant position over the lines drawn and use this 
 These four lines enclose a quadrilateral.
 This is made up of two pairs of parallel lines (Fig 3.17).
 Fig 3.16  Fig 3.17  UNDERSTANDING QUADRILATERALS  It is a parallelogram.
-A parallelogram is a quadrilateral whose opposite sides are parallel.
+-true	A parallelogram is a quadrilateral whose opposite sides are parallel.
 3.4.4 Elements of a parallelogram There are four sides and four angles in a parallelogram.
 Some of these are equal.
 There are some terms associated with these elements that you need to remember.
@@ -238,11 +238,11 @@ In parallelogram ABCD, (Fig 3.27).
 Can you say ‘why’?
 Fig 3.26  Fig 3.27  AD BC and BA is a transversal, making ∠A and ∠B interior opposite.
 Identify two more pairs of supplementary angles from the figure.
-Property: The adjacent angles in a parallelogram are supplementary.
+-true	Property: The adjacent angles in a parallelogram are supplementary.
 Example 5: In a parallelogram RING, (Fig 3.28) if m∠R = 70°, find all the other angles.
 Solution: Given m∠R = 70° Then m∠N = 70° because ∠R and ∠N are opposite angles of a parallelogram.
 Since ∠R and ∠I are supplementary, Also, Thus,  Fig 3.28  m∠I = 180° – 70° = 110° m∠G = 110° since ∠G is opposite to ∠I m∠R = m∠N = 70° and m∠I = m∠G = 110°  49  50  MATHEMATICS  THINK, DISCUSS AND WRITE After showing m∠R = m∠N = 70°, can you find m∠I and m∠G by any other method?
-3.4.6 Diagonals of a parallelogram The diagonals of a parallelogram, in general, are not of equal length.
+-true	3.4.6 Diagonals of a parallelogram The diagonals of a parallelogram, in general, are not of equal length.
 (Did you check this in your earlier activity?)
 However, the diagonals of a parallelogram have an interesting property.
 DO THIS Take a cut-out of a parallelogram, say, ABCD (Fig 3.29).
@@ -252,7 +252,7 @@ Is the mid-point same as O?
 Does this show that diagonal DB bisects the diagonal AC at the point O?
 Discuss it with your friends.
 Repeat the activity to find where the mid point of DB could lie.
-Property: The diagonals of a parallelogram bisect each other (at the point of their intersection, of course!)
+-true	Property: The diagonals of a parallelogram bisect each other (at the point of their intersection, of course!)
 To argue and justify this property is not very difficult.
 From Fig 3.30, applying ASA criterion, it is easy to see that Fig 3.30 ∆ AOB ≅ ∆ COD (How is ASA used here?)
 This gives AO = CO and BO = DO Example 6: In Fig 3.31 HELP is a parallelogram.
@@ -304,8 +304,8 @@ Kite-cut  Rhombus-cut  When you cut along ABC and opened up, you got a kite.
 Here lengths AB and BC were different.
 If you draw AB = BC, then the kite you obtain is called a rhombus.
 Note that the sides of rhombus are all of same length; this is not the case with the kite.
-A rhombus is a quadrilateral with sides of equal length.
-Since the opposite sides of a rhombus have the same length, it is also a parallelogram.
+-true	A rhombus is a quadrilateral with sides of equal length.
+-true	Since the opposite sides of a rhombus have the same length, it is also a parallelogram.
 So, a rhombus has all the properties of a parallelogram and also that of a kite.
 Try to list them out.
 You can then verify your list with the check list summarised in the book elsewhere.
@@ -330,11 +330,11 @@ If the rectangle is to be equiangular, what could be the measure of each angle?
 Fig 3.37  Let the measure of each angle be x°.
 Then Therefore,  4x° = 360°  (Why)?
 x° = 90°  Thus each angle of a rectangle is a right angle.
-So, a rectangle is a parallelogram in which every angle is a right angle.
+-true	So, a rectangle is a parallelogram in which every angle is a right angle.
 Being a parallelogram, the rectangle has opposite sides of equal length and its diagonals bisect each other.
 53  54  MATHEMATICS  In a parallelogram, the diagonals can be of different lengths.
 (Check this); but surprisingly the rectangle (being a special case) has diagonals of equal length.
-Property: The diagonals of a rectangle are of equal length.
+-true	Property: The diagonals of a rectangle are of equal length.
 Fig 3.38  Fig 3.39  Fig 3.40  This is easy to justify.
 If ABCD is a rectangle (Fig 3.38), then looking at triangles ABC and ABD separately [(Fig 3.39) and (Fig 3.40) respectively], we have ∆ ABC ≅ ∆ ABD This is because AB = AB (Common) BC = AD (Why?)
 m ∠A = m ∠B = 90° (Why?)
@@ -347,17 +347,17 @@ Solution: OT is half of the diagonal TE ,  OR is half of the diagonal RN .
 Diagonals are equal here.
 (Why?)
 So, their halves are also equal.
-Therefore 3x + 1 = 2x + 4 or x=3 3.5.3 A square A square is a rectangle with equal sides.
+-true	Therefore 3x + 1 = 2x + 4 or x=3 3.5.3 A square A square is a rectangle with equal sides.
 This means a square has all the properties of a rectangle with an additional requirement that all the sides have equal length.
 The square, like the rectangle, has diagonals of equal length.
 In a rectangle, there is no requirement for the diagonals to be perpendicular to one another, (Check this).
 Fig 3.41  BELT is a square, BE = EL = LT = TB ∠B, ∠E, ∠L, ∠T are right angles.
 BL = ET and BL ⊥ ET .
 OB = OL and OE = OT.
-UNDERSTANDING QUADRILATERALS  In a square the diagonals.
+-notsure	UNDERSTANDING QUADRILATERALS  In a square the diagonals.
 (i) bisect one another (square being a parallelogram) (ii) are of equal length (square being a rectangle) and (iii) are perpendicular to one another.
 Hence, we get the following property.
-Property: The diagonals of a square are perpendicular bisectors of each other.
+-true	Property: The diagonals of a square are perpendicular bisectors of each other.
 DO THIS Take a square sheet, say PQRS (Fig 3.42).
 Fold along both the diagonals.
 Are their mid-points the same?
