@@ -43,7 +43,7 @@
 **-true	The region between an arc and the two radii, joining the centre to the end points of the arc is called a sector.**
 **-true	Like segments, you find that the minor arc corresponds to the minor sector and the major arc corresponds to the major sector.**
 **OPQ is the minor sector and remaining part of the circular region is the major sector.**
-**I	When two arcs are equal, that is, each is a semicircle, then both segments and both sectors become the same and each is known as a semicircular region.**
+**-true	When two arcs are equal, that is, each is a semicircle, then both segments and both sectors become the same and each is known as a semicircular region.**
 **File Name : C:\Computer Station\Maths-IX\Chapter\Chap-10\Chap-10 (03-01-2006).PM65  Fig.**
 **C   171   10.1 Fill in the blanks: (i)  The centre of a circle lies in  of the circle.**
 **The longest chord of a circle is a (iv) An arc is a  of the circle.**

@@ -1,0 +1,188 @@
+195  he  bl  9.1 Introduction  9  is  SOME APPLICATIONS OF TRIGONOMETRY  d  S OME A PPLICATIONS OF TRIGONOMETRY  © no N C tt E o R be T re pu  In the previous chapter, you have studied about trigonometric ratios.
+In this chapter, you will be studying about some ways in which trigonometry is used in the life around you.
+Trigonometry is one of the most ancient subjects studied by scholars all over the world.
+As we have said in Chapter 8, trigonometry was invented because its need arose in astronomy.
+Since then the astronomers have used it, for instance, to calculate distances from the Earth to the planets and stars.
+Trigonometry is also used in geography and in navigation.
+The knowledge of trigonometry is used to construct maps, determine the position of an island in relation to the longitudes and latitudes.
+Surveyors have used trigonometry for centuries.
+One such large surveying project of the nineteenth century was the ‘Great Trigonometric Survey’ of British India for which the two largest-ever theodolites were built.
+During the survey in 1852, the highest mountain in the world was discovered.
+From a distance of over 160 km, the peak was observed from six different stations.
+In 1856, this peak was named after Sir George Everest, who had A Theodolite commissioned and first used the giant (Surveying instrument, which is based theodolites (see the figure alongside).
+The on the Principles of trigonometry, is theodolites are now on display in the used for measuring angles with a Museum of the Survey of India in rotating telescope) Dehradun.
+196  MATHEMATICS  In this chapter, we will see how trigonometry is used for finding the heights and distances of various objects, without actually measuring them.
+© no N C tt E o R be T re pu  bl  is  he  Let us consider Fig.
+8.1 of prvious chapter, which is redrawn below in Fig.
+9.1.  d  9.2 Heights and Distances  Fig.
+9.1  In this figure, the line AC drawn from the eye of the student to the top of the minar is called the line of sight.
+The student is looking at the top of the minar.
+The angle BAC, so formed by the line of sight with the horizontal, is called the angle of elevation of the top of the minar from the eye of the student.
+Thus, the line of sight is the line drawn from the eye of an observer to the point in the object viewed by the observer.
+The angle of elevation of the point viewed is the angle formed by the line of sight with the horizontal when the point being viewed is above the horizontal level, i.e., the case when we raise our head to look at the object (see Fig.
+9.2).
+Fig.
+9.2  S OME A PPLICATIONS OF TRIGONOMETRY  197  d  Now, consider the situation given in Fig.
+8.2.
+The girl sitting on the balcony is looking down at a flower pot placed on a stair of the temple.
+In this case, the line of sight is below the horizontal level.
+The angle so formed by the line of sight with the horizontal is called the angle of depression.
+© no N C tt E o R be T re pu  bl  is  he  Thus, the angle of depression of a point on the object being viewed is the angle formed by the line of sight with the horizontal when the point is below the horizontal level, i.e., the case when we lower our head to look at the point being viewed (see Fig.
+9.3).
+Fig.
+9.3  Now, you may identify the lines of sight, and the angles so formed in Fig.
+8.3.
+Are they angles of elevation or angles of depression?
+Let us refer to Fig.
+9.1 again.
+If you want to find the height CD of the minar without actually measuring it, what information do you need?
+You would need to know the following: (i) the distance DE at which the student is standing from the foot of the minar  (ii) the angle of elevation, ∠ BAC, of the top of the minar  (iii) the height AE of the student.
+Assuming that the above three conditions are known, how can we determine the height of the minar?
+In the figure, CD = CB + BD.
+Here, BD = AE, which is the height of the student.
+To find BC, we will use trigonometric ratios of ∠ BAC or ∠ A.
+In Δ ABC, the side BC is the opposite side in relation to the known ∠ A.
+Now, which of the trigonometric ratios can we use?
+Which one of them has the two values that we have and the one we need to determine?
+Our search narrows down to using either tan A or cot A, as these ratios involve AB and BC.
+198  MATHEMATICS  Therefore, tan A =  BC AB , or cot A = which on solving would give us BC.
+AB BC  d  By adding AE to BC, you will get the height of the minar.
+he  Now let us explain the process, we have just discussed, by solving some problems.
+© no N C tt E o R be T re pu  To solve the problem, we choose the trigonometric ratio tan 60° (or cot 60°), as the ratio involves AB and BC.
+bl  Solution : First let us draw a simple diagram to represent the problem (see Fig.
+9.4).
+Here AB represents the tower, CB is the distance of the point from the tower and ∠ ACB is the angle of elevation.
+We need to determine the height of the tower, i.e., AB.
+Also, ACB is a triangle, right -angled at B.  is  Example 1 : A tower stands vertically on the ground.
+From a point on the ground, which is 15 m away from the foot of the tower, the angle of elevation of the top of the tower is found to be 60°.
+Find the height of the tower.
+Now,  tan 60° =  AB BC  3 =  AB 15  i.e., i.e.,  Fig.
+9.4  AB = 15 3  Hence, the height of the tower is 15 3 m.  Example 2 : An electrician has to repair an electric fault on a pole of height 5 m. She needs to reach a point 1.3m below the top of the pole to undertake the repair work (see Fig.
+9.5).
+What should be the length of the ladder that she should use which, when inclined at an angle of 60° to the horizontal, would enable her to reach the required position?
+Also, how far from the foot of the pole should she place the foot of the ladder?
+(You may take  3 = 1.73)  Fig.
+9.5  S OME A PPLICATIONS OF TRIGONOMETRY  199  Solution : In Fig.
+9.5, the electrician is required to reach the point B on the pole AD.
+So,  BD = AD – AB = (5 – 1.3)m = 3.7 m.  d  Here, BC represents the ladder.
+We need to find its length, i.e., the hypotenuse of the right triangle BDC.
+he  Now, can you think which trigonometic ratio should we consider?
+So,  BD 3.7 3 = sin 60° or = BC BC 2  Therefore,  BC =  3  = 4.28 m (approx.)
+i.e., the length of the ladder should be 4.28 m. DC 1 = cot 60° = BD 3  i.e.,  DC =  © no N C tt E o R be T re pu  Now,  bl  3.7 × 2  is  It should be sin 60°.
+3.7 3  = 2.14 m (approx.)
+Therefore, she should place the foot of the ladder at a distance of 2.14 m from the pole.
+Example 3 : An observer 1.5 m tall is 28.5 m away from a chimney.
+The angle of elevation of the top of the chimney from her eyes is 45°.
+What is the height of the chimney?
+Solution : Here, AB is the chimney, CD the observer and ∠ ADE the angle of elevation (see Fig.
+9.6).
+In this case, ADE is a triangle, right-angled at E and we are required to find the height of the chimney.
+We have  AB = AE + BE = AE + 1.5  and  DE = CB = 28.5 m  Fig.
+9.6  To determine AE, we choose a trigonometric ratio, which involves both AE and DE.
+Let us choose the tangent of the angle of elevation.
+200  i.e.,  1=  Therefore,  AE DE AE 28.5  d  tan 45° =  AE = 28.5  he  Now,  MATHEMATICS  So the height of the chimney (AB) = (28.5 + 1.5) m = 30 m.  bl  is  Example 4 : From a point P on the ground the angle of elevation of the top of a 10 m tall building is 30°.
+A flag is hoisted at the top of the building and the angle of elevation of the top of the flagstaff from P is 45°.
+Find the length of the flagstaff and the distance of the building from the point P. (You may take 3 = 1.732)  © no N C tt E o R be T re pu  Solution : In Fig.
+9.7, AB denotes the height of the building, BD the flagstaff and P the given point.
+Note that there are two right triangles PAB and PAD.
+We are required to find the length of the flagstaff, i.e., DB and the distance of the building from the point P, i.e., PA.
+Since, we know the height of the building AB, we will first consider the right Δ PAB.
+We have  tan 30° =  i.e.,  Therefore,  1  3  =  AB AP  10 AP  AP = 10 3  Fig.
+9.7  i.e., the distance of the building from P is 10 3 m = 17.32 m.  Next, let us suppose DB = x m. Then AD = (10 + x) m. Now, in right Δ PAD,  Therefore,  tan 45° =  1=  AD 10 + x = AP 10 3  10 + x 10 3  S OME A PPLICATIONS OF TRIGONOMETRY  i.e.,  x = 10  201  (  )  3 − 1 = 7.32  d  So, the length of the flagstaff is 7.32 m.  is bl  Solution : In Fig.
+9.8, AB is the tower and BC is the length of the shadow when the Sun’s altitude is 60°, i.e., the angle of elevation of the top of the tower from the tip of the shadow is 60° and DB is the length of the shadow, when the angle of elevation is 30°.
+he  Example 5 : The shadow of a tower standing on a level ground is found to be 40 m longer when the Sun’s altitude is 30° than when it is 60°.
+Find the height of the tower.
+Fig.
+9.8  © no N C tt E o R be T re pu  Now, let AB be h m and BC be x m. According to the question, DB is 40 m longer than BC.
+So,  DB = (40 + x) m  Now, we have two right triangles ABC and ABD.
+In Δ ABC, or,  In Δ ABD,  i.e.,  From (1), we have  AB BC h 3 = x AB tan 30° = BD h 1 = x + 40 3  tan 60° =  (1)  (2)  h= x 3  ( )  Putting this value in (2), we get x 3  i.e.,  x = 20  So,  h = 20 3  3 = x + 40, i.e., 3x = x + 40  Therefore, the height of the tower is 20 3 m.  [From (1)]  202  MATHEMATICS  Example 6 : The angles of depression of the top and the bottom of an 8 m tall building from the top of a multi-storeyed building are 30° and 45°, respectively.
+Find the height of the multi-storeyed building and the distance between the two buildings.
+he  d  Solution : In Fig.
+9.9, PC denotes the multistoryed building and AB denotes the 8 m tall building.
+We are interested to determine the height of the multi-storeyed building, i.e., PC and the distance between the two buildings, i.e., AC.
+bl  is  Look at the figure carefully.
+Observe that PB is a transversal to the parallel lines PQ and BD.
+Therefore, ∠ QPB and ∠ PBD are alternate angles, and so are equal.
+So ∠ PBD = 30°.
+Similarly, ∠ PAC = 45°.
+Fig.
+9.9  © no N C tt E o R be T re pu  In right Δ PBD, we have  PD 1 = tan 30° = or BD = PD 3 BD 3  In right Δ PAC, we have  PC = tan 45° = 1 AC  i.e.,  PC = AC  Also,  PC = PD + DC, therefore, PD + DC = AC.
+Since, AC = BD and DC = AB = 8 m, we get PD + 8 = BD = PD 3 (Why?)
+8  (  )  3+ 1  = 4 ( 3 + 1) m. ) 3 + 1 ) + 8} m = 4 ( 3 + 3 ) m and the distance between the two buildings is also 4 ( 3 + 3 ) m. 8  =  )( So, the height of the multi-storeyed building is {4 (  This gives  PD =  3 −1  (  3 +1  3−1  Example 7 : From a point on a bridge across a river, the angles of depression of the banks on opposite sides of the river are 30° and 45°, respectively.
+If the bridge is at a height of 3 m from the banks, find the width of the river.
+203  Solution : In Fig 9.10, A and B represent points on the bank on opposite sides of the river, so that AB is the width of the river.
+P is a point on the bridge at a height of 3 m, i.e., DP = 3 m. We are interested to determine the width of the river, which is the length of the side AB of the Δ APB.
+AB = AD + DB  1  =  PD AD 3 or AD = 3 3 m AD  © no N C tt E o R be T re pu  i.e.,  tan 30° =  bl  In right Δ APD, ∠ A = 30°.
+So,  he  Fig.
+9.10  is  Now,  d  S OME A PPLICATIONS OF TRIGONOMETRY  3  Also, in right Δ PBD, ∠ B = 45°.
+So, BD = PD = 3 m.  Now,  AB = BD + AD = 3 + 3 3 = 3 (1 +  Therefore, the width of the river is 3  (  3 ) m.  )  3 + 1 m.  EXERCISE 9.1  1.
+A circus artist is climbing a 20 m long rope, which is tightly stretched and tied from the top of a vertical pole to the ground.
+Find the height of the pole, if the angle made by the rope with the ground level is 30° (see Fig.
+9.11).
+2.
+A tree breaks due to storm and the broken part bends so that the top of the tree touches the ground making an angle 30° with it.
+The distance between the foot of the tree to the point where the top touches the ground is 8 m. Find the height of the tree.
+Fig.
+9.11  3.
+A contractor plans to install two slides for the children to play in a park.
+For the children below the age of 5 years, she prefers to have a slide whose top is at a height of 1.5 m, and  204  MATHEMATICS is inclined at an angle of 30° to the ground, whereas for elder children, she wants to have a steep slide at a height of 3m, and inclined at an angle of 60° to the ground.
+What should be the length of the slide in each case?
+d  4.
+The angle of elevation of the top of a tower from a point on the ground, which is 30 m away from the foot of the tower, is 30°.
+Find the height of the tower.
+he  5.
+A kite is flying at a height of 60 m above the ground.
+The string attached to the kite is temporarily tied to a point on the ground.
+The inclination of the string with the ground is 60°.
+Find the length of the string, assuming that there is no slack in the string.
+is  6.
+A 1.5 m tall boy is standing at some distance from a 30 m tall building.
+The angle of elevation from his eyes to the top of the building increases from 30° to 60° as he walks towards the building.
+Find the distance he walked towards the building.
+bl  7.
+From a point on the ground, the angles of elevation of the bottom and the top of a transmission tower fixed at the top of a 20 m high building are 45° and 60° respectively.
+Find the height of the tower.
+© no N C tt E o R be T re pu  8.
+A statue, 1.6 m tall, stands on the top of a pedestal.
+From a point on the ground, the angle of elevation of the top of the statue is 60° and from the same point the angle of elevation of the top of the pedestal is 45°.
+Find the height of the pedestal.
+9.
+The angle of elevation of the top of a building from the foot of the tower is 30° and the angle of elevation of the top of the tower from the foot of the building is 60°.
+If the tower is 50 m high, find the height of the building.
+10.
+Two poles of equal heights are standing opposite each other on either side of the road, which is 80 m wide.
+From a point between them on the road, the angles of elevation of the top of the poles are 60° and 30°, respectively.
+Find the height of the poles and the distances of the point from the poles.
+11.
+A TV tower stands vertically on a bank of a canal.
+From a point on the other bank directly opposite the tower, the angle of elevation of the top of the tower is 60°.
+From another point 20 m away from this point on the line joing this point to the foot of the tower, the angle of elevation of the top of the tower is 30° (see Fig.
+9.12).
+Find the height of the tower and the width of the canal.
+Fig.
+9.12  12.
+From the top of a 7 m high building, the angle of elevation of the top of a cable tower is 60° and the angle of depression of its foot is 45°.
+Determine the height of the tower.
+13.
+As observed from the top of a 75 m high lighthouse from the sea-level, the angles of depression of two ships are 30° and 45°.
+If one ship is exactly behind the other on the same side of the lighthouse, find the distance between the two ships.
+he  Fig.
+9.13  is  14.
+A 1.2 m tall girl spots a balloon moving with the wind in a horizontal line at a height of 88.2 m from the ground.
+The angle of elevation of the balloon from the eyes of the girl at any instant is 60°.
+After some time, the angle of elevation reduces to 30° (see Fig.
+9.13).
+Find the distance travelled by the balloon during the interval.
+205  d  S OME A PPLICATIONS OF TRIGONOMETRY  bl  15.
+A straight highway leads to the foot of a tower.
+A man standing at the top of the tower observes a car at an angle of depression of 30°, which is approaching the foot of the tower with a uniform speed.
+Six seconds later, the angle of depression of the car is found to be 60°.
+Find the time taken by the car to reach the foot of the tower from this point.
+© no N C tt E o R be T re pu  16.
+The angles of elevation of the top of a tower from two points at a distance of 4 m and 9 m from the base of the tower and in the same straight line with it are complementary.
+Prove that the height of the tower is 6 m.  9.3 Summary  In this chapter, you have studied the following points :  1.
+(i) The line of sight is the line drawn from the eye of an observer to the point in the object viewed by the observer.
+(ii) The angle of elevation of an object viewed, is the angle formed by the line of sight with the horizontal when it is above the horizontal level, i.e., the case when we raise our head to look at the object.
+(iii) The angle of depression of an object viewed, is the angle formed by the line of sight with the horizontal when it is below the horizontal level, i.e., the case when we lower our head to look at the object.
+2.
+The height or length of an object or the distance between two distant objects can be determined with the help of trigonometric ratios.

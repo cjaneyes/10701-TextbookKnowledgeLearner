@@ -1,0 +1,372 @@
+-true	113  The Triangle and its Properties 6.1 INTRODUCTION A triangle, you have seen, is a simple closed curve made of three line segments.
+It has three vertices, three sides and three angles.
+Here is ΔABC (Fig 6.1).
+It has Fig 6.1 Sides: AB , BC , CA Angles: ∠BAC, ∠ABC, ∠BCA Vertices: A, B, C The side opposite to the vertex A is BC.
+Can you name the angle opposite to the side AB?
+You know how to classify triangles based on the (i) sides (ii) angles.
+(i) Based on Sides: Scalene, Isosceles and Equilateral triangles.
+(ii) Based on Angles: Acute-angled, Obtuse-angled and Right-angled triangles.
+Make paper-cut models of the above triangular shapes.
+Compare your models with those of your friends and discuss about them.
+TRY THESE 1.
+Write the six elements (i.e., the 3 sides and the 3 angles) of ΔABC.
+2.
+Write the: (i) Side opposite to the vertex Q of ΔPQR (ii) Angle opposite to the side LM of ΔLMN (iii) Vertex opposite to the side RT of ΔRST 3.
+Look at Fig 6.2 and classify each of the triangles according to its (a) Sides (b) Angles  Chapter 6  THE TRIANGLE AND ITS PROPERTIES  MATHEMATICS  P 10 cm  114  Q  L  8cm  7cm M  6cm R (ii)  7cm (iii)  N  Fig 6.2  Now, let us try to explore something more about triangles.
+6.2 MEDIANS  OF A  TRIANGLE  Given a line segment, you know how to find its perpendicular bisector by paper folding.
+Cut out a triangle ABC from a piece of paper (Fig 6.3).
+Consider any one of its sides, say,  BC .
+By paper-folding, locate the perpendicular bisector of BC .
+The folded crease meets BC at D, its mid-point.
+Join  AD .
+-true	A  B  D  A  C  B  D  C  Fig 6.3  The line segment AD, joining the mid-point of BC to its opposite vertex A is called a median of the triangle.
+Consider the sides AB and CA and find two more medians of the triangle.
+-true	A median connects a vertex of a triangle to the mid-point of the opposite side.
+THINK, DISCUSS  AND  WRITE  1.
+How many medians can a triangle have?
+2.
+Does a median lie wholly in the interior of the triangle?
+(If you think that this is not true, draw a figure to show such a case).
+115  THE TRIANGLE AND ITS PROPERTIES  6.3 ALTITUDES  OF A  A  TRIANGLE  Make a triangular shaped cardboard ABC.
+Place it upright on a table.
+How ‘tall’ is the triangle?
+The height is the distance from  B  C  vertex A (in the Fig 6.4) to the base BC .
+From A to BC , you can think of many line segments (see the next Fig 6.5).
+Which among them will represent its height?
+The height is given by the line segment that starts from A,  Fig 6.4  A  comes straight down to BC , and is perpendicular to BC .
+This line segment AL is an altitude of the triangle.
+An altitude has one end point at a vertex of the triangle and the other on the line containing the opposite side.
+Through each vertex, an altitude can be drawn.
+THINK, DISCUSS  AND  B Fig 6.5  L  C  WRITE  1.
+How many altitudes can a triangle have?
+2.
+Draw rough sketches of altitudes from A to BC for the following triangles (Fig 6.6): A A  B  Acute-angled (i)  C  B  Right-angled (ii)  C  B  C  Obtuse-angled (iii)  Fig 6.6  3.
+Will an altitude always lie in the interior of a triangle?
+If you think that this need not be true, draw a rough sketch to show such a case.
+4.
+Can you think of a triangle in which two altitudes of the triangle are two of its sides?
+5.
+Can the altitude and median be same for a triangle?
+(Hint: For Q.No.
+4 and 5, investigate by drawing the altitudes for every type of triangle).
+DO THIS Take several cut-outs of (i) an equilateral triangle  (ii) an isosceles triangle and  (iii) a scalene triangle.
+Find their altitudes and medians.
+Do you find anything special about them?
+Discuss it with your friends.
+A  116  MATHEMATICS  EXERCISE 6.1 1.
+In Δ PQR, D is the mid-point of QR .
+P  PM is _________________.
+PD is _________________.
+Is QM = MR?
+Q R M D 2.
+Draw rough sketches for the following: (a) In ΔABC, BE is a median.
+(b) In ΔPQR, PQ and PR are altitudes of the triangle.
+(c) In ΔXYZ, YL is an altitude in the exterior of the triangle.
+3.
+Verify by drawing a diagram if the median and altitude of an isosceles triangle can be same.
+6.4 EXTERIOR ANGLE  OF A  TRIANGLE  AND ITS  PROPERTY  DO THIS 1.
+Draw a triangle ABC and produce one of its sides, say BC as shown in Fig 6.7.
+Observe the angle ACD formed at the point C. This angle lies in the exterior of ΔABC.
+We call it an exterior angle of the ΔABC formed at vertex C. Clearly ∠BCA is an adjacent angle to ∠ACD.
+The Fig 6.7 remaining two angles of the triangle namely ∠A and ∠B are called the two interior opposite angles or the two remote interior angles of ∠ACD.
+Now cut out (or make trace copies of) ∠A and ∠B and place them adjacent to each other as shown in Fig 6.8.
+Do these two pieces together entirely cover ∠ACD?
+Can you say that m ∠ACD = m ∠A + m ∠B?
+2.
+As done earlier, draw a triangle ABC and form an exterior angle ACD.
+Now take a protractor and measure ∠ACD, ∠A and ∠B.
+Find the sum ∠A + ∠B and compare it with the measure of ∠ACD.
+Do you observe that ∠ACD is equal (or nearly equal, if there is an error in measurement) to ∠A + ∠B?
+Fig 6.8  THE TRIANGLE AND ITS PROPERTIES  You may repeat the two activities as mentioned by drawing some more triangles along with their exterior angles.
+Every time, you will find that the exterior angle of a triangle is equal to the sum of its two interior opposite angles.
+A logical step-by-step argument can further confirm this fact.
+-true	An exterior angle of a triangle is equal to the sum of its interior opposite angles.
+Given: Consider ΔABC.
+∠ACD is an exterior angle.
+To Show: m∠ACD = m∠A + m∠B Through C draw CE , parallel to BA .
+Fig 6.9 Justification  Steps (a) ∠1 = ∠x  Reasons BA || CE and AC is a transversal.
+Therefore, alternate angles should be equal.
+(b) ∠2 = ∠y  BA || CE and BD is a transversal.
+Therefore, corresponding angles should be equal.
+(c) ∠1 + ∠2 = ∠x + ∠y (d) Now, ∠x + ∠y = m ∠ACD From Fig 6.9 Hence, ∠1 + ∠2 = ∠ACD The above relation between an exterior angle and its two interior opposite angles is referred to as the Exterior Angle Property of a triangle.
+THINK, DISCUSS  AND  WRITE  1.
+Exterior angles can be formed for a triangle in many ways.
+Three of them are shown here (Fig 6.10)  Fig 6.10  There are three more ways of getting exterior angles.
+Try to produce those rough sketches.
+2.
+Are the exterior angles formed at each vertex of a triangle equal?
+3.
+What can you say about the sum of an exterior angle of a triangle and its adjacent interior angle?
+117  118  MATHEMATICS  EXAMPLE 1 Find angle x in Fig 6.11.
+SOLUTION or or  Sum of interior opposite angles = Exterior angle 50° + x = 110° x = 60°  THINK, DISCUSS  Fig 6.11  AND  WRITE  1.
+What can you say about each of the interior opposite angles, when the exterior angle is (i) a right angle?
+(ii) an obtuse angle?
+(iii) an acute angle?
+2.
+Can the exterior angle of a triangle be a straight angle?
+TRY THESE  Fig 6.12  1.
+An exterior angle of a triangle is of measure 70º and one of its interior opposite angles is of measure 25º.
+Find the measure of the other interior opposite angle.
+2.
+The two interior opposite angles of an exterior angle of a triangle are 60º and 80º.
+Find the measure of the exterior angle.
+3.
+Is something wrong in this diagram (Fig 6.12)?
+Comment.
+EXERCISE 6.2 1.
+Find the value of the unknown exterior angle x in the following diagrams:  THE TRIANGLE AND ITS PROPERTIES  2.
+Find the value of the unknown interior angle x in the following figures:  6.5 ANGLE SUM PROPERTY  OF A  TRIANGLE  There is a remarkable property connecting the three angles of a triangle.
+You are going to see this through the following four activities.
+1.
+Draw a triangle.
+Cut on the three angles.
+Rearrange them as shown in Fig 6.13 (i), (ii).
+The three angles now constitute one angle.
+This angle is a straight angle and so has measure 180°.
+(i)  (ii) Fig 6.13  Thus, the sum of the measures of the three angles of a triangle is 180°.
+2.
+The same fact you can observe in a different way also.
+Take three copies of any triangle, say ΔABC (Fig 6.14).
+Fig 6.14  119  120  MATHEMATICS  Arrange them as in Fig 6.15.
+What do you observe about ∠1 + ∠2 + ∠3?
+(Do you also see the ‘exterior angle property’?)
+Fig 6.15  3.
+Take a piece of paper and cut out a triangle, say, ΔABC (Fig 6.16).
+Make the altitude AM by folding ΔABC such that it passes through A.
+Fold now the three corners such that all the three vertices A, B and C touch at M. A  A  (i)  (ii)  M  B  B  (iii)  A C M  C  Fig 6.16  You find that all the three angles form together a straight angle.
+This again shows that the sum of the measures of the three angles of a triangle is 180°.
+4.
+Draw any three triangles, say ΔABC, ΔPQR and ΔXYZ in your notebook.
+Use your protractor and measure each of the angles of these triangles.
+Tabulate your results Name of Δ ΔABC ΔPQR ΔXYZ  Measures of Angles m∠A = m∠P = m∠X =  m∠B = m∠Q = m∠Y =  m∠C = m∠R = m∠Z =  Sum of the Measures of the three Angles m∠A + m∠B + m∠C = m∠P + m∠Q + m∠R = m∠X + m∠Y + m∠Z =  Allowing marginal errors in measurement, you will find that the last column always gives 180° (or nearly 180°).
+When perfect precision is possible, this will also show that the sum of the measures of the three angles of a triangle is 180°.
+You are now ready to give a formal justification of your assertion through logical argument.
+-true	Statement The total measure of the three angles of a triangle is 180°.
+To justify this let us use the exterior angle property of a triangle.
+Fig 6.17  121  THE TRIANGLE AND ITS PROPERTIES  ∠1, ∠2, ∠3 are angles of ΔABC (Fig 6.17).
+∠4 is the exterior angle when BC is extended to D. Justification ∠1 + ∠2 = ∠4 (by exterior angle property) ∠1 + ∠2 + ∠3 = ∠4 + ∠3 (adding ∠3 to both the sides) But ∠4 and ∠3 form a linear pair so it is 180°.
+Therefore, ∠1 + ∠2 + ∠3 = 180°.
+Let us see how we can use this property in a number of ways.
+Given  P  EXAMPLE 2 In the given figure (Fig 6.18) find m∠P.
+SOLUTION By angle sum property of a triangle, Therefore  m∠P + 47° + 52° = 180° m∠P = 180° – 47° – 52° = 180° – 99° = 81°  EXERCISE 6.3 1.
+Find the value of the unknown x in the following diagrams:  2.
+Find the values of the unknowns x and y in the following diagrams:  Q  47°  52° R Fig 6.18  122  MATHEMATICS  TRY THESE 1.
+Two angles of a triangle are 30º and 80º.
+Find the third angle.
+2.
+One of the angles of a triangle is 80º and the other two angles are equal.
+Find the measure of each of the equal angles.
+3.
+The three angles of a triangle are in the ratio 1:2:1.
+Find all the angles of the triangle.
+Classify the triangle in two different ways.
+THINK, DISCUSS  AND  WRITE  1.
+Can you have a triangle with two right angles?
+2.
+Can you have a triangle with two obtuse angles?
+3.
+Can you have a triangle with two acute angles?
+4.
+Can you have a triangle with all the three angles greater than 60º?
+5.
+Can you have a triangle with all the three angles equal to 60º?
+6.
+Can you have a triangle with all the three angles less than 60º?
+-true	6.6 TWO SPECIAL TRIANGLES : EQUILATERAL AND ISOSCELES A triangle in which all the three sides are of equal lengths is called an equilateral triangle.
+Take two copies of an equilateral triangle ABC (Fig 6.19).
+Keep one of them fixed.
+Place the second triangle on it.
+It fits exactly into the first.
+Turn it round in any way and still they fit with one another exactly.
+Are you able to see that when the three sides of a A triangle have equal lengths then the three angles are also of the same size?
+-notsure	We conclude that in an equilateral triangle: (i) all sides have same length.
+-notsure	(ii) each angle has measure 60°.
+C  B  (i)  (ii) Fig 6.19  -true	THE TRIANGLE AND ITS PROPERTIES  A triangle in which two sides are of equal lengths is called an isosceles triangle.
+Fig 6.20  From a piece of paper cut out an isosceles triangle XYZ, with XY=XZ (Fig 6.20).
+Fold it such that Z lies on Y.
+The line XM through X is now the axis of symmetry (which you will read in Chapter 14).
+You find that ∠Y and ∠Z fit on each other exactly.
+XY and XZ are called equal sides; YZ is called the base; ∠Y and ∠Z are called base angles and these are also equal.
+-notsure	Thus, in an isosceles triangle: (i) two sides have same length.
+-notsure	(ii) base angles opposite to the equal sides are equal.
+TRY THESE 1.
+Find angle x in each figure:  123  124  MATHEMATICS  2.
+Find angles x and y in each figure.
+6.7 SUM OF THE LENGTHS OF TWO SIDES OF A TRIANGLE 1.Mark three non-collinear spots A, B and C in your playground.
+Using lime powder mark the paths AB, BC and AC.
+Ask your friend to start from A and reach C, walking along one or more of these paths.
+She can, for example, walk first along AB and then along BC to reach C; or she can walk straight along AC .
+She will naturally  Fig 6.21  prefer the direct path AC.
+If she takes the other path ( AB and then BC ), she will have to walk more.
+-notsrue	In other words, AB + BC > AC (i) Similarly, if one were to start from B and go to A, he or she will not take the route BC and CA but will prefer BA This is because BC + CA > AB By a similar argument, you find that CA + AB > BC  (ii)  (iii) These observations suggest that the sum of the lengths of any two sides of a triangle is greater than the third side.
+2.
+Collect fifteen small sticks (or strips) of different lengths, say, 6 cm, 7 cm, 8 cm, 9 cm, ..., 20 cm.
+Take any three of these sticks and try to form a triangle.
+Repeat this by choosing different combinations of three sticks.
+Suppose you first choose two sticks of length 6 cm and 12 cm.
+Your third stick has to be of length more than 12 – 6 = 6 cm and less than 12 + 6 = 18 cm.
+Try this and find out why it is so.
+To form a triangle you will need any three sticks such that the sum of the lengths of any two of them will always be greater than the length of the third stick.
+This also suggests that the sum of the lengths of any two sides of a triangle is greater than the third side.
+THE TRIANGLE AND ITS PROPERTIES  3.
+Draw any three triangles, say ΔABC, ΔPQR and ΔXYZ in your notebook (Fig 6.22).
+R A  B  C  (i)  P  Q  (ii)  (iii)  Fig 6.22  Use your ruler to find the lengths of their sides and then tabulate your results as follows: Name of Δ Δ ABC  Lengths of Sides AB ___  Is this True?
+AB – BC < CA  (Yes/No)  ___ + ___ > ___ BC ___  BC – CA < AB  (Yes/No)  ___ + ___ > ___ CA ___  CA – AB < BC  (Yes/No)  ___ + ___ > ___ Δ PQR  PQ ___  PQ – QR < RP  (Yes/No)  ___ + ___ > ___ QR ___  QR – RP < PQ  (Yes/No)  ___ + ___ > ___ RP ___  RP – PQ < QR  (Yes/No)  ___ + ___ > ___ Δ XYZ  XY ___  XY – YZ < ZX  (Yes/No)  ___ + ___ > ___ YZ ___  YZ – ZX < XY ___ + ___ > ___  (Yes/No)  ZX ___  ZX – XY < YZ  (Yes/No)  ___ + ___ > ___ This also strengthens our earlier guess.
+Therefore, we conclude that sum of the lengths of any two sides of a triangle is greater than the length of the third side.
+-true	We also find that the difference between the length of any two sides of a triangle is smaller than the length of the third side.
+125  126  MATHEMATICS  EXAMPLE 3 Is there a triangle whose sides have lengths 10.2 cm, 5.8 cm and 4.5 cm?
+SOLUTION  Suppose such a triangle is possible.
+Then the sum of the lengths of any two sides would be greater than the length of the third side.
+Let us check this.
+Is 4.5 + 5.8 >10.2?
+Yes Is 5.8 + 10.2 > 4.5?
+Yes Is 10.2 + 4.5 > 5.8?
+Yes Therefore, the triangle is possible.
+EXAMPLE 4 The lengths of two sides of a triangle are 6 cm and 8 cm.
+Between which two numbers can length of the third side fall?
+SOLUTION We know that the sum of two sides of a triangle is always greater than the third.
+Therefore, third side has to be less than the sum of the two sides.
+The third side is thus, less than 8 + 6 = 14 cm.
+The side cannot be less than the difference of the two sides.
+Thus, the third side has to be more than 8 – 6 = 2 cm.
+The length of the third side could be any length greater than 2 and less than 14 cm.
+EXERCISE 6.4 1.
+Is it possible to have a triangle with the following sides?
+(i) 2 cm, 3 cm, 5 cm  (ii) 3 cm, 6 cm, 7 cm  (iii) 6 cm, 3 cm, 2 cm  R  2.
+Take any point O in the interior of a triangle PQR.
+Is (i) OP + OQ > PQ?
+(ii) OQ + OR > QR?
+P  O A  Q  (iii) OR + OP > RP?
+3.
+AM is a median of a triangle ABC.
+Is AB + BC + CA > 2 AM?
+(Consider the sides of triangles ΔABM and ΔAMC.)
+4.
+ABCD is a quadrilateral.
+Is AB + BC + CD + DA > AC + BD?
+5.
+ABCD is quadrilateral.
+Is AB + BC + CD + DA < 2 (AC + BD)?
+B  M  C  THE TRIANGLE AND ITS PROPERTIES  6.
+The lengths of two sides of a triangle are 12 cm and 15 cm.
+Between what two measures should the length of the third side fall?
+THINK, DISCUSS  AND  WRITE  1.
+Is the sum of any two angles of a triangle always greater than the third angle?
+6.8  RIGHT-ANGLED TRIANGLES  AND  Pythagoras, a Greek philosopher of sixth century B.C.
+is said to have found a very important and useful property of right-angled triangles given in this section.
+The property is, hence, named after him.
+In fact, this property was known to people of many other countries too.
+The Indian mathematician Baudhayan has also given an equivalent form of this property.
+We now try to explain the Pythagoras property.
+In a right-angled triangle, the sides have some special names.
+-true	The side opposite to the right angle is called the hypotenuse; the other two sides are known as the legs of the right-angled triangle.
+In ΔABC (Fig 6.23), the right-angle is at B.
+So,  PYTHAGORAS PROPERTY  Fig 6.23  AC is the hypotenuse.
+AB and BC are the legs of ΔABC.
+Make eight identical copies of right angled triangle of any size you prefer.
+For example, you make a right-angled triangle whose hypotenuse is a units long and the legs are of lengths b units and c units (Fig 6.24).
+Fig 6.24 Draw two identical squares on a sheet with sides of lengths b + c. You are to place four triangles in one square and the remaining four triangles in the other square, as shown in the following diagram (Fig 6.25).
+Square A  Fig 6.25  Square B  127  128  MATHEMATICS  The squares are identical; the eight triangles inserted are also identical.
+Hence the uncovered area of square A = Uncovered area of square B.
+i.e., Area of inner square of square A = The total area of two uncovered squares in square B. a2 = b2 + c2 This is Pythagoras property.
+-true	It may be stated as follows: In a right-angled triangle, the square on the hypotenuse = sum of the squares on the legs.
+Pythagoras property is a very useful tool in mathematics.
+It is formally proved as a theorem in later classes.
+You should be clear about its meaning.
+-true	It says that for any right-angled triangle, the area of the square on the hypotenuse is equal to the sum of the areas of the squares on the legs.
+Draw a right triangle, preferably on a square sheet, construct squares on its sides, compute the area of these squares and verify the theorem practically (Fig 6.26).
+If you have a right-angled triangle, the Pythagoras property holds.
+If the Pythagoras property holds for some triangle, will the triangle be rightangled?
+(Such problems are known as converse problems).
+We will try to answer this.
+-true	Now, we will show that, if there is a triangle such that sum of the squares on two of its sides is equal Fig 6.26 to the square of the third side, it must be a right-angled triangle.
+DO THIS 1.
+Have cut-outs of squares with sides 4 cm, 5 cm, 6 cm long.
+Arrange to get a triangular shape by placing the corners of the squares suitably as shown in the figure (Fig 6.27).
+Trace out the triangle formed.
+Measure each angle of the triangle.
+You find that there is no right angle at all.
+In fact, in this case each angle will be acute!
+Note that 42 + 52 ≠ 62, 52 + 62 ≠ 42 and 62 + 42 ≠ 52.
+5  2  5  6  6  4 2 4 Fig 6.27  2  THE TRIANGLE AND ITS PROPERTIES  2.
+Repeat the above activity with squares whose sides have lengths 4 cm, 5 cm and 7 cm.
+You get an obtuse-angled triangle!
+Note that 42 + 52 ≠ 72 etc.
+This shows that Pythagoras property holds if and only if the triangle is right-angled.
+-true	Hence we get this fact: If the Pythagoras property holds, the triangle must be right-angled.
+EXAMPLE 5 Determine whether the triangle whose lengths of sides are 3 cm, 4 cm, 5 cm is a right-angled triangle.
+SOLUTION  32 = 3 × 3 = 9; 42 = 4 × 4 = 16; 52 = 5 × 5 = 25  We find 32 + 42 = 52.
+Therefore, the triangle is right-angled.
+Note: In any right-angled triangle, the hypotenuse happens to be the longest side.
+In this example, the side with length 5 cm is the hypotenuse.
+EXAMPLE 6 Δ ABC is right-angled at C. If AC = 5 cm and BC = 12 cm find the length of AB.
+SOLUTION  A rough figure will help us (Fig 6.28).
+Fig 6.28  By Pythagoras property, AB2 = AC2 + BC2  = 52 + 122 = 25 + 144 = 169 = 132 AB2 = 132.
+So, AB = 13  or or the length of AB is 13 cm.
+Note: To identify perfect squares, you may use prime factorisation technique.
+TRY THESE Find the unknown length x in the following figures (Fig 6.29):  129  130  MATHEMATICS  24  37  12  7  x  37  x (v)  (iv)  Fig 6.29  EXERCISE 6.5 1.
+PQR is a triangle, right-angled at P. If PQ = 10 cm and PR = 24 cm, find QR.
+2.
+ABC is a triangle, right-angled at C. If AB = 25 cm and AC = 7 cm, find BC.
+3.
+A 15 m long ladder reached a window 12 m high from the ground on placing it against a wall at a distance a.
+Find the distance of the foot of the ladder from the wall.
+4.
+Which of the following can be the sides of a right triangle?
+(i) 2.5 cm,6.5 cm, 6 cm.
+(ii) 2 cm, 2 cm, 5 cm.
+(iii) 1.5 cm, 2cm, 2.5 cm.
+In the case of right-angled triangles, identify the right angles.
+5.
+A tree is broken at a height of 5 m from the ground and its top touches the ground at a distance of 12 m from the base of the tree.
+Find the original height of the tree.
+6.
+Angles Q and R of a ΔPQR are 25º and 65º.
+Write which of the following is true: (i) PQ2 + QR2 = RP2 (ii) PQ2 + RP2 = QR2 (iii) RP2 + QR2 = PQ2  Q  P  25°  65°  R  7.
+Find the perimeter of the rectangle whose length is 40 cm and a diagonal is 41 cm.
+8.
+The diagonals of a rhombus measure 16 cm and 30 cm.
+Find its perimeter.
+THE TRIANGLE AND ITS PROPERTIES  THINK, DISCUSS 1.
+2.
+3.
+4.
+AND  WRITE  Which is the longest side in the triangle PQR, right-angled at P?
+Which is the longest side in the triangle ABC, right-angled at B?
+Which is the longest side of a right triangle?
+‘The diagonal of a rectangle produce by itself the same area as produced by its length and breadth’– This is Baudhayan Theorem.
+Compare it with the Pythagoras property.
+DO THIS Enrichment activity  There are many proofs for Pythagoras theorem, using ‘dissection’ and ‘rearrangement’ procedure.
+Try to collect a few of them and draw charts explaining them.
+WHAT  HAVE  WE DISCUSSED?
+1.
+-true	The six elements of a triangle are its three angles and the three sides.
+2.
+-true	The line segment joining a vertex of a triangle to the mid point of its opposite side is called a median of the triangle.
+-true	A triangle has 3 medians.
+3.
+-true	The perpendicular line segment from a vertex of a triangle to its opposite side is called an altitude of the triangle.
+-true	A triangle has 3 altitudes.
+4.
+-true	An exterior angle of a triangle is formed, when a side of a triangle is produced.
+-true	At each vertex, you have two ways of forming an exterior angle.
+5.
+-true	A property of exterior angles: The measure of any exterior angle of a triangle is equal to the sum of the measures of its interior opposite angles.
+6.
+-true	The angle sum property of a triangle: The total measure of the three angles of a triangle is 180°.
+7.
+-true	A triangle is said to be equilateral, if each one of its sides has the same length.
+-true	In an equilateral triangle, each angle has measure 60°.
+8.
+-true	A triangle is said to be isosceles, if atleast any two of its sides are of same length.
+-true	The non-equal side of an isosceles triangle is called its base; the base angles of an isosceles triangle have equal measure.
+9.
+-true	Property of the lengths of sides of a triangle: The sum of the lengths of any two sides of a triangle is greater than the length of the third side.
+-true	The difference between the lengths of any two sides is smaller than the length of the third side.
+131  132  MATHEMATICS  This property is useful to know if it is possible to draw a triangle when the lengths of the three sides are known.
+10.
+-true	In a right angled triangle, the side opposite to the right angle is called the hypotenuse and the other two sides are called its legs.
+11.
+-true	Pythagoras property: In a right-angled triangle, the square on the hypotenuse = the sum of the squares on its legs.
+If a triangle is not right-angled, this property does not hold good.
+This property is useful to decide whether a given triangle is right-angled or not.
