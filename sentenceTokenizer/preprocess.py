@@ -17,21 +17,22 @@ class processer:
 					if ".txt" in chapter_path:
 						#print chapter_path
 						self.text[chapter_path] = []
-						lines = open(chapter_path,"r").readlines()
+						lines = open(chapter_path,"r").read().replace("\r","\n").split("\n")
 						# handle annotation 
 						for i in range(len(lines)):
-							line = lines[i].split("\t")
+							line = lines[i].strip().split("\t")
 							if line[0] == "-true":
 								label ="-true\t"
 							else:
 								label = ""
 							lines[i] = lines[i].replace("-true\t","")
+
 							# delete sentences that are too short 
 							if  self.handleShort(lines[i]):
 								#self.handleFilename(lines[i])
-								lines[i] = self.handlePrefix(lines[i])
-								self.text[chapter_path].append(label+ lines[i])
-		self.write2file(output_path)
+								rmp_line = self.handlePrefix(lines[i])
+								self.text[chapter_path].append("**"+label+ rmp_line+"**\n")
+		#self.write2file(output_path)
 
 
 	# note that we need to convert utf8 to unicode for processing and convert back to utf8 before output
@@ -53,17 +54,17 @@ class processer:
 	def handlePrefix(self,line):
 		# find words all capital , delete characters until we find another Captial.
 		re_capital = re.compile(r'[A-Z]{5,20}')
-		c_words = 0
 		words = line.split(" ")
 		for word in words:
+			word = word.strip()
 			if re.match(re_capital,word):
 				line = line.replace(word,"")
-				c_words = 1
 		# sentence must start with capital! ..
 		m = re.search("[A-Z]", line)
 		if m:
 			line = line[m.start():]
-		return line
+		return line.strip()
+
 
 	def handleShort(self,line):
 		# handle too short sentences. (short means len<=20)
@@ -76,6 +77,7 @@ class processer:
 		# sentence level
 	#	return 1
 		# handle the problem of meaningless symbols
+
 	def write2file(self,path):
 		for key in self.text.keys():
 			[dot, folder,book,chapter] = key.split("/")
@@ -91,5 +93,8 @@ class processer:
 				write_file.write(line)
 
 if __name__ == '__main__':
-	p = processer("./sentences","./clean_setences")
+	p = processer("./sentences","./clean_sentences")
+	#test_line = "TRIANGLES  123  6.3 Similarity of Triangles What can you say about the similarity of two triangles?\n"
+	#print p.handlePrefix(test_line)
+	p.write2file(p.outputpath)
 
