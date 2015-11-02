@@ -40,6 +40,7 @@ class Classifier:
     def classify(self,X, y, clf, metrics, n_fold):
 
         cv = KFold(n=X.shape[0], n_folds=n_fold)
+        val = 0
         val_p = 0 
         val_r = 0
         val_f = 0
@@ -52,6 +53,7 @@ class Classifier:
                 val_p += precision_score(y[test], y_pred,average='binary') #  binary means only pos_label
                 val_r += recall_score(y[test], y_pred,average='binary')
                 val_f += f1_score(y[test], y_pred,average='binary')
+                
         if metrics == "all":
             return [val_p/n_fold, val_r/n_fold, val_f/n_fold]
         elif metrics == "accuracy":
@@ -67,7 +69,7 @@ class Classifier:
             prec = self.classify(self.X.toarray(), self.y, clf, metrics, 5)
 
             if metrics == "accuracy":
-                print 'Classifier %s has %s %.4f' %(name, metrics, values)
+                print 'Classifier %s has %s %.4f' %(name, metrics, prec)
             else:
                 self.outputMetrics(prec,name)
 
@@ -77,7 +79,7 @@ class Classifier:
         for clf, name in lclf:
             prec = self.classify(self.X.toarray(), self.y, clf, metrics, 5)
             if metrics == "accuracy":
-                print 'Classifier %s has %s %.4f' %(name, metrics, values)
+                print 'Classifier %s has %s %.4f' %(name, metrics, prec)
             else:
                 self.outputMetrics(prec,name)
     '''
@@ -91,5 +93,5 @@ class Classifier:
 
 if __name__ == '__main__':
     c = Classifier('./features.txt')
-    c.svmLearn("linear","all")
+    c.svmLearn("linear","accuracy")
     #c.GaussianLearn("all")
