@@ -1,0 +1,350 @@
+**Chapter 4  Basic Geometrical Ideas  4.1 Introduction Geometry has a long and rich history.**
+**The term ‘Geometry’ is the English equivalent of the Greek word ‘Geometron’.**
+**Geo’ means Earth and ‘metron’ means Measurement.**
+**According to historians, the geometrical ideas shaped up in ancient times, probably due to the need in art, architecture and measurement.**
+**These include occasions when the boundaries of cultivated lands had to be marked without giving room for complaints.**
+**Construction of magnificent palaces, temples, lakes, dams and cities, art and architecture propped up these ideas.**
+**Even today geometrical ideas are reflected in all forms of art, measurements, architecture, engineering, cloth designing etc.**
+**You observe and use different objects like boxes, tables, books, the tiffin box you carry to your school for lunch, the ball with which you play and so on.**
+**All such objects have different shapes.**
+**The ruler which you use, the pencil with which you write are straight.**
+**The pictures of a bangle, the one rupee coin or a ball appear round.**
+**Here, you will learn some interesting facts that will help you know more about the shapes around you.**
+**Points By a sharp tip of the pencil, mark a dot on the paper.**
+**Sharper the tip, thinner will be the dot.**
+**This almost invisible tiny dot will give you an idea of a point.**
+**A point determines a location.**
+**These are some models for a point : If you mark three points on a paper, you would be required to The tip of a distinguish them.**
+**For compass this they are denoted by a single capital letter like A,B,C.**
+**The sharpened end of a pencil  The pointed end of a needle.**
+**These points will be read as point A, point B and point C.  A  !**
+**C  Of course, the dots have to be invisibly thin.**
+**With a sharp tip of the pencil, mark four points on a paper and name them by the letters A,C,P,H.**
+**Try to name these points in different ways.**
+**One such way could be this  2.**
+**A star in the sky also gives us an idea of a point.**
+**Identify at least five such situations in your daily life.**
+**A Line Segment Fold a piece of paper and unfold it.**
+**This gives the idea of a line segment.**
+**It has two end points A and B.**
+**Hold its two ends and stretch it without a slack.**
+**It represents a line segment.**
+**The ends held by hands are the end points of the line segment.**
+**B ASIC G  I DEAS  The following are some models for a line segment :  An edge of a box  The edge of a post card  A tube light  Try to find more examples for line segments from your surroundings.**
+**Mark any two points A and B on a sheet of paper.**
+**Try to connect A to B by all possible routes.**
+**Fig 4.1) What is the shortest route from A to B?**
+**This shortest join of point A to B (including A and B) shown here is a line  B  A  Fig 4.1  segment.**
+**It is denoted by AB or BA .**
+**The points A and B are called the end points of the segment.**
+**Name the line segments in the figure 4.2.**
+**Is A, the end point of each line segment?**
+**Fig 4.2  4.4 A Line Imagine that the line segment from A to B (i.e.**
+**AB ) is extended beyond A in one direction and beyond B in the other direction without any end (see figure).**
+**You DoThis now get a model for a line.**
+**Do you think you can draw a complete picture of a line?**
+**A line through two points A and B is written as AB .**
+**It extends indefinitely in both directions.**
+**So it contains a countless number of points.**
+**Two points are enough to fix a line.**
+**We say ‘two points determine a line’.**
+**The adjacent diagram (Fig 4.3) is that of a line 71  !**
+**PQ written as PQ .**
+**Sometimes a line is denoted by a letter like l, m.  Fig 4.3    4.5 Intersecting Lines Look at the diagram (Fig 4.4).**
+**Two lines l1 and l2 are shown.**
+**-true	Both the lines pass through point P. We say l1 and l2 intersect at P. If two lines have one common point, they are called intersecting lines.**
+**Fig 4.4 The following are some models of a pair of intersecting lines (Fig 4.5) : Try to find out some more models for a pair of intersecting lines.**
+**Two adjacement edges of your notebook  The letter X of the English alphabet  Crossing-roads  Fig 4.5  Take a sheet of paper.**
+**Make two folds (and crease them) to represent a pair of intersecting lines and discuss : (a) Can two lines intersect in more than one point?**
+**Can more than two lines intersect in one point?**
+**Parallel Lines Let us look at this table (Fig 4.6).**
+**The top ABCD is flat.**
+**Are you able to see some points and line segments?**
+**Are there intersecting line segments?**
+**Yes, AB and BC intersect at the point B.**
+**Which line segments intersect at A?**
+**Do the lines AD and CD intersect?**
+**Fig 4.6  72  B ASIC G  I DEAS  !**
+**Do the lines AD and BC intersect?**
+**You find that on the table’s surface there are line segment which will not !**
+**""#  meet, however far they are extended.**
+**AD and BC form one such pair.**
+**Can you identify one more such pair of lines (which do not meet) on the top of the table?**
+**Think, discuss and write Where else do you see parallel lines?**
+**Try to find ten examples.**
+**If two lines AB and CD are parallel, we write AB || CD .**
+**If two lines l1 and l2 are parallel, we write l1 || l2 .**
+**Can you identify parrallel lines in the following figures?**
+**-true	The opposite edges of ruler (scale)  The cross-bars of this window  Rail lines  Lines like these which do not meet are said to be parallel; and are called parallel lines.**
+**Ray  Beam of light from a light house  Ray of light from a torch  73 Sun rays    The following are some models for a ray : A ray is a portion of a line.**
+**It starts at one point (called starting point) and goes endlessly in a direction.**
+**Look at the diagram (Fig 4.7) of ray shown here.**
+**Two points are shown on the ray.**
+**They are (a) A, the starting point (b) P, a point on the path of the ray.**
+**Fig 4.7  Think, discuss and write If PQ is a ray, (a) What is its starting point?**
+**Where does the point Q lie on the ray?**
+**Can we say that Q is the starting point of this ray?**
+**Name the rays given in this picture (Fig 4.8).**
+**Is T a starting point of each of these rays?**
+**Fig 4.8  Here is a ray OA (Fig 4.9).**
+**It starts at O and passes through the point A.**
+**It also passes through the point B.**
+**Can you also name it as OB ?**
+**OA and OB are same here.**
+**Fig 4.9  Can we write OA as AO ?**
+**Draw five rays and write appropriate names for them.**
+**What do the arrows on each of these rays show?**
+**Use the figure to name : (a) Five points (b) A line (c) Four rays (d) Five line segments 2.**
+**Name the line given in all possible (twelve) ways, choosing only two letters at a time from the four given.**
+**B ASIC G  I DEAS  3.**
+**Use the figure to name : (a) Line containing point E. (b) Line passing through A.**
+**Line on which O lies (d) Two pairs of intersecting lines.**
+**How many lines can pass through (a) one given point?**
+**(b) two given points?**
+**Draw a rough figure and label suitably in each of the following cases: (a) Point P lies on AB .**
+**XY and PQ intersect at M. (c) Line l contains E and F but not D.**
+**OP and OQ meet at O.**
+**Consider the following figure of line MN .**
+**Say whether following statements are true or false in context of the given figure.**
+**Q, M, O, N, P are points on the line MN .**
+**M, O, N are points on a line segment MN .**
+**M and N are end points of line segment MN .**
+**O and N are end points of line segment OP .**
+**M is one of the end points of line segment QO .**
+**M is point on ray OP .**
+**Ray OP is different from ray QP .**
+**Ray OP is same as ray OM .**
+**Ray OM is not opposite to ray OP .**
+**O is not an initial point of OP .**
+**N is the initial point of NP and NM .**
+**Curves Have you ever taken a piece of paper and just doodled?**
+**The pictures that are results of your doodling are called curves.**
+**Fig 4.10  (vii)  75    You can draw some of these drawings without lifting the pencil from the paper and without the use of a ruler.**
+**These are all curves (Fig 4.10).**
+**Curve’ in everyday usage means “not straight”.**
+**In Mathematics, a curve can be straight like the one shown in fig 4.10 (iv).**
+**Observe that the curves (iii) and (vii) in Fig 4.10 cross themselves, whereas the curves (i), (ii), (v) and (vi) in Fig 4.10 do not.**
+**-true	If a curve does not cross itself, then it is called a simple curve.**
+**Draw five more simple curves and five curves that are not simple.**
+**Consider these now (Fig 4.11).**
+**What is the difference between these two?**
+**Fig 4.11 (i) is an open curve and the second i.e.**
+**Fig 4.11(ii) is a closed curve.**
+**Can you identify some closed and open curves from the figures Fig 4.10 (i), (ii), (v), (vi)?**
+**Draw five curves each that are open and closed.**
+**Fig 4.11 Position in a figure A court line in a tennis court divides it into three parts : inside the line, on the line and outside the line.**
+**You cannot enter inside without crossing the line.**
+**A compound wall separates your house from the road.**
+**You talk about ‘inside’ the compound, ‘on’ the boundary of the compound and ‘outside’ the compound.**
+**In a closed curve, thus, there are three parts.**
+**Fig 4.12 (iii) exterior (‘outside’) of the curve.**
+**In the figure 4.12, A is in the interior, C is in the exterior and B is on the curve.**
+**-true	The interior of a curve together with its boundary is called its “region”.**
+**Polygons Look at these figures 4.13 (i), (ii), (iii), (iv) and (v).**
+**Fig 4.13  (iv)  (v)  B ASIC G  I DEAS  What can you say?**
+**How does each one of them differ from the other?**
+**(i), (ii), (iii) and (iv) are special because they are made up entirely of line segments.**
+**They are called polygons.**
+**-true	So, a figure is a polygon if it is a simple closed figure made up entirely of line segments.**
+**Draw ten differently shaped polygons.**
+**Do This Try to form a polygon with 1.**
+**In which case was it not possible?**
+**Sides, vertices and diagonals Fig 4.14 Examine the figure given here (Fig 4.14).**
+**Give justification to call it a polygon.**
+**I	The line segments forming a polygon are called its sides.**
+**What are the sides of polygon**
+**Note how the corners are named in order.)**
+**Sides are AB, BC, CD, DE and EA .**
+**-true	The meeting point of a pair of sides is called its vertex.**
+**Sides AE and ED meet at E, so E is a vertex of the polygon**
+**Points B and C are its other vertices.**
+**Can you name the sides that meet at these points?**
+**Can you name the other vertices of the above polygon**
+**-true	Any two sides with a common end point are called the adjacent sides of the polygon.**
+**Are the sides AB and BC adjacent?**
+**How about AE and DC ?**
+**-true	The end points of the same side of a polygon are called the adjacent vertices.**
+**Vertices E and D are adjacent, whereas vertices A and D are not adjacent vertices.**
+**Consider the pairs of vertices which are not adjacent.**
+**The joins of these vertices are called the diagonals of the polygon.**
+**In the figure 4.15, AC, AD, BD , BE and CE are diagonals.**
+**Is BC a diagonal, Why or why not?**
+**Fig 4.15  77    If you try to join adjacent vertices, will the result be a diagonal?**
+**Name all the sides, adjacent sides, adjacent vertices of the figure  (Fig 4.15).**
+**Draw a polygon  and name all the sides, adjacent sides and vertices as well as the diagonals of the polygon.**
+**Classify the following curves as (i) Open or (ii) Closed.**
+**(a)  (b)  (c)  (d)  (e)  2.**
+**Draw rough diagrams to illustrate the following : (a) Open curve (b) Closed curve.**
+**Draw any polygon and shade its interior.**
+**Consider the given figure and answer the questions : (a) Is it a curve?**
+**Illustrate, if possible, each one of the following with a rough diagram: (a) A closed curve that is not a polygon.**
+**An open curve made up entirely of line segments.**
+**A polygon with two sides.**
+**Angles Angles are made when corners are formed.**
+**Here is a picture (Fig 4.16) where the top of a box is like a hinged lid.**
+**The edges AD of the box and AP of the door can be Fig 4.16  imagined as two rays AD and  AP .**
+**These two rays have a common end point A.**
+**The two rays here together are said to form an angle.**
+**An angle is made up of two rays starting from a common end point.**
+**-true	The two rays forming the angle are called the arms or sides of the angle.**
+**-true	The common end point is the vertex of the angle.**
+**B ASIC G  I DEAS  This is an angle formed by rays OP and OQ (Fig 4.17).**
+**To show this we use a small curve at the vertex.**
+**What are the  Fig 4.17  sides?**
+**Are they not OP and OQ ?**
+**How can we name this angle?**
+**We can simply say that it is an angle at O.**
+**To be more specific we identify some two points, one on each side and the vertex to name the angle.**
+**Angle POQ is thus a better way of naming the angle.**
+**We denote this by ∠POQ .**
+**Think, discuss and write Look at the diagram (Fig 4.18).What is the name of the angle?**
+**But then which one do we mean?**
+**By ∠P what do we mean?**
+**Is naming an angle by vertex helpful here?**
+**Fig 4.18 By ∠P we may mean ∠APB or ∠CPB or even ∠APC !**
+**We need more information.**
+**Note that in specifying the angle, the vertex is always written as the middle letter.**
+**Do This Take any angle, say ∠ABC .**
+**Shade that portion of the paper bordering !!!"**
+**BA and where BC lies.**
+**Now shade in a different colour the portion !!!"**
+**BC and where BA lies.**
+**The portion common to both shadings is called the interior of ∠ABC (Fig 4.19).**
+**Note that the interior is not a restricted area; it extends indefinitely since the two sides extend indefinitely).**
+**Fig 4.19  In this diagram (Fig 4.20), X is in the interior of the angle, Z is not in the interior but in the exterior of the angle; and S is on the ∠PQR .**
+**Thus, the angle also has three parts associated with it.**
+**Fig 4.20   4.3 C  1.**
+**Name the angles in the given figure.**
+**In the given diagram, name the point(s) (a) In the interior of ∠DOE (b) In the exterior of ∠EOF (c) On ∠EOF  80  3.**
+**Draw rough diagrams of two angles such that they have (a) One point in common.**
+**Two points in common.**
+**Three points in common.**
+**Four points in common.**
+**One ray in common.**
+**-true	B ASIC G  I DEAS  4.11 Triangles A triangle is a three-sided polygon.**
+**In fact, it is the polygon with the least number of sides.**
+**Look at the triangle in the diagram (Fig 4.21).**
+**We write ∆ABC instead of writing “Triangle ABC”.**
+**In ∆ABC, how many sides and how many angles are there?**
+**The three sides of the triangle are  Fig 4.21  AB , BC and CA .**
+**The three angles are ∠BAC , ∠BCA and ∠ABC .**
+**The points  A, B and C are called the vertices of the triangle.**
+**Being a polygon, a triangle has an exterior and an interior.**
+**In the figure 4.22, P is in the interior of the triangle, R is in the exterior and Q on the triangle.**
+**Fig 4.22   4.4 1.**
+**Draw a rough sketch of a triangle ABC.**
+**Mark a point P in its interior and a point Q in its exterior.**
+**Is the point A in its exterior or in its interior?**
+**Identify three triangles in the figure.**
+**A (b) Write the names of seven angles.**
+**Write the names of six line segments.**
+**Which two triangles have ∠B as common?**
+**-true	B  D  C  4.12 Quadrilaterals A four sided polygon is a quadrilateral.**
+**It has 4 sides and 4 angles.**
+**As in the case of a triangle, you can visualise its interior too.**
+**Note the cyclic manner in which the vertices are named.**
+**This quadrilateral ABCD (Fig 4.23) has four sides AB , BC , CD and DA .**
+**It has four angles ∠A , ∠B , ∠C and ∠D .**
+**Fig 4.23  81    This is quadrilateral PQRS.**
+**Is this quadrilateral PQRS?**
+**-true	In any quadrilateral ABCD, AB and BC are adjacent sides.**
+**Can you write other pairs of adjacent sides?**
+**C  AB and DC are opposite sides; Name the  other pair of opposite sides.**
+**D ∠A and ∠C are said to be opposite angles; similarly, ∠D and ∠B are opposite angles.**
+**Naturally ∠A and ∠B are adjacent angles.**
+**You can now list other pairs of adjacent angles.**
+**B  A   4.5 1.**
+**Draw a rough sketch of a quadrilateral PQRS.**
+**Is the meeting point of the diagonals in the interior or exterior of the quadrilateral?**
+**Draw a rough sketch of a quadrilateral KLMN.**
+**State, (a) two pairs of opposite sides, (b) two pairs of opposite angles, (c) two pairs of adjacent sides, (d) two pairs of adjacent angles.**
+**Investigate : Use strips and fasteners to make a triangle and a quadrilateral.**
+**Try to push inward at any one vertex of the triangle.**
+**Do the same to the quadrilateral.**
+**Is the triangle distorted?**
+**Is the quadrilateral distorted?**
+**Is the triangle rigid?**
+**Why is it that structures like electric towers make use of triangular shapes and not quadrilaterals?**
+**B ASIC G  I DEAS  4.13 Circles In our environment, you find many things that are round, a wheel, a bangle, a coin etc.**
+**We use the round shape in many ways.**
+**It is easier to roll a heavy steel tube than to drag it.**
+**A circle is a simple closed curve which is not a polygon.**
+**It has some very special properties.**
+**Do This • Place a bangle or any round shape; trace around to get a circular shape.**
+**If you want to make a circular garden, how will you proceed?**
+**Take two sticks and a piece of rope.**
+**Drive one stick into the ground.**
+**This is the centre of the proposed circle.**
+**Form two loops, one at each end of the rope.**
+**Place one loop around the stick at the centre.**
+**Put the other around the other stick.**
+**Keep the sticks vertical to the ground.**
+**Keep the rope taut all the time and trace the path.**
+**Naturally every point on the circle is at equal distance from the centre.**
+**Parts of a circle Here is a circle with centre C (Fig 4.24) A, P, B, M are points on the circle.**
+**You will see that CA = CP = CB = CM.**
+**Each of the segments CA , CP , CB , CM is radius of the circle.**
+**-true	The radius is a line segment that connects the centre to a point on the circle.**
+**CP and CM are radii (plural of ‘radius’) such that C, P, M  Fig 4.24  are in a line.**
+**PM is known as diameter of the circle.**
+**Is a diameter double the size of a radius?**
+**PB is a chord connecting two points on a circle.**
+**-true	An arc is a portion of circle.**
+**If P and Q are two points you get the arc PQ.**
+**PQ As in the case of any simple closed curve you can think of the interior and exterior of a circle.**
+**A region in the interior of a circle enclosed by an arc on one  Fig 4.25  83    side and a pair of radii on the other two sides is called a sector (Fig 4.26).**
+**-true	A region in the interior of a circle enclosed by a chord and an arc is called a segment of the circle.**
+**Take any circular object.**
+**Use a thread and wrap it around the object once.**
+**The length of the thread is the distance covered to travel around the object once.**
+**What does this length denote?**
+**-true	The distance around a circle is its circumference.**
+**Fig 4.26  Do This Take a circular sheet.**
+**Fold it into two halves.**
+**Crease the fold and open up.**
+**Do you find that the circular region is halved by the diameter?**
+**A diameter of a circle divides it into two equal parts; each part is a semi-circle.**
+**A semi-circle is half of a circle, with the end points of diameter as part of the boundary.**
+**From the figure, identify : (a) the centre of circle (b) three radii (c) a diameter (d) a chord (e) two points in the interior (f) a point in the exterior (g) a sector (h) a segment 2.**
+**Is every diameter of a circle also a chord?**
+**Is every chord of a circle also a diameter?**
+**Draw any circle and mark (a) its centre (b) a radius (c) a diameter (d) a sector (e) a segment (f) a point in its interior (g) a point in its exterior (h) an arc 4.**
+**Say true or false : (a) Two diameters of a circle will necessarily intersect.**
+**The centre of a circle is always in its interior.**
+**What have we discussed?**
+**A point determines a location.**
+**It is usually denoted by a capital letter.**
+**A line segment corresponds to the shortest distance between two points.**
+**The line segment joining points A and B is denoted by AB .**
+**B ASIC G  I DEAS  AB and BA denote the same line segment.**
+**A line is obtained when a line segment like AB is extended on both sides !**
+**AB or sometimes by a single small letter like l. 4.**
+**Two distinct lines meeting at a point are called intersecting lines.**
+**Two lines in a plane are said to be parallel if they do not meet.**
+**A ray is a portion of line starting at a point and going in one direction endlessly.**
+**Any drawing (straight or non-straight) done without lifting the pencil may be called a curve.**
+**In this sense, a line is also a curve.**
+**A simple curve is one that does not cross itself.**
+**A curve is said to be closed if its ends are joined; otherwise it is said to be open.**
+**A polygon is a simple closed curve made up of line segments.**
+**Here, (i) The line segments are the sides of the polygon.**
+**Any two sides with a common end point are adjacent sides.**
+**The meeting point of a pair of sides is called a vertex.**
+**The end points of the same side are adjacent vertices.**
+**The join of any two non-adjacent vertices is a diagonal.**
+**An angle is made up of two rays starting from a common end point.**
+**Two rays OA and OB make ∠AOB (or also called ∠BOA ).**
+**An angle leads to three divisions of a region: On the angle, the interior of the angle and the exterior of the angle.**
+**A triangle is a three-sided polygon.**
+**A quadrilateral is a four-sided polygon.**
+**It should be named cyclically).**
+**In any quadrilateral ABCD, AB & DC and AD & BC are pairs of opposite sides.**
+**A & ∠C and ∠B & ∠D are pairs of opposite angles.**
+**A is adjacent to ∠B & ∠D ; similar relations exist for other three angles.**
+**A circle is the path of a point moving at the same distance from a fixed point.**
+**The fixed point is the centre, the fixed distance is the radius and the distance around the circle is the circumference.**
+**A chord of a circle is a line segment joining any two points on the circle.**
+**A diameter is a chord passing through the centre of the circle.**
+**A sector is the region in the interior of a circle enclosed by an arc on one side and a pair of radii on the other two sides.**
+**A segment of a circle is a region in the interior of the circle enclosed by an arc and a chord.**
+**The diameter of a circle divides it into two semi-circles.**

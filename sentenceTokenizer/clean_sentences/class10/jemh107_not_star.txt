@@ -1,0 +1,247 @@
+**C    C   155  7  7.1 Introduction In Class IX, you have studied that to locate the position of a point on a plane, we require a pair of coordinate axes.**
+**The distance of a point from the y-axis is called its x-coordinate, or abscissa.**
+**The distance of a point from the x-axis is called its y-coordinate, or ordinate.**
+**The coordinates of a point on the x-axis are of the form (x, 0), and of a point on the y-axis are of the form (0, y).**
+**Here is a play for you.**
+**Draw a set of a pair of perpendicular axes on a graph paper.**
+**Now plot the following points and join them as directed: Join the point A(4, 8) to B(3, 9) to C(3, 8) to D(1, 6) to E(1, 5) to F(3, 3) to G(6, 3) to H(8, 5) to I(8, 6) to J(6, 8) to K(6, 9) to L(5, 8) to A.**
+**Then join the points P(3.5, 7), Q (3, 6) and R(4, 6) to form a triangle.**
+**Also join the points X(5.5, 7), Y(5, 6) and Z(6, 6) to form a triangle.**
+**Now join S(4, 5), T(4.5, 4) and U(5, 5) to form a triangle.**
+**Lastly join S to the points (0, 5) and (0, 6) and join U to the points (9, 5) and (9, 6).**
+**What picture have you got?**
+**Also, you have seen that a linear equation in two variables of the form ax + by + c = 0, (a, b are not simultaneously zero), when represented graphically, gives a straight line.**
+**Further, in Chapter 2, you have seen the graph of y = ax2 + bx + c (a ≠ 0), is a parabola.**
+**In fact, coordinate geometry has been developed as an algebraic tool for studying geometry of figures.**
+**It helps us to study geometry using algebra, and understand algebra with the help of geometry.**
+**Because of this, coordinate geometry is widely applied in various fields such as physics, engineering, navigation, seismology and art!**
+**In this chapter, you will learn how to find the distance between the two points whose coordinates are given, and to find the area of the triangle formed by three given points.**
+**You will also study how to find the coordinates of the point which divides a line segment joining two given points in a given ratio.**
+**Distance Formula Let us consider the following situation: A town B is located 36 km east and 15 km north of the town A.**
+**How would you find the distance from town A to town B without actually measuring it.**
+**This situation can be represented graphically as shown in Fig.**
+**You may use the Pythagoras Theorem to calculate this distance.**
+**Now, suppose two points lie on the x-axis.**
+**Can we find the distance between them?**
+**For instance, consider two points A(4, 0) and B(6, 0) in Fig.**
+**The points A and B lie on the x-axis.**
+**From the figure you can see that OA = 4 units and OB = 6 units.**
+**Therefore, the distance of B from A, i.e., AB = OB – OA = 6 – 4 = 2 units.**
+**So, if two points lie on the x-axis, we can easily find the distance between them.**
+**Now, suppose we take two points lying on the y-axis.**
+**Can you find the distance between them.**
+**If the points C(0, 3) and D(0, 8) lie on the y-axis, similarly we find that CD = 8 – 3 = 5 units (see Fig.**
+**Next, can you find the distance of A from C (in Fig.**
+**Since OA = 4 units and OC = 3 units, the distance of A from C, i.e., AC = 32  42 = 5 units.**
+**Similarly, you can find the distance of B from D = BD = 10 units.**
+**Now, if we consider two points not lying on coordinate axis, can we find the distance between them?**
+**We shall use Pythagoras theorem to do so.**
+**Let us see an example.**
+**P(4, 6) and Q(6, 8) lie in the first quadrant.**
+**How do we use Pythagoras theorem to find the distance between them?**
+**Let us draw PR and QS perpendicular to the x-axis from P and Q respectively.**
+**Also, draw a perpendicular from P on QS to meet QS at T. Then the coordinates of R and S are (4, 0) and (6, 0), respectively.**
+**Also, QS = 8 units and TS = PR = 6 units.**
+**C    157  Therefore, QT = 2 units and PT = RS = 2 units.**
+**Now, using the Pythagoras theorem, we have PQ2 = PT2 + QT2 = 22 + 22 = 8 So,  PQ = 2 2 units  How will we find the distance between two points in two different quadrants?**
+**Consider the points P(6, 4) and Q(–5, –3) (see Fig.**
+**Draw QS perpendicular to the x-axis.**
+**Also draw a perpendicular PT from the point P on QS (extended) to meet y-axis at the point R.  Fig.**
+**Then PT = 11 units and QT = 7 units.**
+**Using the Pythagoras Theorem to the right triangle PTQ, we get PQ = 112  72 = 170 units.**
+**Let us now find the distance between any two points P(x 1, y1 ) and Q(x 2, y2 ).**
+**Draw PR and QS perpendicular to the x-axis.**
+**A perpendicular from the point P on QS is drawn to meet it at the point T (see Fig.**
+**Then, OR = x1, OS = x2.**
+**Also,  So, RS = x2 – x1 = PT.**
+**SQ = y2, ST = PR = y1.**
+**Now, applying the Pythagoras theorem in Δ PTQ, we get PQ2 = PT2 + QT2 = (x2 – x1) 2 + (y2 – y1 )2 Therefore,  PQ =  Fig.**
+**Note that since distance is always non-negative, we take only the positive square root.**
+**So, the distance between the points P(x1, y1) and Q(x2, y2) is PQ =   x2 –  2 2 x 1  +  y2 – y1  ,  which is called the distance formula.**
+**In particular, the distance of a point P(x, y) from the origin O(0, 0) is given by OP = 2.**
+**We can also write, PQ =  x2  y 2 .**
+** x1  x2 2   y1   2 y2  .**
+**Example 1 : Do the points (3, 2), (–2, –3) and (2, 3) form a triangle?**
+**If so, name the type of triangle formed.**
+**Solution : Let us apply the distance formula to find the distances PQ, QR and PR, where P(3, 2), Q(–2, –3) and R(2, 3) are the given points.**
+**We have PQ =  (3  2) 2  (2  3) 2  5 2  5 2  50 = 7.07 (approx.)**
+**QR =  (–2 – 2) 2  (–3 – 3) 2  (– 4) 2  (– 6) 2  52 = 7.21 (approx.)**
+**PR =  (3 – 2) 2  (2 – 3) 2  12  ( 1) 2  2 = 1.41 (approx.)**
+**Since the sum of any two of these distances is greater than the third distance, therefore, the points P, Q and R form a triangle.**
+**C    159  Also, PQ2 + PR2 = QR2, by the converse of Pythagoras theorem, we have ∠ P = 90°.**
+**Therefore, PQR is a right triangle.**
+**Example 2 : Show that the points (1, 7), (4, 2), (–1, –1) and (– 4, 4) are the vertices of a square.**
+**Solution : Let A(1, 7), B(4, 2), C(–1, –1) and D(– 4, 4) be the given points.**
+**One way of showing that ABCD is a square is to use the property that all its sides should be equal and both its digonals should also be equal.**
+**Now, AB = (1 – 4) 2  (7  2) 2  9  25  34 BC = (4  1) 2  (2  1) 2  25  9  34 CD = (–1  4) 2  (–1 – 4) 2  9  25  34 DA = (1  4) 2  (7 – 4) 2  25  9  34 AC = (1  1) 2  (7  1) 2  4  64  68 BD = (4  4) 2  (2  4) 2  64  4  68 Since, AB = BC = CD = DA and AC = BD, all the four sides of the quadrilateral ABCD are equal and its diagonals AC and BD are also equal.**
+**Thereore, ABCD is a square.**
+**Alternative Solution : We find the four sides and one diagonal, say, AC as above.**
+**Here AD2 + DC2 = 34 + 34 = 68 = AC2.**
+**Therefore, by the converse of Pythagoras theorem, ∠ D = 90°.**
+**A quadrilateral with all four sides equal and one angle 90° is a square.**
+**So, ABCD is a square.**
+**7.6 shows the arrangement of desks in a classroom.**
+**Ashima, Bharti and Camella are seated at A(3, 1), B(6, 4) and C(8, 6) respectively.**
+**Do you think they are seated in a line?**
+**Give reasons for your answer.**
+**Solution : Using the distance formula, we have AB =  (6  3) 2  (4  1) 2  9  9  18  3 2  BC =  (8 – 6) 2  (6 – 4) 2  4  4  8  2 2  AC =  (8 – 3) 2  (6 – 1) 2  25  25  50  5 2  Since, AB + BC = 3 2  2 2  5 2  AC, we can say that the points A, B and C are collinear.**
+**Therefore, they are seated in a line.**
+**Example 4 : Find a relation between x and y such that the point (x , y) is equidistant from the points (7, 1) and (3, 5).**
+**Solution : Let P(x, y) be equidistant from the points A(7, 1) and B(3, 5).**
+**We are given that AP = BP.**
+**So, AP2 = BP2 i.e.,  (x – 7)2 + (y – 1)2 = (x – 3) 2 + (y – 5) 2  i.e.,  x2 – 14x + 49 + y2 – 2y + 1 = x2 – 6x + 9 + y2 – 10y + 25  i.e.,  x– y= 2  which is the required relation.**
+**Remark : Note that the graph of the equation x – y = 2 is a line.**
+**From your earlier studies, you know that a point which is equidistant from A and B lies on the perpendicular bisector of AB.**
+**Therefore, the graph of x – y = 2 is the perpendicular bisector of AB (see Fig.**
+**Example 5 : Find a point on the y-axis which is equidistant from the points A(6, 5) and B(– 4, 3).**
+**Solution : We know that a point on the y-axis is of the form (0, y).**
+**So, let the point P(0, y) be equidistant from A and B.**
+**Then i.e., i.e., i.e.,  (6 – 0) 2 + (5 – y)2 = 36 + 25 + y2 – 10y = 4y = y=  Fig.**
+**C    161  So, the required point is (0, 9).**
+**Let us check our solution : AP = BP =  (6 – 0) 2  (5 – 9) 2  36  16  52 (– 4 – 0) 2  (3 – 9) 2  16  36  52  Note : Using the remark above, we see that (0, 9) is the intersection of the y-axis and the perpendicular bisector of AB.**
+**Find the distance between the following pairs of points : (i) (2, 3), (4, 1)  (ii) (– 5, 7), (– 1, 3)  (iii) (a, b), (– a, – b)  2.**
+**Find the distance between the points (0, 0) and (36, 15).**
+**Can you now find the distance between the two towns A and B discussed in Section 7.2.**
+**Determine if the points (1, 5), (2, 3) and (– 2, – 11) are collinear.**
+**Check whether (5, – 2), (6, 4) and (7, – 2) are the vertices of an isosceles triangle.**
+**In a classroom, 4 friends are seated at the points A, B, C and D as shown in Fig.**
+**Champa and Chameli walk into the class and after observing for a few minutes Champa asks Chameli, “Don’t you think ABCD is a square?” Chameli disagrees.**
+**Using distance formula, find which of them is correct.**
+**Name the type of quadrilateral formed, if any, by the following points, and give reasons for your answer: (i) (– 1, – 2), (1, 0), (– 1, 2), (– 3, 0) (ii) (–3, 5), (3, 1), (0, 3), (–1, – 4) (iii) (4, 5), (7, 6), (4, 3), (1, 2)  Fig.**
+**Find the point on the x-axis which is equidistant from (2, –5) and (–2, 9).**
+**Find the values of y for which the distance between the points P(2, – 3) and Q(10, y) is 10 units.**
+**If Q(0, 1) is equidistant from P(5, –3) and R(x, 6), find the values of x.**
+**Also find the distances QR and PR.**
+**Find a relation between x and y such that the point (x, y) is equidistant from the point (3, 6) and (– 3, 4).**
+**Section Formula Let us recall the situation in Section 7.2.**
+**Suppose a telephone company wants to position a relay tower at P between A and B is such a way that the distance of the tower from B is twice its distance from A.**
+**If P lies on AB, it will divide AB in the ratio 1 : 2 (see Fig.**
+**If we take A as the origin O, and 1 km as one unit on both the axis, the coordinates of B will be (36, 15).**
+**In order to know the position of the tower, we must know the coordinates of P. How do we find these coordinates?**
+**Let the coordinates of P be (x, y).**
+**Draw perpendiculars from P and B to the x-axis, meeting it in D and E, respectively.**
+**Draw PC perpendicular to BE.**
+**Then, by the AA similarity criterion, studied in Chapter 6, Δ POD and Δ BPC are similar.**
+**OD OP 1 PD OP 1   , and   PC PB 2 BC PB 2 x 1 y 1   So, and  15  y 2 36  x 2 These equations give x = 12 and y = 5.**
+**Therefore ,  You can check that P(12, 5) meets the condition that OP : PB = 1 : 2.**
+**Now let us use the understanding that you may have developed through this example to obtain the general formula.**
+**Consider any two points A(x1, y1) and B(x2, y2) and assume that P (x, y) divides AB internally in the ratio m1 : m2 , i.e.,  PA m1 (see Fig.**
+**C    163  Draw AR, PS and BT perpendicular to the x-axis.**
+**Draw AQ and PC parallel to the x-axis.**
+**Then, by the AA similarity criterion, Δ PAQ ~ Δ BPC Therefore, Now,  PA AQ PQ  = (1) BP PC BC AQ = RS = OS – OR = x – x1 PC = ST = OT – OS = x2 – x PQ = PS – QS = PS – AR = y – y1 BC = BT– CT = BT – PS = y2 – y  Substituting these values in (1), we get m1 x  x1 y  y1  = m2 x2  x y2  y m1 x2  m 2 x1 m1 x  x1 Taking = , we get x = m1  m2 m2 x2  x Similarly, taking  m1 y  y1 m y  m2 y1 = , we get y = 1 2 m2 y2  y m1  m2  So, the coordinates of the point P(x, y) which divides the line segment joining the points A(x1, y1 ) and B(x2, y2 ), internally, in the ratio m1 : m2 are   m1x2  m2 x1 , m1 y2  m2 y1    m1  m2   m1  m2 This is known as the section formula.**
+**This can also be derived by drawing perpendiculars from A, P and B on the y-axis and proceeding as above.**
+**If the ratio in which P divides AB is k : 1, then the coordinates of the point P will be  kx2  x1 , ky2  y1    k 1   k 1 Special Case : The mid-point of a line segment divides the line segment in the ratio 1 : 1.**
+**Therefore, the coordinates of the mid-point P of the join of the points A(x1, y1 ) and B(x2, y2 ) is  1  x1  1  x2 , 1  y1  1  y2   x1  x2 , y1  y2     11 2 .**
+**Let us solve a few examples based on the section formula.**
+**Example 6 : Find the coordinates of the point which divides the line segment joining the points (4, – 3) and (8, 5) in the ratio 3 : 1 internally.**
+**Solution : Let P(x, y) be the required point.**
+**Using the section formula, we get x=  3(8)  1(4) 3(5)  1(–3) 7, y= 3 3 1 31  Therefore, (7, 3) is the required point.**
+**Example 7 : In what ratio does the point (– 4, 6) divide the line segment joining the points A(– 6, 10) and B(3, – 8)?**
+**Solution : Let (– 4, 6) divide AB internally in the ratio m1 : m2 .**
+**Using the section formula, we get  3m1  6 m2 – 8m1  10 m2  ,  (– 4, 6) =  m1  m2   m1  m2 Recall that if (x, y) = (a, b) then x = a and y = b.**
+**So,  –4=  3 m1  6 m2  8m1  10 m2 and 6  m1  m2 m1  m2  Now,  –4=  3m1  6m2 m1  m2  gives us  – 4m1 – 4m2 = 3m1 – 6m2 i.e.,  7m1 = 2m2  i.e.,  m1 : m2 = 2 : 7  You should verify that the ratio satisfies the y-coordinate also.**
+**Now,  8m1  10 m2 = m1  m2  m1  10 m2 m1 1 m2  8  2  10 7 6 2 1 7  8  =  (Dividing throughout by m2 )  (1)  C    165  Therefore, the point (– 4, 6) divides the line segment joining the points A(– 6, 10) and B(3, – 8) in the ratio 2 : 7.**
+**Alternatively : The ratio m1 : m2 can also be written as  m1 :1, or k : 1.**
+**Let (– 4, 6) m2  divide AB internally in the ratio k : 1.**
+**Using the section formula, we get  3k  6 , 8 k  10  (– 4, 6) =   k 1   k1 So,  –4=  (2)  3k  6 k 1  i.e.,  – 4k – 4 = 3k – 6  i.e.,  7k = 2  i.e.,  k:1= 2:7  You can check for the y-coordinate also.**
+**So, the point (– 4, 6) divides the line segment joining the points A(– 6, 10) and B(3, – 8) in the ratio 2 : 7.**
+**Note : You can also find this ratio by calculating the distances PA and PB and taking their ratios provided you know that A, P and B are collinear.**
+**Example 8 : Find the coordinates of the points of trisection (i.e., points dividing in three equal parts) of the line segment joining the points A(2, – 2) and B(– 7, 4).**
+**Solution : Let P and Q be the points of trisection of AB i.e., AP = PQ = QB (see Fig.**
+**Therefore, P divides AB internally in the ratio 1 : 2.**
+**Therefore, the coordinates of P, by applying the section formula, are  1( 7)  2(2) , 1(4)  2( 2)    , i.e., (–1, 0) 12 1 2   Now, Q also divides AB internally in the ratio 2 : 1.**
+**So, the coordinates of Q are   2(7)  1(2) , 2(4)  1(2)    , i.e., (– 4, 2) 2 1 2 1    166    Therefore, the coordinates of the points of trisection of the line segment joining A and B are (–1, 0) and (– 4, 2).**
+**Note : We could also have obtained Q by noting that it is the mid-point of PB.**
+**So, we could have obtained its coordinates using the mid-point formula.**
+**Example 9 : Find the ratio in which the y-axis divides the line segment joining the points (5, – 6) and (–1, – 4).**
+**Also find the point of intersection.**
+**Solution : Let the ratio be k : 1.**
+**Then by the section formula, the coordinates of the   k  5 , 4 k  6  point which divides AB in the ratio k : 1 are   k 1   k 1 This point lies on the y-axis, and we know that on the y-axis the abscissa is 0.**
+**Therefore, So,  k  5 =0 k 1 k=5  That is, the ratio is 5 : 1.**
+**Putting the value of k = 5, we get the point of intersection as  13   0, .**
+**Example 10 : If the points A(6, 1), B(8, 2), C(9, 4) and D(p, 3) are the vertices of a parallelogram, taken in order, find the value of p. Solution : We know that diagonals of a parallelogram bisect each other.**
+**So, the coordinates of the mid-point of AC = coordinates of the mid-point of BD i.e.,  i.e.,  so, i.e.,  6  9, 1  4  8  p, 2  3   =   2  2   2  2  15 , 5  8  p, 5    =   2 2 2    2  15 8p = 2 2 p= 7  C    167   7.2 1.**
+**Find the coordinates of the point which divides the join of (–1, 7) and (4, –3) in the ratio 2 : 3.**
+**Find the coordinates of the points of trisection of the line segment joining (4, –1) and (–2, –3).**
+**To conduct Sports Day activities, in your rectangular shaped school ground ABCD, lines have been drawn with chalk powder at a distance of 1m each.**
+**AD, as shown 1 in Fig.**
+**Niharika runs th the 4 distance AD on the 2nd line and 1 th 5 the distance AD on the eighth line and posts a red flag.**
+**What is the distance between both the flags?**
+**If Rashmi has to post a blue flag exactly halfway between the line segment joining the two flags, where should she post her flag?**
+**Find the ratio in which the line segment joining the points (– 3, 10) and (6, – 8) is divided by (– 1, 6).**
+**Find the ratio in which the line segment joining A(1, – 5) and B(– 4, 5) is divided by the x-axis.**
+**Also find the coordinates of the point of division.**
+**If (1, 2), (4, y), (x, 6) and (3, 5) are the vertices of a parallelogram taken in order, find x and y.**
+**Find the coordinates of a point A, where AB is the diameter of a circle whose centre is (2, – 3) and B is (1, 4).**
+**If A and B are (– 2, – 2) and (2, – 4), respectively, find the coordinates of P such that 3 AB and P lies on the line segment AB.**
+**Find the coordinates of the points which divide the line segment joining A(– 2, 2) and B(2, 8) into four equal parts.**
+**Find the area of a rhombus if its vertices are (3, 0), (4, 5), (– 1, 4) and (– 2, – 1) taken in 1 order.**
+**Hint : Area of a rhombus = (product of its diagonals)] 2  168    7.4 Area of a Triangle In your earlier classes, you have studied how to calculate the area of a triangle when its base and corresponding height (altitude) are given.**
+**You have used the formula : 1 × base × altitude 2 In Class IX, you have also studied Heron’s formula to find the area of a triangle.**
+**Now, if the coordinates of the vertices of a triangle are given, can you find its area?**
+**Well, you could find the lengths of the three sides using the distance formula and then use Heron’s formula.**
+**But this could be tedious, particularly if the lengths of the sides are irrational numbers.**
+**Let us see if there is an easier way out.**
+**Area of a triangle =  Let ABC be any triangle whose vertices are A(x 1, y 1), B(x2 , y2 ) and C(x 3 , y3 ).**
+**Draw AP, BQ and CR perpendiculars from A, B and C, respectively, to the x-axis.**
+**Clearly ABQP, APRC and BQRC are all trapezia (see Fig.**
+**ABC = area of trapezium ABQP + area of trapezium APRC – area of trapezium BQRC.**
+**You also know that the area of a trapezium = Therefore,  1 (sum of parallel sides)(distance between them) 2  1 1 1 (BQ + AP) QP + (AP + CR) PR – (BQ + CR) QR 2 2 2 1 1 1 = ( y2  y1 )( x1  x2 )  ( y1  y3 )( x3  x1 )  ( y2  y3 )( x3  x2 ) 2 2 2 1 =  x1 ( y2 – y3 ) + x2 ( y3 – y1 ) + x3 ( y1 – y2 )  2 Thus, the area of Δ ABC is the numerical value of the expression 1  x1  y2  y3   x2 ( y3  y1 )  x3 ( y1  y2  2 Let us consider a few examples in which we make use of this formula.**
+**Area of Δ ABC =  C    169  Example 11 : Find the area of a triangle whose vertices are (1, –1), (– 4, 6) and (–3, –5).**
+**Solution : The area of the triangle formed by the vertices A(1, –1), B(– 4, 6) and C (–3, –5), by using the formula above, is given by 1 1 (6  5)  (4) (5  1)  (3) (1  6) 2 =  1 (11  16  21) = 24 2  So, the area of the triangle is 24 square units.**
+**Example 12 : Find the area of a triangle formed by the points A(5, 2), B(4, 7) and C (7, – 4).**
+**Solution : The area of the triangle formed by the vertices A(5, 2), B(4, 7) and C (7, – 4) is given by 1 5 (7  4)  4 ( 4  2)  7 (2  7)  2  1 4 (55  24  35) =  2 2 2 Since area is a measure, which cannot be negative, we will take the numerical value of – 2, i.e., 2.**
+**Therefore, the area of the triangle = 2 square units.**
+**Example 13 : Find the area of the triangle formed by the points P(–1.5, 3), Q(6, –2) and R(–3, 4).**
+**Solution : The area of the triangle formed by the given points is equal to 1 1.5(2  4)  6(4  3)  (3) (3  2) 2 1 = (9  6  15)  0 2 Can we have a triangle of area 0 square units?**
+**If the area of a triangle is 0 square units, then its vertices will be collinear.**
+**Example 14 : Find the value of k if the points A(2, 3), B(4, k) and C(6, –3) are collinear.**
+**Solution : Since the given points are collinear, the area of the triangle formed by them must be 0, i.e.,  170  i.e., Therefore,    1 2(k  3)  4 (3  3)  6(3  k) = 0 2 1 (  4k )  0 2 k=0  Let us verify our answer.**
+**ABC =  1 2(0  3)  4 ( 3  3)  6 (3  0)  0 2  Example 15 : If A(–5, 7), B(– 4, –5), C(–1, –6) and D(4, 5) are the vertices of a quadrilateral, find the area of the quadrilateral ABCD.**
+**Solution : By joining B to D, you will get two triangles ABD and BCD.**
+**Now the area of Δ ABD =  5(  5  5)  ( 4) (5  7)  4 (7  5)  2 1 106  53 square units = (50  8  48)  2 2 1 Also, the area of Δ BCD =  4(  6  5) – 1(5  5)  4( 5  6)  2 1 = (44  10  4)  19 square units 2 So, the area of quadrilateral ABCD = 53 + 19 = 72 square units.**
+**Note : To find the area of a polygon, we divide it into triangular regions, which have no common area, and add the areas of these regions.**
+**Find the area of the triangle whose vertices are : (i) (2, 3), (–1, 0), (2, – 4) (ii) (–5, –1), (3, –5), (5, 2) 2.**
+**In each of the following find the value of ‘k’, for which the points are collinear.**
+**(i) (7, –2), (5, 1), (3, k) (ii) (8, 1), (k, – 4), (2, –5) 3.**
+**Find the area of the triangle formed by joining the mid-points of the sides of the triangle whose vertices are (0, –1), (2, 1) and (0, 3).**
+**Find the ratio of this area to the area of the given triangle.**
+**Find the area of the quadrilateral whose vertices, taken in order, are (– 4, – 2), (– 3, – 5), (3, – 2) and (2, 3).**
+**You have studied in Class IX, (Chapter 9, Example 3), that a median of a triangle divides it into two triangles of equal areas.**
+**Verify this result for Δ ABC whose vertices are A(4, – 6), B(3, –2) and C(5, 2).**
+**C    171   7.4 (Optional)* 1.**
+**Determine the ratio in which the line 2x + y – 4 = 0 divides the line segment joining the points A(2, – 2) and B(3, 7).**
+**Find a relation between x and y if the points (x, y), (1, 2) and (7, 0) are collinear.**
+**Find the centre of a circle passing through the points (6, – 6), (3, – 7) and (3, 3).**
+**The two opposite vertices of a square are (–1, 2) and (3, 2).**
+**Find the coordinates of the other two vertices.**
+**The Class X students of a secondary school in Krishinagar have been allotted a rectangular plot of land for their gardening activity.**
+**Sapling of Gulmohar are planted on the boundary at a distance of 1m from each other.**
+**There is a triangular grassy lawn in the plot as shown in the Fig.**
+**The students are to sow seeds of flowering plants on the remaining area of the plot.**
+**Taking A as origin, find the coordinates of the vertices of the triangle.**
+**What will be the coordinates of the vertices of Δ PQR if C is the origin?**
+**Also calculate the areas of the triangles in these cases.**
+**The vertices of a Δ ABC are A(4, 6), B(1, 5) and C(7, 2).**
+**A line is drawn to intersect sides AD AE 1    Calculate the area of the AB AC 4 Δ ADE and compare it with the area of Δ ABC.**
+**Recall Theorem 6.2 and Theorem 6.6).**
+**AB and AC at D and E respectively, such that  7.**
+**Let A (4, 2), B(6, 5) and C(1, 4) be the vertices of Δ ABC.**
+**The median from A meets BC at D. Find the coordinates of the point D. (ii) Find the coordinates of the point P on AD such that AP : PD = 2 : 1 (iii) Find the coordinates of points Q and R on medians BE and CF respectively such that BQ : QE = 2 : 1 and CR : RF = 2 : 1.**
+**What do yo observe?**
+**Note : The point which is common to all the three medians is called the centroid and this point divides each median in the ratio 2 : 1.]**
+**These exercises are not from the examination point of view.**
+**If A(x1, y1), B(x2, y2) and C(x3, y 3) are the vertices of Δ ABC, find the coordinates of the centroid of the triangle.**
+**ABCD is a rectangle formed by the points A(–1, –1), B(– 1, 4), C(5, 4) and D(5, – 1).**
+**P, Q, R and S are the mid-points of AB, BC, CD and DA respectively.**
+**Is the quadrilateral PQRS a square?**
+**Summary In this chapter, you have studied the following points :  1.**
+**The distance between P(x1, y1 ) and Q(x2, y2) is  ( x2  x1 ) 2  ( y 2  y1 )2 .**
+**The distance of a point P(x, y) from the origin is x 2  y 2 .**
+**The coordinates of the point P(x, y) which divides the line segment joining the points A(x 1 , y 1) and B(x 2 , y 2) internally in the ratio m1 : m2 are  m1 x2  m2 x1 , m1 y 2  m2 y1    m1  m2   m1  m2  4.**
+**The mid-point of the line segment joining the points P(x1 , y1) and Q(x2, y2) is  x1  x2 , y1  y 2  .**
+** 2 2    5.**
+**The area of the triangle formed by the points (x1, y1), (x2 , y2 ) and (x3, y3) is the numerical value of the expression 1  x ( y  y 3 )  x2 ( y 3  y1 )  x3 ( y1  y 2 )  .**
+**A NOTE TO THE  Section 7.3 discusses the Section Formula for the coordinates (x , y) of a point P which divides internally the line segment joining the points A(x1 , y1) and B(x2, y2 ) in the ratio m1 : m2 as follows : x=  m1 x2  m2 x1 , m1  m2  y=  m1 y2  m2 y1 m1  m2  Note that, here, PA : PB = m1 : m 2.**
+**However, if P does not lie between A and B but lies on the line AB, outside the line segment AB, and PA : PB = m1 : m 2, we say that P divides externally the line segment joining the points A and B.**
+**You will study Section Formula for such case in higher classes.**
