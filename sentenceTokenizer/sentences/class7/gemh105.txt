@@ -1,14 +1,14 @@
 Lines and Angles 5.1 INTRODUCTION You already know how to identify different lines, line segments and angles in a given shape.
 Can you identify the different line segments and angles formed in the following figures?
 (Fig 5.1)  (i)  93  Chapter 5  LINES AND ANGLES  (ii)  (iii)  (iv)  Fig 5.1  Can you also identify whether the angles made are acute or obtuse or right?
-Recall that a line segment has two end points.
+-true	Recall that a line segment has two end points.
 If we extend the two end points in either direction endlessly, we get a line.
-Thus, we can say that a line has no end points.
-On the other hand, recall that a ray has one end point (namely its starting point).
+-ture	Thus, we can say that a line has no end points.
+-true	On the other hand, recall that a ray has one end point (namely its starting point).
 For example, look at the figures given below:  (ii)  (i)  (iii) Fig 5.2  Here, Fig 5.2 (i) shows a line segment, Fig 5.2 (ii) shows a line and Fig 5.2 (iii) is that of a ray.
 A line segment PQ is generally denoted by the symbol PQ , a line AB is denoted by JJJG the symbol AB and the ray OP is denoted by OP .
 Give some examples of line segments and rays from your daily life and discuss them with your friends.
-94  MATHEMATICS  Again recall that an angle is formed when lines or line segments meet.
+-notsure	94  MATHEMATICS  Again recall that an angle is formed when lines or line segments meet.
 In Fig 5.1, observe the corners.
 These corners are formed when two lines or line segments intersect at a point.
 For example, look at the figures given below:  (i)  (ii) Fig 5.3  In Fig 5.3 (i) line segments AB and BC intersect at B to form angle ABC, and again line segments BC and AC intersect at C to form angle ACB and so on.
@@ -19,10 +19,10 @@ You have already studied how to classify the angles and right angles found in th
 as acute, obtuse or right angle.
 Note: While referring to the measure of an angle ABC, we shall write m∠ABC as simply ∠ABC.
 The context will make it clear, whether we are referring to the angle or its measure.
-5.2 RELATED ANGLES 5.2.1 Complementary Angles When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+-true	5.2 RELATED ANGLES 5.2.1 Complementary Angles When the sum of the measures of two angles is 90°, the angles are called complementary angles.
 (i)  (iii)  (ii)  Are these two angles complementary?
 Yes  Fig 5.4  (iv)  Are these two angles complementary?
-No  Whenever two angles are complementary, each angle is said to be the complement of the other angle.
+-true	No  Whenever two angles are complementary, each angle is said to be the complement of the other angle.
 In the above diagram (Fig 5.4), the ‘30° angle’ is the complement of the ‘60° angle’ and vice versa.
 LINES AND ANGLES  THINK, DISCUSS  AND  95  WRITE  1.
 Can two acute angles be complement to each other?
@@ -60,7 +60,7 @@ In A and B, we find a pair of angles, placed next to each other.
 Fig 5.8  At both the vertices A and B, we find, a pair of angles are placed next to each other.
 These angles are such that: (i) they have a common vertex; (ii) they have a common arm; and (iii) the non-common arms are on either side of the common arm.
 Such pairs of angles are called adjacent angles.
-Adjacent angles have a common vertex and a common arm but no common interior points.
+-true	Adjacent angles have a common vertex and a common arm but no common interior points.
 TRY THESE 1.
 Are the angles marked 1 and 2 adjacent?
 (Fig 5.9).
@@ -76,14 +76,14 @@ Fig 5.10  THINK, DISCUSS 1.
 Can two adjacent angles be complementary?
 Can two obtuse angles be adjacent angles?
 Can an acute angle be adjacent to an obtuse angle?
-5.2.4 Linear Pair A linear pair is a pair of adjacent angles whose non-common sides are opposite rays.
+-true	5.2.4 Linear Pair A linear pair is a pair of adjacent angles whose non-common sides are opposite rays.
 Are ∠1, ∠2 a linear pair?
 Yes  (i)  Are ∠1, ∠2 a linear pair?
 No!
 (Why?)
 Fig 5.11  (ii)  In Fig 5.11 (i) above, observe that the opposite rays (which are the non-common sides of ∠1 and ∠2) form a line.
 Thus, ∠1 + ∠2 amounts to 180o.
-The angles in a linear pair are supplementary.
+-true	The angles in a linear pair are supplementary.
 Have you noticed models of a linear pair in your environment?
 Note carefully that a pair of supplementary angles form a linear pair when placed adjacent to each other.
 Do you find examples of linear pair in your daily life?
@@ -115,7 +115,7 @@ Do the lines coincide again?
 can be rotated to get  Fig 5.16  You find that ∠1 and ∠3 have interchanged their positions and so have ∠2 and ∠4.
 This has been done without disturbing the position of the lines.
 Thus, ∠1 = ∠3 and ∠2 = ∠4.
-LINES AND ANGLES  101  We conclude that when two lines intersect, the vertically opposite angles so formed are equal.
+-true	LINES AND ANGLES  101  We conclude that when two lines intersect, the vertically opposite angles so formed are equal.
 Let us try to prove this using Geometrical Idea.
 Let us consider two lines l and m. (Fig 5.17) We can arrive at this result through logical reasoning as follows: Let l and m be two lines, which intersect at O, making angles ∠1, ∠2, ∠3 and ∠4.
 Fig 5.17 We want to prove that ∠1 = ∠3 and ∠2 = ∠4 Now, ∠1 = 180º – ∠2 (Because ∠1, ∠2 form a linear pair, so, ∠1 + ∠2 = 180o) (i) Similarly, ∠3 = 180º – ∠2 (Since ∠2, ∠3 form a linear pair, so, ∠2 + ∠3 = 180o) (ii) Therfore, ∠1 = ∠3 [By (i) and (ii)] Similarly, we can prove that ∠2 = ∠4, (Try it!)
@@ -186,7 +186,7 @@ Draw any rectangle and find the measures of angles at the four vertices made by 
 If two lines intersect, do they always intersect at right angles?
 5.3.2 Transversal You might have seen a road crossing two or more roads or a railway line crossing several other lines (Fig 5.21).
 These give an idea of a transversal.
-(i)  Fig 5.21  (ii)  A line that intersects two or more lines at distinct points is called a transversal.
+-true	(i)  Fig 5.21  (ii)  A line that intersects two or more lines at distinct points is called a transversal.
 LINES AND ANGLES  105  In the Fig 5.22, p is a transversal to the lines l and m.  Fig 5.22  Fig 5.23  In Fig 5.23 the line p is not a transversal, although it cuts two lines l and m. Can you say, ‘why’?
 5.3.3.
 Angles made by a Transversal In Fig 5.24, you see lines l and m cut by transversal p. The eight angles marked 1 to 8 have their special names:  TRY THESE 1.
@@ -207,18 +207,18 @@ Draw (in thick colour) two parallel lines l and m. Draw a transversal t to the l
 Place a tracing paper over the figure drawn.
 Trace the lines l, m and t. Slide the tracing paper along t, until l coincides with m. You find that ∠1 on the traced figure coincides with ∠2 of the original figure.
 In fact, you can see all the following results by similar tracing and sliding activity.
-(i) ∠1 = ∠2 (ii) ∠3 = ∠4 (iii) ∠5 = ∠6 (iv) ∠7 = ∠8  (i)  (iii)  (ii)  Fig 5.28  (iv)  This activity illustrates the following fact: If two parallel lines are cut by a transversal, each pair of corresponding angles are equal in measure.
+-true	(i) ∠1 = ∠2 (ii) ∠3 = ∠4 (iii) ∠5 = ∠6 (iv) ∠7 = ∠8  (i)  (iii)  (ii)  Fig 5.28  (iv)  This activity illustrates the following fact: If two parallel lines are cut by a transversal, each pair of corresponding angles are equal in measure.
 We use this result to get another interesting result.
 Look at Fig 5.29.
 When t cuts the parallel lines, l, m, we get, ∠3 = ∠7 (vertically opposite angles).
 But ∠7 = ∠8 (corresponding angles).
 Therefore, ∠3 = ∠8  107  108  MATHEMATICS  You can similarly show that ∠1 = ∠6.
-Thus, we have the following result : If two parallel lines are cut by a transversal, each pair of alternate interior angles are equal.
+-true	Thus, we have the following result : If two parallel lines are cut by a transversal, each pair of alternate interior angles are equal.
 This second result leads to another interesting property.
 Again, from Fig 5.29.
 ∠3 + ∠1 = 180° (∠3 and ∠1 form a linear pair) But ∠1 = ∠6 (A pair of alternate interior angles) Therefore, we can say that ∠3 + ∠6 = 180°.
 Similarly, ∠1 + ∠8 = 180°.
-Thus, we obtain the following result:  Fig 5.29  If two parallel lines are cut by a transversal, then each pair of interior angles on the same side of the transversal are supplementary.
+-true	Thus, we obtain the following result:  Fig 5.29  If two parallel lines are cut by a transversal, then each pair of interior angles on the same side of the transversal are supplementary.
 You can very easily remember these results if you can look for relevant ‘shapes’.
 The F-shape stands for corresponding angles:  The Z - shape stands for alternate angles.
 DO THIS Draw a pair of parallel lines and a transversal.
@@ -236,14 +236,14 @@ He claims they are parallel.
 How?
 Are you able to see that he has kept the corresponding angles to be equal?
 (What is the transversal here?)
-Thus, when a transversal cuts two lines, such that pairs of corresponding angles are equal, then the lines have to be parallel.
+-true	Thus, when a transversal cuts two lines, such that pairs of corresponding angles are equal, then the lines have to be parallel.
 Look at the letter Z(Fig 5.31).
 The horizontal segments here are parallel, because the alternate angles are equal.
-When a transversal cuts two lines, such that pairs of alternate interior angles are equal, the lines have to be parallel.
+-true	When a transversal cuts two lines, such that pairs of alternate interior angles are equal, the lines have to be parallel.
 Fig 5.30  Fig 5.31  110  MATHEMATICS  Draw a line l (Fig 5.32).
 Draw a line m, perpendicular to l. Again draw a line p, such that p is perpendicular to m. Thus, p is perpendicular to a perpendicular to l. You find p || l. How?
 This is because you draw p such Fig 5.32 that ∠1 + ∠2 = 180o.
-Thus, when a transversal cuts two lines, such that pairs of interior angles on the same side of the transversal are supplementary, the lines have to be parallel.
+-true	Thus, when a transversal cuts two lines, such that pairs of interior angles on the same side of the transversal are supplementary, the lines have to be parallel.
 TRY THESE  Is l || m?
 Why?
 Is l || m ?
@@ -268,20 +268,20 @@ In the given figure, the arms of two angles are parallel.
 If ∠ABC = 70º, then find (i) ∠DGC (ii) ∠DEF 6.
 In the given figures below, decide whether l is parallel to m.  (i)  (ii)  WHAT  HAVE  (iii)  (iv)  WE DISCUSSED?
 1.
-We recall that (i) A line-segment has two end points.
+-true	We recall that (i) A line-segment has two end points.
 (ii) A ray has only one end point (its vertex); and (iii) A line has no end points on either side.
 2.
-An angle is formed when two lines (or rays or line-segments) meet.
+-true	An angle is formed when two lines (or rays or line-segments) meet.
 Pairs of Angles Two complementary angles Two supplementary angles Two adjacent angles Linear pair  Condition Measures add up to 90° Measures add up to 180° Have a common vertex and a common arm but no common interior.
 Adjacent and supplementary  3.
-When two lines l and m meet, we say they intersect; the meeting point is called the point of intersection.
-When lines drawn on a sheet of paper do not meet, however far produced, we call them to be parallel lines.
+-true	When two lines l and m meet, we say they intersect; the meeting point is called the point of intersection.
+-true	When lines drawn on a sheet of paper do not meet, however far produced, we call them to be parallel lines.
 111  112  MATHEMATICS  4.
 (i) When two lines intersect (looking like the letter X) we have two pairs of opposite angles.
 They are called vertically opposite angles.
 They are equal in measure.
-(ii) A transversal is a line that intersects two or more lines at distinct points.
-(iii) A transversal gives rise to several types of angles.
+-true	(ii) A transversal is a line that intersects two or more lines at distinct points.
+-true	(iii) A transversal gives rise to several types of angles.
 (iv) In the figure, we have Types of Angles Interior Exterior Corresponding  Angles Shown ∠3, ∠4, ∠5, ∠6 ∠1, ∠2, ∠7, ∠8 ∠1 and ∠5, ∠2 and ∠6, ∠3 and ∠7, ∠4 and ∠8 Alternate interior ∠3 and ∠6, ∠4 and ∠5 Alternate exterior ∠1 and ∠8, ∠2 and ∠7 Interior, on the same ∠3 and ∠5, ∠4 and ∠6 side of transversal (v) When a transversal cuts two parallel lines, we have the following interesting relationships: Each pair of corresponding angles are equal.
 ∠1 = ∠5, ∠3 = ∠7, ∠2 = ∠6, ∠4 = ∠8 Each pair of alternate interior angles are equal.
 ∠3 = ∠6, ∠4 = ∠5 Each pair of interior angles on the same side of transversal are supplementary.

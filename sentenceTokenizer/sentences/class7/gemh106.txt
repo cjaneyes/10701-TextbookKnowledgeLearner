@@ -1,4 +1,4 @@
-113  The Triangle and its Properties 6.1 INTRODUCTION A triangle, you have seen, is a simple closed curve made of three line segments.
+-true	113  The Triangle and its Properties 6.1 INTRODUCTION A triangle, you have seen, is a simple closed curve made of three line segments.
 It has three vertices, three sides and three angles.
 Here is ΔABC (Fig 6.1).
 It has Fig 6.1 Sides: AB , BC , CA Angles: ∠BAC, ∠ABC, ∠BCA Vertices: A, B, C The side opposite to the vertex A is BC.
@@ -19,9 +19,9 @@ Consider any one of its sides, say,  BC .
 By paper-folding, locate the perpendicular bisector of BC .
 The folded crease meets BC at D, its mid-point.
 Join  AD .
-A  B  D  A  C  B  D  C  Fig 6.3  The line segment AD, joining the mid-point of BC to its opposite vertex A is called a median of the triangle.
+-true	A  B  D  A  C  B  D  C  Fig 6.3  The line segment AD, joining the mid-point of BC to its opposite vertex A is called a median of the triangle.
 Consider the sides AB and CA and find two more medians of the triangle.
-A median connects a vertex of a triangle to the mid-point of the opposite side.
+-true	A median connects a vertex of a triangle to the mid-point of the opposite side.
 THINK, DISCUSS  AND  WRITE  1.
 How many medians can a triangle have?
 2.
@@ -80,7 +80,7 @@ Do you observe that ∠ACD is equal (or nearly equal, if there is an error in me
 Fig 6.8  THE TRIANGLE AND ITS PROPERTIES  You may repeat the two activities as mentioned by drawing some more triangles along with their exterior angles.
 Every time, you will find that the exterior angle of a triangle is equal to the sum of its two interior opposite angles.
 A logical step-by-step argument can further confirm this fact.
-An exterior angle of a triangle is equal to the sum of its interior opposite angles.
+-true	An exterior angle of a triangle is equal to the sum of its interior opposite angles.
 Given: Consider ΔABC.
 ∠ACD is an exterior angle.
 To Show: m∠ACD = m∠A + m∠B Through C draw CE , parallel to BA .
@@ -141,7 +141,7 @@ Use your protractor and measure each of the angles of these triangles.
 Tabulate your results Name of Δ ΔABC ΔPQR ΔXYZ  Measures of Angles m∠A = m∠P = m∠X =  m∠B = m∠Q = m∠Y =  m∠C = m∠R = m∠Z =  Sum of the Measures of the three Angles m∠A + m∠B + m∠C = m∠P + m∠Q + m∠R = m∠X + m∠Y + m∠Z =  Allowing marginal errors in measurement, you will find that the last column always gives 180° (or nearly 180°).
 When perfect precision is possible, this will also show that the sum of the measures of the three angles of a triangle is 180°.
 You are now ready to give a formal justification of your assertion through logical argument.
-Statement The total measure of the three angles of a triangle is 180°.
+-true	Statement The total measure of the three angles of a triangle is 180°.
 To justify this let us use the exterior angle property of a triangle.
 Fig 6.17  121  THE TRIANGLE AND ITS PROPERTIES  ∠1, ∠2, ∠3 are angles of ΔABC (Fig 6.17).
 ∠4 is the exterior angle when BC is extended to D. Justification ∠1 + ∠2 = ∠4 (by exterior angle property) ∠1 + ∠2 + ∠3 = ∠4 + ∠3 (adding ∠3 to both the sides) But ∠4 and ∠3 form a linear pair so it is 180°.
@@ -172,23 +172,23 @@ Can you have a triangle with all the three angles greater than 60º?
 Can you have a triangle with all the three angles equal to 60º?
 6.
 Can you have a triangle with all the three angles less than 60º?
-6.6 TWO SPECIAL TRIANGLES : EQUILATERAL AND ISOSCELES A triangle in which all the three sides are of equal lengths is called an equilateral triangle.
+-true	6.6 TWO SPECIAL TRIANGLES : EQUILATERAL AND ISOSCELES A triangle in which all the three sides are of equal lengths is called an equilateral triangle.
 Take two copies of an equilateral triangle ABC (Fig 6.19).
 Keep one of them fixed.
 Place the second triangle on it.
 It fits exactly into the first.
 Turn it round in any way and still they fit with one another exactly.
 Are you able to see that when the three sides of a A triangle have equal lengths then the three angles are also of the same size?
-We conclude that in an equilateral triangle: (i) all sides have same length.
-(ii) each angle has measure 60°.
-C  B  (i)  (ii) Fig 6.19  THE TRIANGLE AND ITS PROPERTIES  A triangle in which two sides are of equal lengths is called an isosceles triangle.
+-notsure	We conclude that in an equilateral triangle: (i) all sides have same length.
+-notsure	(ii) each angle has measure 60°.
+C  B  (i)  (ii) Fig 6.19  -true	THE TRIANGLE AND ITS PROPERTIES  A triangle in which two sides are of equal lengths is called an isosceles triangle.
 Fig 6.20  From a piece of paper cut out an isosceles triangle XYZ, with XY=XZ (Fig 6.20).
 Fold it such that Z lies on Y.
 The line XM through X is now the axis of symmetry (which you will read in Chapter 14).
 You find that ∠Y and ∠Z fit on each other exactly.
 XY and XZ are called equal sides; YZ is called the base; ∠Y and ∠Z are called base angles and these are also equal.
-Thus, in an isosceles triangle: (i) two sides have same length.
-(ii) base angles opposite to the equal sides are equal.
+-notsure	Thus, in an isosceles triangle: (i) two sides have same length.
+-notsure	(ii) base angles opposite to the equal sides are equal.
 TRY THESE 1.
 Find angle x in each figure:  123  124  MATHEMATICS  2.
 Find angles x and y in each figure.
@@ -198,7 +198,7 @@ Ask your friend to start from A and reach C, walking along one or more of these 
 She can, for example, walk first along AB and then along BC to reach C; or she can walk straight along AC .
 She will naturally  Fig 6.21  prefer the direct path AC.
 If she takes the other path ( AB and then BC ), she will have to walk more.
-In other words, AB + BC > AC (i) Similarly, if one were to start from B and go to A, he or she will not take the route BC and CA but will prefer BA This is because BC + CA > AB By a similar argument, you find that CA + AB > BC  (ii)  (iii) These observations suggest that the sum of the lengths of any two sides of a triangle is greater than the third side.
+-notsrue	In other words, AB + BC > AC (i) Similarly, if one were to start from B and go to A, he or she will not take the route BC and CA but will prefer BA This is because BC + CA > AB By a similar argument, you find that CA + AB > BC  (ii)  (iii) These observations suggest that the sum of the lengths of any two sides of a triangle is greater than the third side.
 2.
 Collect fifteen small sticks (or strips) of different lengths, say, 6 cm, 7 cm, 8 cm, 9 cm, ..., 20 cm.
 Take any three of these sticks and try to form a triangle.
@@ -213,7 +213,7 @@ Draw any three triangles, say ΔABC, ΔPQR and ΔXYZ in your notebook (Fig 6.22)
 R A  B  C  (i)  P  Q  (ii)  (iii)  Fig 6.22  Use your ruler to find the lengths of their sides and then tabulate your results as follows: Name of Δ Δ ABC  Lengths of Sides AB ___  Is this True?
 AB – BC < CA  (Yes/No)  ___ + ___ > ___ BC ___  BC – CA < AB  (Yes/No)  ___ + ___ > ___ CA ___  CA – AB < BC  (Yes/No)  ___ + ___ > ___ Δ PQR  PQ ___  PQ – QR < RP  (Yes/No)  ___ + ___ > ___ QR ___  QR – RP < PQ  (Yes/No)  ___ + ___ > ___ RP ___  RP – PQ < QR  (Yes/No)  ___ + ___ > ___ Δ XYZ  XY ___  XY – YZ < ZX  (Yes/No)  ___ + ___ > ___ YZ ___  YZ – ZX < XY ___ + ___ > ___  (Yes/No)  ZX ___  ZX – XY < YZ  (Yes/No)  ___ + ___ > ___ This also strengthens our earlier guess.
 Therefore, we conclude that sum of the lengths of any two sides of a triangle is greater than the length of the third side.
-We also find that the difference between the length of any two sides of a triangle is smaller than the length of the third side.
+-true	We also find that the difference between the length of any two sides of a triangle is smaller than the length of the third side.
 125  126  MATHEMATICS  EXAMPLE 3 Is there a triangle whose sides have lengths 10.2 cm, 5.8 cm and 4.5 cm?
 SOLUTION  Suppose such a triangle is possible.
 Then the sum of the lengths of any two sides would be greater than the length of the third side.
@@ -259,7 +259,7 @@ In fact, this property was known to people of many other countries too.
 The Indian mathematician Baudhayan has also given an equivalent form of this property.
 We now try to explain the Pythagoras property.
 In a right-angled triangle, the sides have some special names.
-The side opposite to the right angle is called the hypotenuse; the other two sides are known as the legs of the right-angled triangle.
+-true	The side opposite to the right angle is called the hypotenuse; the other two sides are known as the legs of the right-angled triangle.
 In ΔABC (Fig 6.23), the right-angle is at B.
 So,  PYTHAGORAS PROPERTY  Fig 6.23  AC is the hypotenuse.
 AB and BC are the legs of ΔABC.
@@ -269,17 +269,17 @@ Fig 6.24 Draw two identical squares on a sheet with sides of lengths b + c. You 
 Square A  Fig 6.25  Square B  127  128  MATHEMATICS  The squares are identical; the eight triangles inserted are also identical.
 Hence the uncovered area of square A = Uncovered area of square B.
 i.e., Area of inner square of square A = The total area of two uncovered squares in square B. a2 = b2 + c2 This is Pythagoras property.
-It may be stated as follows: In a right-angled triangle, the square on the hypotenuse = sum of the squares on the legs.
+-true	It may be stated as follows: In a right-angled triangle, the square on the hypotenuse = sum of the squares on the legs.
 Pythagoras property is a very useful tool in mathematics.
 It is formally proved as a theorem in later classes.
 You should be clear about its meaning.
-It says that for any right-angled triangle, the area of the square on the hypotenuse is equal to the sum of the areas of the squares on the legs.
+-true	It says that for any right-angled triangle, the area of the square on the hypotenuse is equal to the sum of the areas of the squares on the legs.
 Draw a right triangle, preferably on a square sheet, construct squares on its sides, compute the area of these squares and verify the theorem practically (Fig 6.26).
 If you have a right-angled triangle, the Pythagoras property holds.
 If the Pythagoras property holds for some triangle, will the triangle be rightangled?
 (Such problems are known as converse problems).
 We will try to answer this.
-Now, we will show that, if there is a triangle such that sum of the squares on two of its sides is equal Fig 6.26 to the square of the third side, it must be a right-angled triangle.
+-true	Now, we will show that, if there is a triangle such that sum of the squares on two of its sides is equal Fig 6.26 to the square of the third side, it must be a right-angled triangle.
 DO THIS 1.
 Have cut-outs of squares with sides 4 cm, 5 cm, 6 cm long.
 Arrange to get a triangular shape by placing the corners of the squares suitably as shown in the figure (Fig 6.27).
@@ -293,7 +293,7 @@ Repeat the above activity with squares whose sides have lengths 4 cm, 5 cm and 7
 You get an obtuse-angled triangle!
 Note that 42 + 52 ≠ 72 etc.
 This shows that Pythagoras property holds if and only if the triangle is right-angled.
-Hence we get this fact: If the Pythagoras property holds, the triangle must be right-angled.
+-true	Hence we get this fact: If the Pythagoras property holds, the triangle must be right-angled.
 EXAMPLE 5 Determine whether the triangle whose lengths of sides are 3 cm, 4 cm, 5 cm is a right-angled triangle.
 SOLUTION  32 = 3 × 3 = 9; 42 = 4 × 4 = 16; 52 = 5 × 5 = 25  We find 32 + 42 = 52.
 Therefore, the triangle is right-angled.
@@ -340,33 +340,33 @@ DO THIS Enrichment activity  There are many proofs for Pythagoras theorem, using
 Try to collect a few of them and draw charts explaining them.
 WHAT  HAVE  WE DISCUSSED?
 1.
-The six elements of a triangle are its three angles and the three sides.
+-true	The six elements of a triangle are its three angles and the three sides.
 2.
-The line segment joining a vertex of a triangle to the mid point of its opposite side is called a median of the triangle.
-A triangle has 3 medians.
+-true	The line segment joining a vertex of a triangle to the mid point of its opposite side is called a median of the triangle.
+-true	A triangle has 3 medians.
 3.
-The perpendicular line segment from a vertex of a triangle to its opposite side is called an altitude of the triangle.
-A triangle has 3 altitudes.
+-true	The perpendicular line segment from a vertex of a triangle to its opposite side is called an altitude of the triangle.
+-true	A triangle has 3 altitudes.
 4.
-An exterior angle of a triangle is formed, when a side of a triangle is produced.
-At each vertex, you have two ways of forming an exterior angle.
+-true	An exterior angle of a triangle is formed, when a side of a triangle is produced.
+-true	At each vertex, you have two ways of forming an exterior angle.
 5.
-A property of exterior angles: The measure of any exterior angle of a triangle is equal to the sum of the measures of its interior opposite angles.
+-true	A property of exterior angles: The measure of any exterior angle of a triangle is equal to the sum of the measures of its interior opposite angles.
 6.
-The angle sum property of a triangle: The total measure of the three angles of a triangle is 180°.
+-true	The angle sum property of a triangle: The total measure of the three angles of a triangle is 180°.
 7.
-A triangle is said to be equilateral, if each one of its sides has the same length.
-In an equilateral triangle, each angle has measure 60°.
+-true	A triangle is said to be equilateral, if each one of its sides has the same length.
+-true	In an equilateral triangle, each angle has measure 60°.
 8.
-A triangle is said to be isosceles, if atleast any two of its sides are of same length.
-The non-equal side of an isosceles triangle is called its base; the base angles of an isosceles triangle have equal measure.
+-true	A triangle is said to be isosceles, if atleast any two of its sides are of same length.
+-true	The non-equal side of an isosceles triangle is called its base; the base angles of an isosceles triangle have equal measure.
 9.
-Property of the lengths of sides of a triangle: The sum of the lengths of any two sides of a triangle is greater than the length of the third side.
-The difference between the lengths of any two sides is smaller than the length of the third side.
+-true	Property of the lengths of sides of a triangle: The sum of the lengths of any two sides of a triangle is greater than the length of the third side.
+-true	The difference between the lengths of any two sides is smaller than the length of the third side.
 131  132  MATHEMATICS  This property is useful to know if it is possible to draw a triangle when the lengths of the three sides are known.
 10.
-In a right angled triangle, the side opposite to the right angle is called the hypotenuse and the other two sides are called its legs.
+-true	In a right angled triangle, the side opposite to the right angle is called the hypotenuse and the other two sides are called its legs.
 11.
-Pythagoras property: In a right-angled triangle, the square on the hypotenuse = the sum of the squares on its legs.
+-true	Pythagoras property: In a right-angled triangle, the square on the hypotenuse = the sum of the squares on its legs.
 If a triangle is not right-angled, this property does not hold good.
 This property is useful to decide whether a given triangle is right-angled or not.

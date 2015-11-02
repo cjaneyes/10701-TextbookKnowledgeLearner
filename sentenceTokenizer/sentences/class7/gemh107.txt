@@ -18,7 +18,7 @@ Sheets of the same letter-pad [Fig 7.2 (ii)].
 Biscuits in the same packet [Fig 7.2 (iii)].
 4.
 Toys made of the same mould.
-[Fig 7.2(iv)]  (i)  (ii)  Fig 7.2  (iii)  133  Chapter 7  CONGRUENCE OF TRIANGLES  (iv)  134  MATHEMATICS  The relation of two objects being congruent is called congruence.
+-true	[Fig 7.2(iv)]  (i)  (ii)  Fig 7.2  (iii)  133  Chapter 7  CONGRUENCE OF TRIANGLES  (iv)  134  MATHEMATICS  The relation of two objects being congruent is called congruence.
 For the present, we will deal with plane figures only, although congruence is a general idea applicable to three-dimensional shapes also.
 We will try to learn a precise meaning of the congruence of plane figures already known.
 7.2 CONGRUENCE  OF  PLANE FIGURES  Look at the two figures given here (Fig 7.3).
@@ -43,8 +43,8 @@ They are not congruent.
 How do you know it?
 It is because the line segments do not coincide when placed one over other.
 You should have by now noticed that the pair of line segments in [Fig 7.4(i)] matched with each other because they had same length; and this was not the case in [Fig 7.4(ii)].
-If two line segments have the same (i.e., equal) length, they are congruent.
-Also, if two line segments are congruent, they have the same length.
+-true	If two line segments have the same (i.e., equal) length, they are congruent.
+-true	Also, if two line segments are congruent, they have the same length.
 CONGRUENCE OF TRIANGLES  In view of the above fact, when two line segments are congruent, we sometimes just say that the line segments are equal; and we also write AB = CD.
 (What we actually mean is AB ≅ CD ).
 7.4 CONGRUENCE  OF  ANGLES  Look at the four angles given here (Fig 7.5).
@@ -70,18 +70,18 @@ The rays YX and YZ , respectively appear [in Fig 7.5 (iv)] to be longer than BA 
 You may, hence, think that ∠ABC is ‘smaller’ than ∠XYZ.
 But remember that the rays in the figure only indicate the direction and not any length.
 On superposition, you will find that these two angles are also congruent.
-We write or  ∠ABC ≅ ∠XYZ  (ii)  m∠ABC = m∠XYZ  In view of (i) and (ii), we may even write ∠ABC ≅ ∠PQR ≅ ∠XYZ If two angles have the same measure, they are congruent.
-Also, if two angles are congruent, their measures are same.
+-true	We write or  ∠ABC ≅ ∠XYZ  (ii)  m∠ABC = m∠XYZ  In view of (i) and (ii), we may even write ∠ABC ≅ ∠PQR ≅ ∠XYZ If two angles have the same measure, they are congruent.
+-true	Also, if two angles are congruent, their measures are same.
 135  136  MATHEMATICS  As in the case of line segments, congruency of angles entirely depends on the equality of their measures.
 So, to say that two angles are congruent, we sometimes just say that the angles are equal; and we write ∠ABC = ∠PQR (to mean ∠ABC ≅ ∠PQR).
 7.5 CONGRUENCE  OF  TRIANGLES  We saw that two line segments are congruent where one of them, is just a copy of the other.
 Similarly, two angles are congruent if one of them is a copy of the other.
 We extend this idea to triangles.
-Two triangles are congruent if they are copies of each other and when superposed, they cover each other exactly.
+-true	Two triangles are congruent if they are copies of each other and when superposed, they cover each other exactly.
 A  B  C  (i)  (ii) Fig 7.6  ∆ABC and ∆PQR have the same size and shape.
 They are congruent.
 So, we would express this as ∆ABC ≅ ∆PQR This means that, when you place ∆PQR on ∆ABC, P falls on A, Q falls on B and R falls on C, also falls along AB , QR falls along BC and PR falls along AC .
-If, under a given correspondence, two triangles are congruent, then their corresponding parts (i.e., angles and sides) that match one another are equal.
+-true	If, under a given correspondence, two triangles are congruent, then their corresponding parts (i.e., angles and sides) that match one another are equal.
 Thus, in these two congruent triangles, we have: Corresponding vertices : A and P, B and Q, C and R. : AB and PQ , BC and QR , AC and PR .
 Corresponding angles : ∠A and ∠P, ∠B and ∠Q, ∠C and ∠R.
 If you place ∆PQR on ∆ABC such that P falls on B, then, should the other vertices also correspond suitably?
@@ -148,7 +148,7 @@ Appu : Excellent.
 So, to draw a copy of a given ∆ABC (i.e., to draw a triangle congruent to ∆ABC), we need the lengths of three sides.
 Shall we call this condition as side-side-side criterion?
 Tippu : Why not we call it SSS criterion, to be short?
-SSS Congruence criterion: If under a given correspondence, the three sides of one triangle are equal to the three corresponding sides of another triangle, then the triangles are congruent.
+-true	SSS Congruence criterion: If under a given correspondence, the three sides of one triangle are equal to the three corresponding sides of another triangle, then the triangles are congruent.
 EXAMPLE 2 In triangles ABC and PQR, AB = 3.5 cm, BC = 7.1 cm, AC = 5 cm, PQ = 7.1 cm, QR = 5 cm and PR = 3.5 cm.
 Examine whether the two triangles are congruent or not.
 If yes, write the congruence relation in symbolic form.
@@ -210,7 +210,7 @@ How shall we name this criterion?
 Appu : It is SAS criterion.
 Do you follow it?
 Tippu : Yes, of course.
-SAS Congruence criterion: If under a correspondence, two sides and the angle included between them of a triangle are equal to two corresponding sides and the angle included between them of another triangle, then the triangles are congruent.
+-true	SAS Congruence criterion: If under a correspondence, two sides and the angle included between them of a triangle are equal to two corresponding sides and the angle included between them of another triangle, then the triangles are congruent.
 EXAMPLE 4 Given below are measurements of some parts of two triangles.
 Examine whether the two triangles are congruent or not, by using SAS congruence rule.
 If the triangles are congruent, write them in symbolic form.
@@ -247,7 +247,7 @@ In Fig 7.25, AB and CD bisect each other at O.
 (ii) only two of its angles?
 (iii) two angles and any one side?
 (iv) two angles and the side included between them?
-Attempts to solve the above questions lead us to the following criterion: ASA Congruence criterion: If under a correspondence, two angles and the included side of a triangle are equal to two corresponding angles and the included side of another triangle, then the triangles are congruent.
+-true	Attempts to solve the above questions lead us to the following criterion: ASA Congruence criterion: If under a correspondence, two angles and the included side of a triangle are equal to two corresponding angles and the included side of another triangle, then the triangles are congruent.
 EXAMPLE 6 By applying ASA congruence rule, it is to be established that ∆ABC ≅ ∆QRP and it is given that BC = RP.
 What additional information is needed to establish the congruence?
 CONGRUENCE OF TRIANGLES  SOLUTION For ASA congruence rule, we need the two angles between which the two sides BC and RP are included.
@@ -292,7 +292,7 @@ Try these with rough sketches.
 You will find that (iv) and (v) help you to draw the triangle.
 But case (iv) is simply the SAS condition.
 Case (v) is something new.
-This leads to the following criterion: RHS Congruence criterion: If under a correspondence, the hypotenuse and one side of a right-angled triangle are respectively equal to the hypotenuse and one side of another right-angled triangle, then the triangles are congruent.
+-true	This leads to the following criterion: RHS Congruence criterion: If under a correspondence, the hypotenuse and one side of a right-angled triangle are respectively equal to the hypotenuse and one side of another right-angled triangle, then the triangles are congruent.
 Why do we call this ‘RHS’ congruence?
 Think about it.
 CONGRUENCE OF TRIANGLES  EXAMPLE 8 Given below are measurements of some parts of two triangles.
@@ -379,29 +379,29 @@ Do they have equal medians?
 What can you say about their perimeters and areas?
 WHAT  HAVE  WE DISCUSSED?
 1.
-Congruent objects are exact copies of one another.
+-true	Congruent objects are exact copies of one another.
 2.
 The method of superposition examines the congruence of plane figures.
 3.
-Two plane figures, say, F1 and F2 are congruent if the trace-copy of F1 fits exactly on that of F2.
+-true	Two plane figures, say, F1 and F2 are congruent if the trace-copy of F1 fits exactly on that of F2.
 We write this as F1 ≅ F2.
 4.
-Two line segments, say, AB and CD , are congruent if they have equal lengths.
+-true	Two line segments, say, AB and CD , are congruent if they have equal lengths.
 We write this as AB ≅ CD .
 However, it is common to write it as AB = CD .
 5.
-Two angles, say, ∠ABC and ∠PQR, are congruent if their measures are equal.
+-true	Two angles, say, ∠ABC and ∠PQR, are congruent if their measures are equal.
 We write this as ∠ABC ≅ ∠PQR or as m∠ABC = m∠PQR.
 However, in practice, it is common to write it as ∠ABC = ∠PQR.
 6.
-SSS Congruence of two triangles: Under a given correspondence, two triangles are congruent if the three sides of the one are equal to the three corresponding sides of the other.
+-true	SSS Congruence of two triangles: Under a given correspondence, two triangles are congruent if the three sides of the one are equal to the three corresponding sides of the other.
 7.
-SAS Congruence of two triangles: Under a given correspondence, two triangles are congruent if two sides and the angle included between them in one of the triangles are equal to the corresponding sides and the angle included between them of the other triangle.
+-true	SAS Congruence of two triangles: Under a given correspondence, two triangles are congruent if two sides and the angle included between them in one of the triangles are equal to the corresponding sides and the angle included between them of the other triangle.
 151  152  MATHEMATICS  8.
-ASA Congruence of two triangles: Under a given correspondence, two triangles are congruent if two angles and the side included between them in one of the triangles are equal to the corresponding angles and the side included between them of the other triangle.
+-true	ASA Congruence of two triangles: Under a given correspondence, two triangles are congruent if two angles and the side included between them in one of the triangles are equal to the corresponding angles and the side included between them of the other triangle.
 9.
-RHS Congruence of two right-angled triangles: Under a given correspondence, two right-angled triangles are congruent if the hypotenuse and a leg of one of the triangles are equal to the hypotenuse and the corresponding leg of the other triangle.
+-true	RHS Congruence of two right-angled triangles: Under a given correspondence, two right-angled triangles are congruent if the hypotenuse and a leg of one of the triangles are equal to the hypotenuse and the corresponding leg of the other triangle.
 10.
-There is no such thing as AAA Congruence of two triangles: Two triangles with equal corresponding angles need not be congruent.
+-true	There is no such thing as AAA Congruence of two triangles: Two triangles with equal corresponding angles need not be congruent.
 In such a correspondence, one of them can be an enlarged copy of the other.
 (They would be congruent only if they are exact copies of one another).

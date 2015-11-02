@@ -57,12 +57,12 @@ It extends indefinitely in both directions.
 So it contains a countless number of points.
 (Think about this).
 Two points are enough to fix a line.
-We say ‘two points determine a line’.
+-notsure	We say ‘two points determine a line’.
 The adjacent diagram (Fig 4.3) is that of a line 71  !
 ""#  PQ written as PQ .
 Sometimes a line is denoted by a letter like l, m.  Fig 4.3  MATHEMATICS  4.5 Intersecting Lines Look at the diagram (Fig 4.4).
 Two lines l1 and l2 are shown.
-Both the lines pass through point P. We say l1 and l2 intersect at P. If two lines have one common point, they are called intersecting lines.
+-true	Both the lines pass through point P. We say l1 and l2 intersect at P. If two lines have one common point, they are called intersecting lines.
 Fig 4.4 The following are some models of a pair of intersecting lines (Fig 4.5) : Try to find out some more models for a pair of intersecting lines.
 Two adjacement edges of your notebook  The letter X of the English alphabet  Crossing-roads  Fig 4.5  Take a sheet of paper.
 Make two folds (and crease them) to represent a pair of intersecting lines and discuss : (a) Can two lines intersect in more than one point?
@@ -97,7 +97,7 @@ Try to find ten examples.
 ""#  If two lines AB and CD are parallel, we write AB || CD .
 If two lines l1 and l2 are parallel, we write l1 || l2 .
 Can you identify parrallel lines in the following figures?
-The opposite edges of ruler (scale)  The cross-bars of this window  Rail lines  Lines like these which do not meet are said to be parallel; and are called parallel lines.
+-true	The opposite edges of ruler (scale)  The cross-bars of this window  Rail lines  Lines like these which do not meet are said to be parallel; and are called parallel lines.
 4.7 Ray  Beam of light from a light house  Ray of light from a torch  73 Sun rays  MATHEMATICS  The following are some models for a ray : A ray is a portion of a line.
 It starts at one point (called starting point) and goes endlessly in a direction.
 Look at the diagram (Fig 4.7) of ray shown here.
@@ -161,7 +161,7 @@ These are all curves (Fig 4.10).
 ‘Curve’ in everyday usage means “not straight”.
 In Mathematics, a curve can be straight like the one shown in fig 4.10 (iv).
 Observe that the curves (iii) and (vii) in Fig 4.10 cross themselves, whereas the curves (i), (ii), (v) and (vi) in Fig 4.10 do not.
-If a curve does not cross itself, then it is called a simple curve.
+-true	If a curve does not cross itself, then it is called a simple curve.
 Draw five more simple curves and five curves that are not simple.
 Consider these now (Fig 4.11).
 What is the difference between these two?
@@ -177,14 +177,14 @@ You talk about ‘inside’ the compound, ‘on’ the boundary of the compound 
 In a closed curve, thus, there are three parts.
 (i) interior (‘inside’) of the curve (ii) boundary (‘on’) of the curve and Fig 4.12 (iii) exterior (‘outside’) of the curve.
 In the figure 4.12, A is in the interior, C is in the exterior and B is on the curve.
-The interior of a curve together with its boundary is called its “region”.
+-true	The interior of a curve together with its boundary is called its “region”.
 4.9 Polygons Look at these figures 4.13 (i), (ii), (iii), (iv) and (v).
 76  (i)  (ii)  (iii)  Fig 4.13  (iv)  (v)  B ASIC G EOMETRICAL I DEAS  What can you say?
 Are they closed?
 How does each one of them differ from the other?
 (i), (ii), (iii) and (iv) are special because they are made up entirely of line segments.
 They are called polygons.
-So, a figure is a polygon if it is a simple closed figure made up entirely of line segments.
+-true	So, a figure is a polygon if it is a simple closed figure made up entirely of line segments.
 Draw ten differently shaped polygons.
 Do This Try to form a polygon with 1.
 Five matchsticks.
@@ -198,19 +198,19 @@ In which case was it not possible?
 Why?
 Sides, vertices and diagonals Fig 4.14 Examine the figure given here (Fig 4.14).
 Give justification to call it a polygon.
-The line segments forming a polygon are called its sides.
+I	The line segments forming a polygon are called its sides.
 What are the sides of polygon ABCDE?
 (Note how the corners are named in order.)
 Sides are AB, BC, CD, DE and EA .
-The meeting point of a pair of sides is called its vertex.
+-true	The meeting point of a pair of sides is called its vertex.
 Sides AE and ED meet at E, so E is a vertex of the polygon ABCDE.
 Points B and C are its other vertices.
 Can you name the sides that meet at these points?
 Can you name the other vertices of the above polygon ABCDE?
-Any two sides with a common end point are called the adjacent sides of the polygon.
+-true	Any two sides with a common end point are called the adjacent sides of the polygon.
 Are the sides AB and BC adjacent?
 How about AE and DC ?
-The end points of the same side of a polygon are called the adjacent vertices.
+-true	The end points of the same side of a polygon are called the adjacent vertices.
 Vertices E and D are adjacent, whereas vertices A and D are not adjacent vertices.
 Do you see why?
 Consider the pairs of vertices which are not adjacent.
@@ -239,8 +239,8 @@ The edges AD of the box and AP of the door can be Fig 4.16  imagined as two rays
 These two rays have a common end point A.
 The two rays here together are said to form an angle.
 An angle is made up of two rays starting from a common end point.
-The two rays forming the angle are called the arms or sides of the angle.
-The common end point is the vertex of the angle.
+-true	The two rays forming the angle are called the arms or sides of the angle.
+-true	The common end point is the vertex of the angle.
 78  B ASIC G EOMETRICAL I DEAS  This is an angle formed by rays OP and OQ (Fig 4.17).
 To show this we use a small curve at the vertex.
 (see Fig 4.17).
@@ -268,7 +268,7 @@ BA and where BC lies.
 79  MATHEMATICS  Now shade in a different colour the portion !!!"
 !!!"
 of the paper bordering BC and where BA lies.
-The portion common to both shadings is called the interior of ∠ABC (Fig 4.19).
+-notsure	The portion common to both shadings is called the interior of ∠ABC (Fig 4.19).
 (Note that the interior is not a restricted area; it extends indefinitely since the two sides extend indefinitely).
 Fig 4.19  In this diagram (Fig 4.20), X is in the interior of the angle, Z is not in the interior but in the exterior of the angle; and S is on the ∠PQR .
 Thus, the angle also has three parts associated with it.
@@ -281,7 +281,7 @@ Draw rough diagrams of two angles such that they have (a) One point in common.
 (c) Three points in common.
 (d) Four points in common.
 (e) One ray in common.
-B ASIC G EOMETRICAL I DEAS  4.11 Triangles A triangle is a three-sided polygon.
+-true	B ASIC G EOMETRICAL I DEAS  4.11 Triangles A triangle is a three-sided polygon.
 In fact, it is the polygon with the least number of sides.
 Look at the triangle in the diagram (Fig 4.21).
 We write ∆ABC instead of writing “Triangle ABC”.
@@ -300,7 +300,7 @@ Is the point A in its exterior or in its interior?
 A (b) Write the names of seven angles.
 (c) Write the names of six line segments.
 (d) Which two triangles have ∠B as common?
-B  D  C  4.12 Quadrilaterals A four sided polygon is a quadrilateral.
+-true	B  D  C  4.12 Quadrilaterals A four sided polygon is a quadrilateral.
 It has 4 sides and 4 angles.
 As in the case of a triangle, you can visualise its interior too.
 Note the cyclic manner in which the vertices are named.
@@ -308,7 +308,7 @@ This quadrilateral ABCD (Fig 4.23) has four sides AB , BC , CD and DA .
 It has four angles ∠A , ∠B , ∠C and ∠D .
 Fig 4.23  81  MATHEMATICS  This is quadrilateral PQRS.
 Is this quadrilateral PQRS?
-In any quadrilateral ABCD, AB and BC are adjacent sides.
+-true	In any quadrilateral ABCD, AB and BC are adjacent sides.
 Can you write other pairs of adjacent sides?
 C  AB and DC are opposite sides; Name the  other pair of opposite sides.
 D ∠A and ∠C are said to be opposite angles; similarly, ∠D and ∠B are opposite angles.
@@ -350,25 +350,25 @@ Naturally every point on the circle is at equal distance from the centre.
 Parts of a circle Here is a circle with centre C (Fig 4.24) A, P, B, M are points on the circle.
 You will see that CA = CP = CB = CM.
 Each of the segments CA , CP , CB , CM is radius of the circle.
-The radius is a line segment that connects the centre to a point on the circle.
+-true	The radius is a line segment that connects the centre to a point on the circle.
 CP and CM are radii (plural of ‘radius’) such that C, P, M  Fig 4.24  are in a line.
 PM is known as diameter of the circle.
 Is a diameter double the size of a radius?
 Yes.
 PB is a chord connecting two points on a circle.
 Is PM also a chord?
-An arc is a portion of circle.
+-true	An arc is a portion of circle.
 If P and Q are two points you get the arc PQ.
 We !
 (Fig 4.25).
 write it as PQ As in the case of any simple closed curve you can think of the interior and exterior of a circle.
 A region in the interior of a circle enclosed by an arc on one  Fig 4.25  83  MATHEMATICS  side and a pair of radii on the other two sides is called a sector (Fig 4.26).
-A region in the interior of a circle enclosed by a chord and an arc is called a segment of the circle.
+-true	A region in the interior of a circle enclosed by a chord and an arc is called a segment of the circle.
 Take any circular object.
 Use a thread and wrap it around the object once.
 The length of the thread is the distance covered to travel around the object once.
 What does this length denote?
-The distance around a circle is its circumference.
+-true	The distance around a circle is its circumference.
 Fig 4.26  Do This Take a circular sheet.
 Fold it into two halves.
 Crease the fold and open up.

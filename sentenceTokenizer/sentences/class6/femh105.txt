@@ -5,7 +5,7 @@ We find that they have different sizes and measures.
 Let us now try to develop tools to compare their sizes.
 5.2 Measuring Line Segments We have drawn and seen so many line segments.
 A triangle is made of three, a quadrilateral of four line segments.
-A line segment is a fixed portion of a line.
+-true	A line segment is a fixed portion of a line.
 This makes it possible to measure a line segment.
 This measure of each line segment is a unique number called its “length”.
 We use this idea to compare line segments.
@@ -114,9 +114,9 @@ You face north!
 To turn from north to south, you took a straight angle turn, again to turn from south to north, you took another straight angle turn in the same direction.
 Thus, turning by two straight angles you reach your original position.
 Think, discuss and write By how many right angles should you turn in the same direction to reach your original position?
-Turning by two straight angles (or four right angles) in the same direction makes a full turn.
-This one complete turn is called one revolution.
-The angle for one revolution is a complete angle.
+-notsure	Turning by two straight angles (or four right angles) in the same direction makes a full turn.
+-notsure	This one complete turn is called one revolution.
+-notsure	The angle for one revolution is a complete angle.
 We can see such revolutions on clock-faces.
 When the hand of a clock moves from one position to another, it turns through an angle.
 Suppose the hand of a clock starts at 12 and goes round until it reaches at 12 again.
@@ -190,16 +190,16 @@ Draw the following and check the angle with your RA tester.
 Take five different shapes with corners.
 Name the corners.
 Examine them with your tester and tabulate your results for each case :  Smaller than  Larger than  A  .............  .............  B  .............  .............  C  .............  .............  ........
-Corner  Other names  An angle smaller than a right angle is called an acute angle.
+-true	Corner  Other names  An angle smaller than a right angle is called an acute angle.
 These are acute angles.
 93  MATHEMATICS    Do you see that each one of them is less than one-fourth of a revolution?
 Examine them with your RA tester.
-If an angle is larger than a right angle, but less than a straight angle, it is called an obtuse angle.
+-true	If an angle is larger than a right angle, but less than a straight angle, it is called an obtuse angle.
 These are obtuse angles.
 Do you see that each one of them is greater than one-fourth of a revolution but less than half a revolution?
 Your RA tester may help to examine.
 Identify the obtuse angles in the previous examples too.
- A reflex angle is larger than a straight angle.
+-true	A reflex angle is larger than a straight angle.
 It looks like this.
 (See the angle mark) Were there any reflex angles in the shapes you made earlier?
 How would you check for them?
@@ -311,7 +311,7 @@ Look at the same figure through a magnifying glass.
 Does the angle becomes larger?
 Does the size of the angle change?
 11.
-Measure and classify each angle : Angle ∠AOB ∠AOC ∠BOC ∠DOC ∠DOA ∠DOB  Measure  Type  5.6 Perpendicular Lines When two lines intersect and the angle between them is a right angle, then the lines are said to be perpendicular.
+Measure and classify each angle : Angle ∠AOB ∠AOC ∠BOC ∠DOC ∠DOA ∠DOB  Measure  Type  5.6 -true	Perpendicular Lines When two lines intersect and the angle between them is a right angle, then the lines are said to be perpendicular.
 If a line AB is perpendicular to CD, we write AB ⊥ CD .
 Think, discuss and write If AB ⊥ CD , then should we say that CD ⊥ AB also?
 Perpendiculars around us!
@@ -366,13 +366,13 @@ If the three sides of a triangle are unequal then, the three angles are also....
 For this we will again have to measure all the sides and angles of the triangles.
 The triangles have been divided into categories and given special names.
 Let us see what they are.
-Naming triangles based on sides A triangle having all three unequal sides is called a Scalene Triangle [(c), (e)].
-A triangle having two equal sides is called an Isosceles Triangle [(b), (f)].
-A triangle having three equal sides is called an Equilateral Triangle [(a), (d)].
+-true	Naming triangles based on sides A triangle having all three unequal sides is called a Scalene Triangle [(c), (e)].
+-true	A triangle having two equal sides is called an Isosceles Triangle [(b), (f)].
+-true	A triangle having three equal sides is called an Equilateral Triangle [(a), (d)].
 Classify all the triangles whose sides you measured earlier, using these definitions.
-Naming triangles based on angles If each angle is less than 90°, then the triangle is called an acute angled triangle.
-If any one angle is a right angle then the triangle is called a right angled triangle.
-If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+-true	Naming triangles based on angles If each angle is less than 90°, then the triangle is called an acute angled triangle.
+-true	If any one angle is a right angle then the triangle is called a right angled triangle.
+-true	If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
 Name the triangles whose angles were measured earlier according to these three categories.
 How many were right angled triangles?
 Do This  102  Try to draw rough sketches of (a) a scalene acute angled triangle.
@@ -400,7 +400,7 @@ Can you make a triangle with (a) 3 matchsticks?
 (d) 6 matchsticks?
 (Remember you have to use all the available matchsticks in each case) Name the type of triangle in each case.
 If you cannot make a triangle, think of reasons for it.
-5.8 Quadrilaterals A quadrilateral, if you remember, is a polygon which has four sides.
+-true	5.8 Quadrilaterals A quadrilateral, if you remember, is a polygon which has four sides.
 Do This 1.
 Place a pair of unequal sticks such that they have their end points joined at one end.
 Now place another such pair meeting the free ends of the first pair.
@@ -428,7 +428,7 @@ Place them as shown in the figure.
 Can you name the quadrilateral described?
 What is the measure of each of its angles?
 This quadrilateral is a rectangle.
-One more obvious property of the rectangle you can see is that opposite sides are of equal length.
+-true	One more obvious property of the rectangle you can see is that opposite sides are of equal length.
 What other properties can you find?
 (b) If you use a pair of 45°– 45°–90° set-squares, you get another quadrilateral this time.
 It is a square.
@@ -501,26 +501,26 @@ Faces, edges and vertices In case of many three dimensional shapes we can distin
 What do we mean by these terms: Face, Edge and Vertex?
 (Note ‘Vertices’ is the plural form of ‘vertex’).
 Consider a cube, for example.
-Each side of the cube is a flat surface called a flat face (or simply a face).
-Two faces meet at a line segment called an edge.
-Three edges meet at a point called a vertex.
+-true	Each side of the cube is a flat surface called a flat face (or simply a face).
+-true	Two faces meet at a line segment called an edge.
+-true	Three edges meet at a point called a vertex.
 Here is a diagram of a prism.
 Have you seen it in the laboratory?
 One of its faces is a triangle.
 So it is called a triangular prism.
 The triangular face is also known as its base.
-A prism has two identical bases; the other faces are rectangles.
-If the prism has a rectangular base, it is a rectangular prism.
+-true	A prism has two identical bases; the other faces are rectangles.
+-true	If the prism has a rectangular base, it is a rectangular prism.
 Can you recall another name for a rectangular prism?
-A pyramid is a shape with a single base; the other faces are triangles.
+-true	A pyramid is a shape with a single base; the other faces are triangles.
 Here is a square pyramid.
 Its base is a square.
 Can you imagine a triangular pyramid?
 Attempt a rough sketch of it.
-The cylinder, the cone and the sphere have no straight edges.
+-true	The cylinder, the cone and the sphere have no straight edges.
 What is the base of a cone?
 Is it a circle?
-The cylinder has two bases.
+-true	The cylinder has two bases.
 What shapes are they?
 Of course, a sphere has no flat faces!
 Think about it.
@@ -552,7 +552,7 @@ What shape is (a) Your instrument box?
 (d) A road-roller?
 What have we discussed?
 1.
-The distance between the end points of a line segment is its length.
+-true	The distance between the end points of a line segment is its length.
 2.
 A graduated ruler and the divider are useful to compare lengths of line segments.
 3.
@@ -560,13 +560,13 @@ When a hand of a clock moves from one position to another position we have an ex
 One full turn of the hand is 1 revolution.
 A right angle is ¼ revolution and a straight angle is ½ a revolution .
 We use a protractor to measure the size of an angle in degrees.
-The measure of a right angle is 90° and hence that of a straight angle is 180°.
-An angle is acute if its measure is smaller than that of a right angle and is obtuse if its measure is greater than that of a right angle and less than a straight angle.
-A reflex angle is larger than a straight angle.
+-true	The measure of a right angle is 90° and hence that of a straight angle is 180°.
+-true	An angle is acute if its measure is smaller than that of a right angle and is obtuse if its measure is greater than that of a right angle and less than a straight angle.
+-true	A reflex angle is larger than a straight angle.
 111  MATHEMATICS  4.
-Two intersecting lines are perpendicular if the angle between them is 90°.
+-true	Two intersecting lines are perpendicular if the angle between them is 90°.
 5.
-The perpendicular bisector of a line segment is a perpendicular to the line segment that divides it into two equal parts.
+-true	The perpendicular bisector of a line segment is a perpendicular to the line segment that divides it into two equal parts.
 6.
 Triangles can be classified as follows based on their angles: Nature of angles in the triangle  Name  Each angle is acute One angle is a right angle One angle is obtuse  Acute angled triangle Right angled triangle Obtuse angled triangle  7.
 Triangles can be classified as follows based on the lengths of their sides: Nature of sides in the triangle  Name  All the three sides are of unequal length Any two of the sides are of equal length All the three sides are of equal length  Scalene triangle Isosceles triangle Equilateral triangle  8.
