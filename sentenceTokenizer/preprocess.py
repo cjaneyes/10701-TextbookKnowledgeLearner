@@ -27,6 +27,8 @@ class processer:
 								label = ""
 							lines[i] = lines[i].replace("-true\t","")
 
+
+
 							# delete sentences that are too short 
 							if  self.handleShort(lines[i]):
 								#self.handleFilename(lines[i])
@@ -97,4 +99,4 @@ if __name__ == '__main__':
 	#test_line = "TRIANGLES  123  6.3 Similarity of Triangles What can you say about the similarity of two triangles?\n"
 	#print p.handlePrefix(test_line)
 	p.write2file(p.outputpath)
-
+	#self.handleFilename()
