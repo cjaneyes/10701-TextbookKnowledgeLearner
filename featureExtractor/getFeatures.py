@@ -21,7 +21,7 @@ if __name__ == '__main__':
 			line = line.replace("**","")
 			features = {}
 			sentence_type = 0
-			label = 'false'
+			label = '-1'    # refer to false label
 			token = line.rstrip().lstrip().split("\t")
 			sentence = token[0]
 
@@ -29,9 +29,9 @@ if __name__ == '__main__':
 			if len(token) > 1:
 				sentence = token[1]
 				if token[0] == '-true':
-					label = "true"
+					label = "1"    # refer to true label
 				else:
-					label = "notsure"
+					label = "-1"    # refer to notsure label
 
 			#set the sentence type: 1 for questions 2 for declarative sentence 3 for exclaimation
 			#sentence type is treated as the first feature
