@@ -5,7 +5,7 @@ import re
 
 #this code will read a each sentence line by line and output an input for ML model
 #the format is label \t <index1>:<value1> .... (sparse representation)
-#Run by command: python getFeatures.py INPUT_DIRECTORY OUTPUT_FIlEPATH
+#Run by command: python getFeatures_lowercase.py INPUT_DIRECTORY OUTPUT_FIlEPATH
 
 if __name__ == '__main__':
 	vocab = {}
@@ -24,7 +24,7 @@ if __name__ == '__main__':
 				continue
 			f = codecs.open(file_path, encoding = 'utf-8')
 			for line in f:
-				line = line.replace("**","")
+				line = line.replace("**","").lower()
 				features = {}
 				sentence_type = 0
 				label = '-1'    # refer to false label

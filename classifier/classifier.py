@@ -20,9 +20,12 @@ class Classifier:
     def __init__(self,train_file):
         self.train_file = train_file
         self.data = self.read_data(train_file)
+        self.read_lines(train_file)
+        self.X_S = self.data[0]
         self.X = self.data[0].toarray()
         self.y = self.data[1]
         self.n_fold = 10
+        assert len(self.lines)==(self.X.shape[0])
 
     '''
         read data from file
@@ -31,6 +34,9 @@ class Classifier:
     def read_data(train_file):
         data = load_svmlight_file(train_file)
         return data
+
+    def read_lines(self,train_file):
+        self.lines = open(train_file,"r").readlines()
 
     @staticmethod
     def sampling(X, y):
@@ -112,17 +118,32 @@ class Classifier:
                 print 'Classifier %s has %s %.4f' %(name, metrics[i], values[i])
             print '\n'
 
+    def split(self, n_fold):
+        cv = cross_validation.StratifiedKFold(self.y, n_folds=n_fold)
+        train = []
+        test = []
+        for train, test in cv:
+            break
+        write_file = open("train.train","w")
+        for itr in train:
+            write_file.write(self.lines[itr])
+        write_file = open("test.test","w")
+        for itr in test:
+            write_file.write(self.lines[itr])
+            
 if __name__ == '__main__':
     c = Classifier('./balanced.txt')
-    c.preprocess()
+    #c.preprocess()
 
-    crange = [100]
-    grange = numpy.linspace(0, 0.10, num=20)
+    c.split(5)
+
+    #crange = [100]
+    #grange = numpy.linspace(0, 0.10, num=20)
     #for C in crange:
     #    c.svm(C, 'linear', 0)
-    for C in crange:
-        for g in grange:
-            c.svm(C, 'rbf', g)
+    #for C in crange:
+    #    for g in grange:
+    #        c.svm(C, 'rbf', g)
 
     #c.gaussian_nb()
     #c.gradient_boosting()
