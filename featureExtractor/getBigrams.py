@@ -5,7 +5,7 @@ import re
 
 #this code will read a each sentence line by line and output an input for ML model
 #the format is label \t <index1>:<value1> .... (sparse representation)
-#Run by command: python getFeatures.py INPUT_DIRECTORY OUTPUT_FIlEPATH
+#Run by command: python getBigrams.py INPUT_DIRECTORY OUTPUT_FIlEPATH
 
 if __name__ == '__main__':
 	vocab = {}
@@ -16,7 +16,8 @@ if __name__ == '__main__':
 		if "class" not in class_name:
 			print class_name
 			continue
-		for chapter in os.listdir(folder_path+"/"+class_name):	
+		for chapter in os.listdir(folder_path+"/"+class_name):
+			print chapter
 			file_path = folder_path+'/'+class_name+"/"+chapter
 			if ".DS_Store" in file_path:
 				continue
@@ -57,6 +58,15 @@ if __name__ == '__main__':
 				for w in words:
 					if w not in vocab.keys():
 						vocab[w] = len(vocab) + 2
+					index = vocab[w]
+					if index in features.keys():
+						features[index] += 1
+					else:
+						features[index] = 1
+				for i in xrange(len(words) - 1):
+					bigram = words[i]+","+words[i+1]
+					if bigram not in vocab.keys():
+						vocab[bigram] = len(vocab) + 2
 					index = vocab[w]
 					if index in features.keys():
 						features[index] += 1
