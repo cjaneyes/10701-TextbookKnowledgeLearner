@@ -67,7 +67,7 @@ if __name__ == '__main__':
 					bigram = words[i]+","+words[i+1]
 					if bigram not in vocab.keys():
 						vocab[bigram] = len(vocab) + 2
-					index = vocab[w]
+					index = vocab[bigram]
 					if index in features.keys():
 						features[index] += 1
 					else:
