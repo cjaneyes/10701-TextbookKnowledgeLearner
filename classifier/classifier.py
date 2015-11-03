@@ -124,18 +124,19 @@ class Classifier:
         test = []
         for train, test in cv:
             break
-        write_file = open("train.train","w")
+        write_file = open("bi/bi.train","w")
         for itr in train:
             write_file.write(self.lines[itr])
-        write_file = open("test.test","w")
+        write_file = open("bi/bi.test","w")
         for itr in test:
             write_file.write(self.lines[itr])
             
 if __name__ == '__main__':
-    c = Classifier('./balanced.txt')
+    #c1 = Classifier('./bow/feature.bow')
+    c2 = Classifier('./bi/feature.bi')
     #c.preprocess()
 
-    c.split(5)
+    c2.split(5)
 
     #crange = [100]
     #grange = numpy.linspace(0, 0.10, num=20)
