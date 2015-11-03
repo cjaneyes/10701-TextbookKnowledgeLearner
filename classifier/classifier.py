@@ -32,17 +32,14 @@ class Classifier:
         data = load_svmlight_file(train_file)
         return data
 
-    '''
-        preprocessing the input data
-    '''    
-    def preprocess(self):
-        idf = TfidfTransformer()
-        idf.fit_transform(self.X)
-        #self.X = preprocessing.normalize(self.X,axis=1)
-
     @staticmethod
     def sampling(X, y):
-        print 'test'
+        X_s = X
+        y_s = y
+        for i in range(len(y)):
+            if y[i] == 1:
+                X_s = numpy.vstack([X_s, X[i]])
+                y_s = numpy.vstack([y_s, y[i]])
 
     '''
         provide the classification of a single classifier
@@ -72,12 +69,22 @@ class Classifier:
         return [val_a/n_fold, val_p/n_fold, val_r/n_fold, val_f/n_fold]
 
 
+
+    '''
+        preprocessing the input data
+    '''    
+    def preprocess(self):
+        idf = TfidfTransformer()
+        idf.fit_transform(self.X)
+        #self.X = preprocessing.normalize(self.X,axis=1)
+
+
     '''
         This part provides the classification models.
     '''
-    def svm(self, kernel_f):
-        svc = SVC(kernel=kernel_f)
-        name  = 'Support Vector Machine'
+    def svm(self, c, kernel_f, g):
+        svc = SVC(C=c, kernel=kernel_f, gamma=g)
+        name  = 'Support Vector Machine with kernel: %s C:%d gamma:%f' %(kernel_f, c, g)
         res = self.classify(self.X, self.y, svc, self.n_fold)
         self.write_metrics(res, name)
 
@@ -103,10 +110,19 @@ class Classifier:
             metrics = ["accuracy", "precision", "recall", "f1-score"]
             for i in range(len(values)):
                 print 'Classifier %s has %s %.4f' %(name, metrics[i], values[i])
+            print '\n'
 
 if __name__ == '__main__':
-    c = Classifier('./train_file')
+    c = Classifier('./balanced.txt')
     c.preprocess()
-    #c.svm("linear")
+
+    crange = [100]
+    grange = numpy.linspace(0, 0.10, num=20)
+    #for C in crange:
+    #    c.svm(C, 'linear', 0)
+    for C in crange:
+        for g in grange:
+            c.svm(C, 'rbf', g)
+
     #c.gaussian_nb()
     #c.gradient_boosting()
