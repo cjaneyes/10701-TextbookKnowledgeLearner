@@ -31,7 +31,8 @@ class Classifier:
         normalize or rescale the data
     '''    
     def preprocess(self):
-        self.X = preprocessing.normalize(self.X,axis=1)
+        self.X = preprocessing.normalize(self.X)
+        self.X = preprocessing.scale(self.X)
 
 
     '''
@@ -53,7 +54,7 @@ class Classifier:
                 val_p += precision_score(y[test], y_pred,average='binary') #  binary means only pos_label
                 val_r += recall_score(y[test], y_pred,average='binary')
                 val_f += f1_score(y[test], y_pred,average='binary')
-                
+
         if metrics == "all":
             return [val_p/n_fold, val_r/n_fold, val_f/n_fold]
         elif metrics == "accuracy":
