@@ -2,7 +2,6 @@
 
 import scipy
 import numpy
-import random
 from sklearn.datasets import load_svmlight_file
 from sklearn import cross_validation
 from sklearn.naive_bayes import GaussianNB
@@ -52,46 +51,14 @@ class Classifier:
         self.lines = open(train_file,"r").readlines()
         return self.lines
 
-    '''
-        provide sampling method, where:
-        sampling = (0) no sampling  (1) undersampling  (2) oversampling
-        ratio = expected #pos / #neg
-    '''
     @staticmethod
-    def sampling(X, y, sampling, ratio):
-
-        lneg = []
-        lpos = []
+    def sampling(X, y):
+        X_s = X
+        y_s = y
         for i in range(len(y)):
             if y[i] == 1:
-                lpos.append(i)
-            else:
-                lneg.append(i)
-
-        print y
-        if sampling == 1:
-            num = int(len(lpos)/ratio)
-            ln = random.sample(lneg, num)
-            X_s = numpy.empty((0,X.shape[1]), float)
-            y_s = numpy.empty((0,), float)
-            for i in lpos:
-                X_s = numpy.append(X_s, numpy.array([X[i]]), axis=0)
-                y_s = numpy.append(y_s, numpy.array([y[i]]), axis=0)
-            for i in ln:
-                X_s = numpy.append(X_s, numpy.array([X[i]]), axis=0)
-                y_s = numpy.append(y_s, numpy.array([y[i]]), axis=0)
-        elif sampling == 2:
-            X_s = X
-            y_s = y
-            num = int((len(lneg)*ratio/len(lpos)))-1
-            for i in range(len(y)):
-                if y[i] == 1:
-                    for j in range(num):
-                        X_s = numpy.append(X_s, numpy.array([X[i]]), axis=0)
-                        y_s = numpy.append(y_s, numpy.array([y[i]]), axis=0)
-
-        return (X_s, y_s)
-
+                X_s = numpy.vstack([X_s, X[i]])
+                y_s = numpy.vstack([y_s, y[i]])
 
     '''
         provide the classification of a single Classifier
@@ -151,17 +118,12 @@ class Classifier:
 
 
     '''
-        preprocessing the input data, where:
-        sampling = (0) no sampling  (1) undersampling  (2) oversampling
-        ratio = expected #pos / #neg
+        preprocessing the input data
     '''    
-    def preprocess(self, sampling, ratio):
+    def preprocess(self):
         tfidf = TfidfTransformer()
         tfidf.fit_transform(self.X)
         tfidf.transform(self.X_test)
-        
-        if sampling != 0:
-            self.X_train, self.y_train = self.sampling(self.X, self.y, sampling, ratio)
         #self.X = preprocessing.normalize(self.X,axis=1)
 
 
@@ -239,17 +201,16 @@ class Classifier:
 
 if __name__ == '__main__':
     #c1 = Classifier('./bow/feature.bow')
-    c = Classifier('./bow/feature.bow', './bow/bow.train', './bow/bow.test')
-    c.preprocess(0, 0.5)
+    c = Classifier('./bi/feature.bi', './bi/bi.test', './bi/bi.test')
+    c.preprocess()
     #c.svm(1, 'linear', 0, False)
-
-    #crange = [1,10,100]
-    #grange = numpy.linspace(0, 0.1, num=20)
-    #for C in crange:
-    #    c.svm(C, 'linear', 0, True)
-    #for C in crange:
-    #    for g in grange:
-    #        c.svm(C, 'rbf', g, True)
+    crange = [1,10,100]
+    grange = numpy.linspace(0, 0.1, num=20)
+    for C in crange:
+        c.svm(C, 'linear', 0, True)
+    for C in crange:
+        for g in grange:
+            c.svm(C, 'rbf', g, True)
 
     #c.gaussian_nb()
     #c.gradient_boosting()
