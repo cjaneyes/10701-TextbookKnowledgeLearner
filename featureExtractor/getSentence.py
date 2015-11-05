@@ -41,14 +41,24 @@ if __name__ == '__main__':
 
 				#set the sentence type: 1 for questions 2 for declarative sentence 3 for exclaimation
 				#sentence type is treated as the first feature
+				features[1] = len(sentence)
 				last_char = sentence[len(sentence)-1]
-				if last_char == '?':
-					sentence_type = 1
-				elif last_char == ".":
-					sentence_type = 2
-				elif last_char == "!":
-					sentence_type = 3
-
+				if last_char == '.':
+					features[2] = 1
+				else:
+					features[2] = 0
+				if last_char == "?":
+					features[3] = 1
+				else:
+					features[3] = 0
+				if "," in sentence:
+					features[4] = 1
+				else:
+					features[4] = 0
+				if ":" in sentence:
+					features[5] = 1
+				else:
+					features[5] = 0
 				#only consider words that include [0-9a-zA-Z]
 				sentence = re.sub("\\W+", " ", sentence, flags = re.UNICODE)
 				words = sentence.split()
@@ -56,7 +66,7 @@ if __name__ == '__main__':
 					continue
 				for w in words:
 					if w not in vocab.keys():
-						vocab[w] = len(vocab) + 1
+						vocab[w] = len(vocab) + 5 + 1
 					index = vocab[w]
 					if index in features.keys():
 						features[index] += 1
