@@ -1,0 +1,379 @@
+sampling with ratio 0.45
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has accuracy 0.8763
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has precision 0.8230
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has recall 0.7728
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has f1-score 0.7953
+
+
+Classifier Support Vector Machine with kernel: linear C:10 gamma:0.000000 has accuracy 0.8537
+Classifier Support Vector Machine with kernel: linear C:10 gamma:0.000000 has precision 0.7546
+Classifier Support Vector Machine with kernel: linear C:10 gamma:0.000000 has recall 0.7900
+Classifier Support Vector Machine with kernel: linear C:10 gamma:0.000000 has f1-score 0.7706
+
+
+Classifier Support Vector Machine with kernel: linear C:100 gamma:0.000000 has accuracy 0.8461
+Classifier Support Vector Machine with kernel: linear C:100 gamma:0.000000 has precision 0.7480
+Classifier Support Vector Machine with kernel: linear C:100 gamma:0.000000 has recall 0.7690
+Classifier Support Vector Machine with kernel: linear C:100 gamma:0.000000 has f1-score 0.7574
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.000000 has accuracy 0.6894
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.000000 has precision 0.0000
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.000000 has recall 0.0000
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.000000 has f1-score 0.0000
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.005263 has accuracy 0.6894
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.005263 has precision 0.0000
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.005263 has recall 0.0000
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.005263 has f1-score 0.0000
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.010526 has accuracy 0.6894
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.010526 has precision 0.0000
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.010526 has recall 0.0000
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.010526 has f1-score 0.0000
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.015789 has accuracy 0.6894
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.015789 has precision 0.0000
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.015789 has recall 0.0000
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.015789 has f1-score 0.0000
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.021053 has accuracy 0.6894
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.021053 has precision 0.0000
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.021053 has recall 0.0000
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.021053 has f1-score 0.0000
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.026316 has accuracy 0.6894
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.026316 has precision 0.0000
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.026316 has recall 0.0000
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.026316 has f1-score 0.0000
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.031579 has accuracy 0.6907
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.031579 has precision 0.1000
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.031579 has recall 0.0040
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.031579 has f1-score 0.0077
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.036842 has accuracy 0.7134
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.036842 has precision 1.0000
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.036842 has recall 0.0775
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.036842 has f1-score 0.1415
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.042105 has accuracy 0.7298
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.042105 has precision 0.9750
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.042105 has recall 0.1347
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.042105 has f1-score 0.2313
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.047368 has accuracy 0.7563
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.047368 has precision 0.9583
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.047368 has recall 0.2282
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.047368 has f1-score 0.3616
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.052632 has accuracy 0.7702
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.052632 has precision 0.9030
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.052632 has recall 0.2975
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.052632 has f1-score 0.4403
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.057895 has accuracy 0.7892
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.057895 has precision 0.9004
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.057895 has recall 0.3668
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.057895 has f1-score 0.5147
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.063158 has accuracy 0.7980
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.063158 has precision 0.8861
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.063158 has recall 0.4077
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.063158 has f1-score 0.5527
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.068421 has accuracy 0.8069
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.068421 has precision 0.8771
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.068421 has recall 0.4438
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.068421 has f1-score 0.5855
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.073684 has accuracy 0.8207
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.073684 has precision 0.8806
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.073684 has recall 0.4887
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.073684 has f1-score 0.6244
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.078947 has accuracy 0.8220
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.078947 has precision 0.8739
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.078947 has recall 0.4968
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.078947 has f1-score 0.6298
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.084211 has accuracy 0.8270
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.084211 has precision 0.8752
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.084211 has recall 0.5130
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.084211 has f1-score 0.6428
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.089474 has accuracy 0.8308
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.089474 has precision 0.8796
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.089474 has recall 0.5252
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.089474 has f1-score 0.6544
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.094737 has accuracy 0.8346
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.094737 has precision 0.8830
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.094737 has recall 0.5375
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.094737 has f1-score 0.6646
+
+
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.100000 has accuracy 0.8422
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.100000 has precision 0.8800
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.100000 has recall 0.5662
+Classifier Support Vector Machine with kernel: rbf C:1 gamma:0.100000 has f1-score 0.6864
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.000000 has accuracy 0.6894
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.000000 has precision 0.0000
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.000000 has recall 0.0000
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.000000 has f1-score 0.0000
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.005263 has accuracy 0.7816
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.005263 has precision 0.9109
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.005263 has recall 0.3340
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.005263 has f1-score 0.4812
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.010526 has accuracy 0.8510
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.010526 has precision 0.8815
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.010526 has recall 0.5987
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.010526 has f1-score 0.7096
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.015789 has accuracy 0.8700
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.015789 has precision 0.8604
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.015789 has recall 0.6960
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.015789 has f1-score 0.7674
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.021053 has accuracy 0.8763
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.021053 has precision 0.8442
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.021053 has recall 0.7405
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.021053 has f1-score 0.7875
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.026316 has accuracy 0.8713
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.026316 has precision 0.8320
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.026316 has recall 0.7365
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.026316 has f1-score 0.7800
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.031579 has accuracy 0.8726
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.031579 has precision 0.8243
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.031579 has recall 0.7530
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.031579 has f1-score 0.7855
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.036842 has accuracy 0.8751
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.036842 has precision 0.8210
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.036842 has recall 0.7650
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.036842 has f1-score 0.7909
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.042105 has accuracy 0.8751
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.042105 has precision 0.8263
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.042105 has recall 0.7608
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.042105 has f1-score 0.7909
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.047368 has accuracy 0.8726
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.047368 has precision 0.8205
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.047368 has recall 0.7607
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.047368 has f1-score 0.7878
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.052632 has accuracy 0.8788
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.052632 has precision 0.8260
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.052632 has recall 0.7770
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.052632 has f1-score 0.7990
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.057895 has accuracy 0.8788
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.057895 has precision 0.8249
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.057895 has recall 0.7770
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.057895 has f1-score 0.7989
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.063158 has accuracy 0.8788
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.063158 has precision 0.8218
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.063158 has recall 0.7812
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.063158 has f1-score 0.7994
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.068421 has accuracy 0.8788
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.068421 has precision 0.8218
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.068421 has recall 0.7812
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.068421 has f1-score 0.7994
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.073684 has accuracy 0.8788
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.073684 has precision 0.8195
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.073684 has recall 0.7852
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.073684 has f1-score 0.8003
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.078947 has accuracy 0.8776
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.078947 has precision 0.8132
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.078947 has recall 0.7892
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.078947 has f1-score 0.7995
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.084211 has accuracy 0.8738
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.084211 has precision 0.8028
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.084211 has recall 0.7892
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.084211 has f1-score 0.7946
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.089474 has accuracy 0.8700
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.089474 has precision 0.7987
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.089474 has recall 0.7812
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.089474 has f1-score 0.7882
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.094737 has accuracy 0.8675
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.094737 has precision 0.7950
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.094737 has recall 0.7770
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.094737 has f1-score 0.7844
+
+
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.100000 has accuracy 0.8675
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.100000 has precision 0.7926
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.100000 has recall 0.7810
+Classifier Support Vector Machine with kernel: rbf C:10 gamma:0.100000 has f1-score 0.7856
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.000000 has accuracy 0.6907
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.000000 has precision 0.1000
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.000000 has recall 0.0040
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.000000 has f1-score 0.0077
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.005263 has accuracy 0.8763
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.005263 has precision 0.8195
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.005263 has recall 0.7770
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.005263 has f1-score 0.7958
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.010526 has accuracy 0.8675
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.010526 has precision 0.7911
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.010526 has recall 0.7850
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.010526 has f1-score 0.7868
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.015789 has accuracy 0.8688
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.015789 has precision 0.7904
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.015789 has recall 0.7895
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.015789 has f1-score 0.7884
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.021053 has accuracy 0.8713
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.021053 has precision 0.7912
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.021053 has recall 0.8017
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.021053 has f1-score 0.7947
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.026316 has accuracy 0.8763
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.026316 has precision 0.8019
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.026316 has recall 0.8058
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.026316 has f1-score 0.8024
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.031579 has accuracy 0.8701
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.031579 has precision 0.7918
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.031579 has recall 0.7980
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.031579 has f1-score 0.7930
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.036842 has accuracy 0.8663
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.036842 has precision 0.7810
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.036842 has recall 0.7982
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.036842 has f1-score 0.7880
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.042105 has accuracy 0.8663
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.042105 has precision 0.7802
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.042105 has recall 0.7983
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.042105 has f1-score 0.7875
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.047368 has accuracy 0.8613
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.047368 has precision 0.7719
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.047368 has recall 0.7940
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.047368 has f1-score 0.7812
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.052632 has accuracy 0.8600
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.052632 has precision 0.7708
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.052632 has recall 0.7900
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.052632 has f1-score 0.7785
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.057895 has accuracy 0.8600
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.057895 has precision 0.7681
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.057895 has recall 0.7940
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.057895 has f1-score 0.7795
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.063158 has accuracy 0.8625
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.063158 has precision 0.7724
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.063158 has recall 0.7980
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.063158 has f1-score 0.7836
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.068421 has accuracy 0.8587
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.068421 has precision 0.7631
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.068421 has recall 0.7980
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.068421 has f1-score 0.7789
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.073684 has accuracy 0.8575
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.073684 has precision 0.7599
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.073684 has recall 0.7980
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.073684 has f1-score 0.7773
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.078947 has accuracy 0.8600
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.078947 has precision 0.7654
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.078947 has recall 0.8018
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.078947 has f1-score 0.7819
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.084211 has accuracy 0.8600
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.084211 has precision 0.7654
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.084211 has recall 0.8018
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.084211 has f1-score 0.7819
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.089474 has accuracy 0.8587
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.089474 has precision 0.7641
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.089474 has recall 0.7978
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.089474 has f1-score 0.7793
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.094737 has accuracy 0.8612
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.094737 has precision 0.7709
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.094737 has recall 0.7978
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.094737 has f1-score 0.7826
+
+
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.100000 has accuracy 0.8625
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.100000 has precision 0.7717
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.100000 has recall 0.8020
+Classifier Support Vector Machine with kernel: rbf C:100 gamma:0.100000 has f1-score 0.7850
+
+

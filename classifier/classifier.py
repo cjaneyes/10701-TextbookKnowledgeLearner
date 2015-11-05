@@ -3,6 +3,7 @@
 import scipy
 import numpy
 import random
+from scipy import sparse
 from sklearn.datasets import load_svmlight_file
 from sklearn import cross_validation
 from sklearn.naive_bayes import GaussianNB
@@ -22,7 +23,7 @@ class Classifier:
     def __init__(self, file, train_file, test_file):
         self.train_file = train_file
         self.test_file = test_file
-        
+        self.label = []
         self.Data = load_svmlight_file(file)
 
         self.read_lines(file) 
@@ -39,7 +40,7 @@ class Classifier:
 
         self.n_split = 5
         self.n_fold = 10
-        assert len(self.lines)==(self.X.shape[0])
+        assert len(self.lines)==(self.Data[0].shape[0])
 
     '''
         read data from file
@@ -60,16 +61,14 @@ class Classifier:
     '''
     @staticmethod
     def sampling(X, y, sampling, ratio):
-
         lneg = []
         lpos = []
+        ys = []
         for i in range(len(y)):
             if y[i] == 1:
                 lpos.append(i)
             else:
                 lneg.append(i)
-
-        print y
         if sampling == 1:
             num = int(len(lpos)/ratio)
             ln = random.sample(lneg, num)
@@ -78,20 +77,25 @@ class Classifier:
             for i in lpos:
                 X_s = numpy.append(X_s, numpy.array([X[i]]), axis=0)
                 y_s = numpy.append(y_s, numpy.array([y[i]]), axis=0)
+                ys.append(i)
             for i in ln:
                 X_s = numpy.append(X_s, numpy.array([X[i]]), axis=0)
                 y_s = numpy.append(y_s, numpy.array([y[i]]), axis=0)
+                ys.append(i)
         elif sampling == 2:
             X_s = X
             y_s = y
+            for i in range(len(y_s)):
+                ys.append(i)
             num = int((len(lneg)*ratio/len(lpos)))-1
             for i in range(len(y)):
                 if y[i] == 1:
                     for j in range(num):
                         X_s = numpy.append(X_s, numpy.array([X[i]]), axis=0)
                         y_s = numpy.append(y_s, numpy.array([y[i]]), axis=0)
+                        ys.append(i)
 
-        return (X_s, y_s)
+        return (X_s, y_s, ys)
 
 
     '''
@@ -157,14 +161,15 @@ class Classifier:
         ratio = expected #pos / #neg
     '''    
     def preprocess(self, sampling, ratio):
-        tfidf = TfidfTransformer()
-        tfidf.fit_transform(self.X)
-        tfidf.transform(self.X_test)
-        
+        #tfidf = TfidfTransformer()
+        #tfidf.fit_transform(self.X)
+        #tfidf.transform(self.X_test)
+        self.X = preprocessing.normalize(self.X,axis=1)
+        print "sampling with ratio %.2f" %(ratio) 
         if sampling != 0:
-            self.X_train, self.y_train = self.sampling(self.X, self.y, sampling, ratio)
+            (self.X, self.y, self.label) = self.sampling(self.X, self.y, sampling, ratio)
         #self.X = preprocessing.normalize(self.X,axis=1)
-
+        print len(self.y)
 
     '''
         This part provides the classification models.
@@ -231,21 +236,22 @@ class Classifier:
         write_file = open("sen/sen.test","w")
         for itr in test:
             write_file.write(self.lines[itr])
-        
+       
+    def write_sample(self):
+        write_file = open("./bow/bow.train.under", "w")
+        for itr in self.label:
+            write_file.write(self.lines[itr])
 
 if __name__ == '__main__':
-    #c1 = Classifier('./bow/feature.bow')
-    c = Classifier('./sen/feature.bow.sen', "", "")
-    c.split(5)
-    #c.svm(1, 'linear', 0, False)
-
-    #crange = [1,10,100]
-    #grange = numpy.linspace(0, 0.1, num=20)
-    #for C in crange:
-    #    c.svm(C, 'linear', 0, True)
-    #for C in crange:
-    #    for g in grange:
-    #        c.svm(C, 'rbf', g, True)
-
-    #c.gaussian_nb()
-    #c.gradient_boosting()
+    c = Classifier('./bow/bow.train', "./bow/bow.train", "./bow/bow.test")
+    c.preprocess(1, 0.45)
+    c.write_sample()
+    '''
+    crange = [1, 10, 100]
+    grange = numpy.linspace(0, 0.1, num=20)
+    for C in crange:
+        c.svm(C, 'linear', 0, True)
+    for C in crange:
+        for g in grange:
+             c.svm(C, 'rbf', g, True)
+    '''

@@ -1,0 +1,91 @@
+sampling with ratio 0.10
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has accuracy 0.9441
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has precision 0.8508
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has recall 0.3053
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has f1-score 0.4443
+
+
+sampling with ratio 0.15
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has accuracy 0.9441
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has precision 0.8508
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has recall 0.3053
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has f1-score 0.4443
+
+
+sampling with ratio 0.20
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has accuracy 0.9294
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has precision 0.7931
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has recall 0.6711
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has f1-score 0.7224
+
+
+sampling with ratio 0.25
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has accuracy 0.9294
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has precision 0.7931
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has recall 0.6711
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has f1-score 0.7224
+
+
+sampling with ratio 0.30
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has accuracy 0.9294
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has precision 0.7931
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has recall 0.6711
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has f1-score 0.7224
+
+
+sampling with ratio 0.35
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has accuracy 0.9305
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has precision 0.8472
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has recall 0.8719
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has f1-score 0.8590
+
+
+sampling with ratio 0.40
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has accuracy 0.9305
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has precision 0.8472
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has recall 0.8719
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has f1-score 0.8590
+
+
+sampling with ratio 0.45
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has accuracy 0.9305
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has precision 0.8472
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has recall 0.8719
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has f1-score 0.8590
+
+
+sampling with ratio 0.50
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has accuracy 0.9305
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has precision 0.8472
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has recall 0.8719
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has f1-score 0.8590
+
+
+sampling with ratio 0.55
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has accuracy 0.9305
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has precision 0.8472
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has recall 0.8719
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has f1-score 0.8590
+
+
+sampling with ratio 0.60
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has accuracy 0.9305
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has precision 0.8472
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has recall 0.8719
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has f1-score 0.8590
+
+
+sampling with ratio 0.65
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has accuracy 0.9441
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has precision 0.8954
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has recall 0.9710
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has f1-score 0.9315
+
+
+sampling with ratio 0.70
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has accuracy 0.9441
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has precision 0.8954
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has recall 0.9710
+Classifier Support Vector Machine with kernel: linear C:1 gamma:0.000000 has f1-score 0.9315
+
+

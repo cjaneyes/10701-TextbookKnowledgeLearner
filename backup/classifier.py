@@ -2,6 +2,7 @@
 
 import scipy
 import numpy
+import random
 from sklearn.datasets import load_svmlight_file
 from sklearn import cross_validation
 from sklearn.naive_bayes import GaussianNB
@@ -24,9 +25,10 @@ class Classifier:
         
         self.Data = load_svmlight_file(file)
 
-        self.read_lines(train_file) 
-        self.X_S = self.Data[0]
-       
+        self.read_lines(file) 
+      
+        if train_file == "" or test_file == "":
+            return
         self.data = self.read_data(train_file, n_features=self.Data[0].shape[1])
         self.X = self.data[0].toarray()
         self.y = self.data[1]
@@ -37,7 +39,7 @@ class Classifier:
 
         self.n_split = 5
         self.n_fold = 10
-        assert len(self.lines)==(self.X.shape[0])
+        assert len(self.lines)==(self.Data[0].shape[0])
 
     '''
         read data from file
@@ -51,14 +53,45 @@ class Classifier:
         self.lines = open(train_file,"r").readlines()
         return self.lines
 
+    '''
+        provide sampling method, where:
+        sampling = (0) no sampling  (1) undersampling  (2) oversampling
+        ratio = expected #pos / #neg
+    '''
     @staticmethod
-    def sampling(X, y):
-        X_s = X
-        y_s = y
+    def sampling(X, y, sampling, ratio):
+
+        lneg = []
+        lpos = []
         for i in range(len(y)):
             if y[i] == 1:
-                X_s = numpy.vstack([X_s, X[i]])
-                y_s = numpy.vstack([y_s, y[i]])
+                lpos.append(i)
+            else:
+                lneg.append(i)
+
+        if sampling == 1:
+            num = int(len(lpos)/ratio)
+            ln = random.sample(lneg, num)
+            X_s = numpy.empty((0,X.shape[1]), float)
+            y_s = numpy.empty((0,), float)
+            for i in lpos:
+                X_s = numpy.append(X_s, numpy.array([X[i]]), axis=0)
+                y_s = numpy.append(y_s, numpy.array([y[i]]), axis=0)
+            for i in ln:
+                X_s = numpy.append(X_s, numpy.array([X[i]]), axis=0)
+                y_s = numpy.append(y_s, numpy.array([y[i]]), axis=0)
+        elif sampling == 2:
+            X_s = X
+            y_s = y
+            num = int((len(lneg)*ratio/len(lpos)))-1
+            for i in range(len(y)):
+                if y[i] == 1:
+                    for j in range(num):
+                        X_s = numpy.append(X_s, numpy.array([X[i]]), axis=0)
+                        y_s = numpy.append(y_s, numpy.array([y[i]]), axis=0)
+
+        return (X_s, y_s)
+
 
     '''
         provide the classification of a single Classifier
@@ -118,12 +151,18 @@ class Classifier:
 
 
     '''
-        preprocessing the input data
+        preprocessing the input data, where:
+        sampling = (0) no sampling  (1) undersampling  (2) oversampling
+        ratio = expected #pos / #neg
     '''    
-    def preprocess(self):
-        tfidf = TfidfTransformer()
-        tfidf.fit_transform(self.X)
-        tfidf.transform(self.X_test)
+    def preprocess(self, sampling, ratio):
+        #tfidf = TfidfTransformer()
+        #tfidf.fit_transform(self.X)
+        #tfidf.transform(self.X_test)
+        self.X = preprocessing.normalize(self.X,axis=1)
+        print "sampling with ratio %.2f" %(ratio) 
+        if sampling != 0:
+            (self.X, self.y) = self.sampling(self.X, self.y, sampling, ratio)
         #self.X = preprocessing.normalize(self.X,axis=1)
 
 
@@ -180,31 +219,31 @@ class Classifier:
         Split input data into training set and testing set
     '''
     def split(self, n_split):
-        cv = cross_validation.StratifiedKFold(self.y, n_folds=n_split)
+        cv = cross_validation.StratifiedKFold(self.Data[1], n_folds=n_split)
         train = []
         test = []
         for train, test in cv:
             break
-
-        self.X = X[train]
-        self.y = y[train]
-        self.X_train = X[test]
-        self.y_test = y[test]
-        '''
-        write_file = open("bi/bi.train","w")
+        
+        write_file = open("sen/sen.train","w")
         for itr in train:
             write_file.write(self.lines[itr])
-        write_file = open("bi/bi.test","w")
+        write_file = open("sen/sen.test","w")
         for itr in test:
             write_file.write(self.lines[itr])
-        '''
+        
 
 if __name__ == '__main__':
     #c1 = Classifier('./bow/feature.bow')
-    c = Classifier('./bi/feature.bi', './bi/bi.test', './bi/bi.test')
-    c.preprocess()
-    #c.svm(1, 'linear', 0, False)
-    crange = [1,10,100]
+    c = Classifier('./bow/feature.bow', "./bow/bow.train", "./bow/bow.test")
+
+    #c.split(5)
+
+    #c.gaussian_nb(True)
+    #c.decision_tree(True)
+   
+    c.preprocess(2, 0.35)
+    crange = [1, 10, 100]
     grange = numpy.linspace(0, 0.1, num=20)
     for C in crange:
         c.svm(C, 'linear', 0, True)
@@ -212,5 +251,4 @@ if __name__ == '__main__':
         for g in grange:
             c.svm(C, 'rbf', g, True)
 
-    #c.gaussian_nb()
-    #c.gradient_boosting()
+    #c.gradient_boosting(True)
