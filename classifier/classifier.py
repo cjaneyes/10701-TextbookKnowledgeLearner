@@ -225,17 +225,17 @@ class Classifier:
         for train, test in cv:
             break
         
-        write_file = open("bi/bi.train","w")
+        write_file = open("sen/sen.train","w")
         for itr in train:
             write_file.write(self.lines[itr])
-        write_file = open("bi/bi.test","w")
+        write_file = open("sen/sen.test","w")
         for itr in test:
             write_file.write(self.lines[itr])
         
 
 if __name__ == '__main__':
     #c1 = Classifier('./bow/feature.bow')
-    c = Classifier('./bi/feature.bi', "", "")
+    c = Classifier('./sen/feature.bow.sen', "", "")
     c.split(5)
     #c.svm(1, 'linear', 0, False)
 
