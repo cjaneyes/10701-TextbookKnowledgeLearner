@@ -72,7 +72,7 @@ if __name__ == '__main__':
 						features[index] += 1
 					else:
 						features[index] = 1
-				write_file.write(label+"\t1:"+str(sentence_type)+" ")
+				write_file.write(label+"\t")
 				for key in sorted(features):
 					write_file.write(str(key)+':'+str(features[key])+" ")
 				write_file.write("\n")
