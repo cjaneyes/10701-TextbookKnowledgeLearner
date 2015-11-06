@@ -165,6 +165,7 @@ class Classifier:
         #tfidf.fit_transform(self.X)
         #tfidf.transform(self.X_test)
         self.X = preprocessing.normalize(self.X,axis=1)
+        self.X_test = preprocessing.normalize(self.X_test,axis=1)
         print "sampling with ratio %.2f" %(ratio) 
         if sampling != 0:
             (self.X, self.y, self.label) = self.sampling(self.X, self.y, sampling, ratio)
@@ -243,15 +244,14 @@ class Classifier:
             write_file.write(self.lines[itr])
 
 if __name__ == '__main__':
-    c = Classifier('./bow/bow.train', "./bow/bow.train", "./bow/bow.test")
+    c = Classifier('./bow/feature.bow', "./bow/bow.train.under", "./bow/bow.test")
     c.preprocess(1, 0.45)
-    c.write_sample()
-    '''
-    crange = [1, 10, 100]
-    grange = numpy.linspace(0, 0.1, num=20)
-    for C in crange:
-        c.svm(C, 'linear', 0, True)
-    for C in crange:
-        for g in grange:
-             c.svm(C, 'rbf', g, True)
-    '''
+
+    c.gaussian_nb(True)
+    c.gaussian_nb(False)
+
+    c.svm(10, 'linear', 0, False)
+    c.svm(100, 'rbf', 0.1, False)
+
+    c.decision_tree(True)
+    c.decision_tree(False)
