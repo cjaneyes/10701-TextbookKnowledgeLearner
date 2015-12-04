@@ -10,6 +10,7 @@ class Sentence:
 		self.text = text
 		self.get_dependency_tree()
 		self.concepts = []
+		self.update_quant()
 		self.concepts_match(lexicon)
 		self.update_variables()
 
@@ -94,11 +95,28 @@ class Sentence:
 					else:
 						name_dict[name] += 1
 					concept.name = concept.name + str(name_dict[name])
+					print concept.name
 
-	def output(self):
+	def update_quant(self):
+		for token in self.tokens:
+			for child in token.children:
+				child_content = self.tokens[child].content.lower()
+				if "two" in child_content or "both" in child_content:
+					token.quant = 2
+					print "two"
+				elif "three" in child_content:
+					token.quant = 3
+					print "three"
+				elif "all" in child_content and "triangle" in token.content:
+					token.quant = 3
+
+
+	def output(self,file_name):
+		write_file = open(file_name,"a")
 		print self.text
 		for token in self.tokens:
 			for concept in token.concepts:
+				write_file.write(concept.name + "\t")
 				print token.content + " is " + concept.name + "\t" + str(concept.type),
 				if concept.type == "3":
 					print 'predicate'
@@ -106,6 +124,8 @@ class Sentence:
 					print "function"
 				else:
 					print "variable"
+		write_file.write("\n")
+
 		print "=== end of this sentence ===="
 
 '''

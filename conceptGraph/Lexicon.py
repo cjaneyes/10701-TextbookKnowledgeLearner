@@ -1,5 +1,6 @@
 from Gold_Concepts import Gold
 from Concept import Concept
+import copy
 class Lexicon:
 	def __init__(self):
 		# 0 for constant, 1 for variable , 2 for function and 3 for predicate
@@ -14,6 +15,11 @@ class Lexicon:
 		concept_list = []
 		for concept in self.lexicon:
 			if token.content.lower() in concept.keywords.split(","):
-				concept_list.append(Concept(concept,token))
+				tmp = Concept(concept,token)
+				if tmp.type==1:
+					for num in range(token.quant):
+						concept_list.append(copy.copy(tmp))
+				else:
+					concept_list.append(tmp)
 		return concept_list
 

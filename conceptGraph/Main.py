@@ -9,11 +9,11 @@ class Main:
 			line = line.strip()
 			self.sentences.append(Sentence(line,lexicon))
 
-	def output(self):
+	def output(self,file_name):
 		for sen in self.sentences:
-			sen.output()
+			sen.output(file_name)
 
 if __name__ == '__main__':
 	lexicon = Lexicon()
-	m = Main("./test/demo.txt",lexicon)
-	m.output()
+	m = Main("./test/knowledge.txt",lexicon)
+	m.output('./test/concepts.txt')

@@ -1,0 +1,46 @@
+polygon1	Similar	polygon2	polygon3	Similar	polygon4	polygon5	Similar	polygon6	
+angle1	angle2	IsAngle	AngleOf	triangle1	IsTriangle	Equals	angle3	angle4	IsAngle	AngleOf	triangle2	IsTriangle	angle5	IsAngle	AngleOf	Sum	triangle3	IsTriangle	angle6	IsAngle	AngleOf	Equals	
+segment1	segment2	IsSegment	TangentOf	point1	IsPoint	PointOf	circle1	IsCircle	Equals	
+triangle1	IsTriangle	Equals	triangle2	IsTriangle	
+triangle1	IsTriangle	Equals	triangle2	IsTriangle	
+triangle1	IsTriangle	angle1	IsAngle	AngleOf	angle2	IsAngle	AngleOf	LessThan	constant	Equals	triangle2	IsTriangle	AcuteAngle	Acute	angle3	IsAngle	AngleOf	triangle3	IsTriangle	
+angle1	IsAngle	AngleOf	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	triangle1	IsTriangle	RightAngle	RightTriangle	angle3	IsAngle	AngleOf	triangle2	IsTriangle	
+angle1	IsAngle	AngleOf	GreaterThan	constant	Equals	triangle1	IsTriangle	ObtuseAngle	Obtuse	angle2	IsAngle	AngleOf	triangle2	IsTriangle	
+rectangle1	IsRectangle	Opposite	Equals	
+MeasureOf	RightAngle	RightTriangle	angle1	IsAngle	AngleOf	constant	Equals	StraightAngle	angle2	IsAngle	AngleOf	constant	Equals	
+Complementary	angle1	IsAngle	AngleOf	Sum	angle2	angle3	IsAngle	AngleOf	constant	Equals	angle4	IsAngle	AngleOf	Complementary	angle5	IsAngle	AngleOf	
+Difference	triangle1	IsTriangle	SmallerThan	side1	SideOf	
+MeasureOf	angle1	angle2	angle3	IsAngle	AngleOf	triangle1	IsTriangle	constant	Equals	
+MeasureOf	angle1	angle2	angle3	IsAngle	AngleOf	triangle1	IsTriangle	constant	Equals	
+triangle1	IsTriangle	square1	Square	IsSquare	side1	SideOf	IsHypotenuse	Equals	Sum	square2	IsSquare	side2	SideOf	IsLeg	
+triangle1	IsTriangle	angle1	IsAngle	AngleOf	MeasureOf	constant	
+triangle1	IsTriangle	
+line1	IsLine	segment1	segment2	IsSegment	Equals	Congruent	
+line1	IsLine	segment1	segment2	IsSegment	Congruent	Equals	
+angle1	angle2	IsAngle	AngleOf	Congruent	Equals	
+triangle1	triangle2	IsTriangle	Congruent	side1	SideOf	IsHypotenuse	side2	SideOf	IsLeg	triangle3	IsTriangle	Equals	side3	SideOf	IsHypotenuse	side4	SideOf	IsLeg	triangle4	IsTriangle	
+Adjacent	angle1	IsAngle	AngleOf	parallelogram1	IsParallelogram	Supplementary	
+parallelogram1	IsParallelogram	quadrilateral1	IsQuadrilateral	Opposite	Parallel	
+rectangle1	IsRectangle	parallelogram1	IsParallelogram	angle1	IsAngle	AngleOf	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	
+square1	Square	IsSquare	Perpendicular	
+AcuteAngle	Acute	angle1	IsAngle	AngleOf	constant	constant	Equals	
+RightAngle	RightTriangle	angle1	IsAngle	AngleOf	Equals	constant	Equals	
+angle1	IsAngle	AngleOf	GreaterThan	constant	Equals	LessThan	constant	Equals	ObtuseAngle	Obtuse	angle2	IsAngle	AngleOf	
+angle1	angle2	IsAngle	AngleOf	Sum	constant	Equals	Complementary	angle3	IsAngle	AngleOf	
+angle1	angle2	IsAngle	AngleOf	Sum	constant	Equals	Supplementary	angle3	IsAngle	AngleOf	
+Parallel	line1	IsLine	Parallel	
+triangle1	IsTriangle	side1	SideOf	Opposite	GreaterThan	angle1	IsAngle	AngleOf	
+parallelogram1	IsParallelogram	Opposite	Equals	
+quadrilateral1	IsQuadrilateral	parallelogram1	IsParallelogram	Opposite	Equals	
+Opposite	quadrilateral1	IsQuadrilateral	Equals	parallelogram1	IsParallelogram	
+parallelogram1	IsParallelogram	Opposite	angle1	IsAngle	AngleOf	Equals	
+quadrilateral1	IsQuadrilateral	Opposite	angle1	IsAngle	AngleOf	Equals	parallelogram1	IsParallelogram	
+parallelogram1	IsParallelogram	Bisect	
+quadrilateral1	IsQuadrilateral	Bisect	parallelogram1	IsParallelogram	
+rectangle1	IsRectangle	parallelogram1	IsParallelogram	angle1	IsAngle	AngleOf	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	
+quadrilateral1	IsQuadrilateral	parallelogram1	IsParallelogram	Opposite	Equals	Parallel	
+line1	IsLine	segment1	IsSegment	Bisect	triangle1	IsTriangle	Parallel	side1	SideOf	
+line1	IsLine	IsOn	Bisect	side1	SideOf	triangle1	IsTriangle	Parallel	side2	SideOf	side3	SideOf	
+Sum	angle1	IsAngle	AngleOf	quadrilateral1	IsQuadrilateral	constant	Equals	
+chord1	ChordOf	IsOn	centre1	CentreOf	circle1	IsCircle	DiameterOf	circle2	IsCircle	
+line1	IsLine	IsOn	centre1	CentreOf	circle1	IsCircle	Bisect	chord1	ChordOf	Perpendicular	chord2	ChordOf	

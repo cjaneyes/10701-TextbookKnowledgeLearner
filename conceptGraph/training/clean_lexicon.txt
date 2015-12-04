@@ -5,10 +5,11 @@ triangle	1	0	triangle,triangles
 segment	1	0	segment,segments,tangent,tangents
 side	1	0	side,hypotenuse,leg,legs
 circle	1	0	circle
-polygon	1	0	polygon
+polygon	1	0	polygon,polygons
 point	1	0	point,points
 rectangle	1	0	rectangle,rectangles
 square	1	0	square,squares
+diagonal	1	0	diagonal
 parallelogram	1	0	parallelogram
 quadrilateral	1	0	quadrilateral
 chord	1	0	chord

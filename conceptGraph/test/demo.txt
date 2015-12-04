@@ -1,4 +1,3 @@
-Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
-DF  Remark : If two angles of a triangle are respectively equal to two angles of another triangle, then by the angle sum property of a triangle their third angles will also be equal.
-If any one angle is a right angle then the triangle is called a right angled triangle.
 If any angle greater than 90 and less than 180 is a obtuse angle.
+Two triangles are equal.
+Both polygon are similar.
