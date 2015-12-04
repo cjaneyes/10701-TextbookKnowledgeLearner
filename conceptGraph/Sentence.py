@@ -1,20 +1,79 @@
+import nltk
+from nltk.parse.stanford import StanfordDependencyParser
+from nltk.parse import DependencyGraph
+from Lexicon import Lexicon
+
 class Sentence:
 	def __init__(self,text,lexicon):
 		self.text = text
-		tokens = []
+		self.tokens = self.get_dependency_tree()
 		self.concepts = self.concepts_match(lexicon)
-		self.update_variables(self.concepts)
+		self.update_variables()
 
 	def get_dependency_tree(self):
+		sentence = self.text
+		#path_to_jar = '/Users/jane_C/Documents/CMU/Courses/10701-MachineLearning/project/KnowledgeLearning/lib/stanford-parser/stanford-parser.jar'
+		#path_to_models_jar = '/Users/jane_C/Documents/CMU/Courses/10701-MachineLearning/project/KnowledgeLearning/lib/stanford-parser/stanford-parser-3.5.2-models.jar'
 
+		path_to_jar = '../lib/stanford-parser/stanford-parser.jar'
+		path_to_models_jar = '../lib/stanford-parser/stanford-parser-3.5.2-models.jar'
+		
+		dependency_parser = StanfordDependencyParser(path_to_jar=path_to_jar, path_to_models_jar=path_to_models_jar)
 
+		sentence_parse = dependency_parser.raw_parse(sentence)
 
-		for token_id in range(1,len()):
-			token = Token(token_id,___[token_id])
-			self.tokens.append(token)
+		tokenList = []
+		tokenInfo = {}
+		tokenInfo["content"] = "ROOT"
+		tokenInfo["pos"] = "ROOT"
+		tokenInfo["head"] = -1
+		tokenInfo["children"] = []
+		tokenInfo["if_then"] = -1
+		root = token(0, tokenInfo)
+		tokenList.append(root)
+
+		left2right = True
+		left2right_point = -1
+		index = 0
+		for sent in sentence_parse:
+			sent_conll = sent.to_conll(10)
+			tokens = sent_conll.split("\n")
+			index = 0
+			for term in tokens:
+				index += 1
+				tokenInfo = {}
+				parse = token.strip().split("\t")
+				if term == "" or len(parse) < 10:
+					continue
+				if parse[1] == ">" or parse[1] == "<":
+					if parse[1] == "<":
+						left2right = False
+					left2right_point = index
+					#continue
+				tokenInfo["content"] = parse[1]
+				tokenInfo["pos"] = parse[4]
+				tokenInfo["head"] = int(parse[6])
+				tokenInfo["children"] = []
+				tokenInfo["if_then"] = 0
+				t = token(index, tokenInfo)
+				tokenList.append(t)
+
+		if left2right:
+			for i in range(left2right_point, len(tokenList)):
+				tokenList[i].if_then = 1
+		else:
+			for i in range(1, left2right_point):
+				tokenList[i].if_then = 1
+		tokenList[left2right_point].if_then = -1
+		for i in range(1, len(tokenList)):
+			token = tokenList[i]
+			tokenList[token.head].children.append(i)
+
+		self.tokens = tokenList
+
 
 	def concepts_match(self,lexicon):
-		for token in tokens:
+		for token in self.tokens:
 			# update the concepts of token and return a list of concepts
 			concepts = token.match_concepts(lexicon)
 			self.concepts.append(concepts)
@@ -30,11 +89,15 @@ class Sentence:
 					name_dict[name] += 1
 				concept.name = concept.name + str(name_dict[name])
 
+	def output(self):
+		print self.text
 
+'''
 	def label_if_then(self):
 
 
 	def relation_map(self):
 
 
-	def output(self):
+	
+		'''

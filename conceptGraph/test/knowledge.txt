@@ -1,0 +1,46 @@
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+DF  Remark : If two angles of a triangle are respectively equal to two angles of another triangle, then by the angle sum property of a triangle their third angles will also be equal.
+The lengths of the two tangents from an external point to a circle are equal.
+A triangle having two equal sides is called an Isosceles Triangle [(b), (f)].
+A triangle having three equal sides is called an Equilateral Triangle [(a), (d)].
+Naming triangles based on angles If each angle is less than 90°, then the triangle is called an acute angled triangle.
+If any one angle is a right angle then the triangle is called a right angled triangle.
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+One more obvious property of the rectangle you can see is that opposite sides are of equal length.
+The measure of a right angle is 90° and hence that of a straight angle is 180°.
+Complementary Angles When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+We also find that the difference between the length of any two sides of a triangle is smaller than the length of the third side.
+The total measure of the three angles of a triangle is 180°.
+Statement The total measure of the three angles of a triangle is 180°.
+It may be stated as follows: In a right-angled triangle, the square on the hypotenuse = sum of the squares on the legs.
+In an equilateral triangle, each angle has measure 60°.
+A triangle is said to be isosceles, if at least any two of its sides are of same length.
+If two line segments have the same (i.e., equal) length, they are congruent.
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+Two angles, say, ∠ABC and ∠PQR, are congruent if their measures are equal.
+RHS Congruence of two right-angled triangles: Under a given correspondence, two right-angled triangles are congruent if the hypotenuse and a leg of one of the triangles are equal to the hypotenuse and the corresponding leg of the other triangle.
+The adjacent angles in a parallelogram are supplementary.
+A parallelogram is a quadrilateral whose opposite sides are parallel.
+So, a rectangle is a parallelogram in which every angle is a right angle.
+Property: The diagonals of a square are perpendicular bisectors of each other.
+An acute angle measures between 0° and 90°.
+whereas a right angle is exactly equal to 90°.
+An angle greater than 90° but less than 180° is called an obtuse angle.
+Further, two angles whose sum is 90° are called complementary angles.
+ and two angles whose sum is 180° are called supplementary angles.
+Theorem 6.6 : Lines which are parallel to the same line are parallel to each other.
+In any triangle, the side opposite to the larger (greater) angle is longer.
+Theorem 8.2 : In a parallelogram, opposite sides are equal.
+If a quadrilateral is a parallelogram, then each pair of its opposite sides is equal.
+Theorem 8.3 : If each pair of opposite sides of a quadrilateral is equal, then it is a parallelogram.
+Theorem 8.4 : In a parallelogram, opposite angles are equal.
+Theorem 8.5 : If in a quadrilateral, each pair of opposite angles is equal, then it is a parallelogram.
+Theorem 8.6 : The diagonals of a parallelogram bisect each other.
+Theorem 8.7 : If the diagonals of a quadrilateral bisect each other, then it is a parallelogram.
+A rectangle is a parallelogram in which one angle is a right angle.
+Theorem 8.8 : A quadrilateral is a parallelogram if a pair of opposite sides is equal and parallel.
+Theorem 8.9 : The line segment joining the mid-points of two sides of a triangle is parallel to the third side.
+Theorem 8.10 : The line drawn through the mid-points of one side of a triangle, parallel to another side bisects the third side.
+Sum of the angles of a quadrilateral is 360°.
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.

@@ -1,6 +1,8 @@
 from Sentence import Sentence
+from Lexicon import Lexicon
+
 class Main:
-	def __init__(self,test_filem,lexicon):
+	def __init__(self,test_file,lexicon):
 		sentences = []
 		lines = open(test_file,"r").readlines()
 		for line in lines:
@@ -13,5 +15,5 @@ class Main:
 
 if __name__ == '__main__':
 	lexicon = Lexicon()
-	m = Main("./test/test.raw",lexicon)
+	m = Main("./test/knowledge.txt",lexicon)
 	m.output()

@@ -1,11 +1,12 @@
+from Gold_Concepts import Gold
 class Lexicon:
-	def __init__():
+	def __init__(self):
 		# 0 for constant, 1 for variable , 2 for function and 3 for predicate
-		lines = open("concepts.lexicon","r").readlines()
+		lines = open("./training/clean_lexicon.txt","r").readlines()
 		self.lexicon = []
 		for line in lines:
-			[cname, ctype, num_param，keywords] = line.strip().split()
-			c = Gold(cid,ctype,num_param,keywords)
+			[cname, ctype, num_param, keywords] = line.strip().split("\t")
+			c = Gold(cname,ctype,num_param,keywords)
 			self.lexicon.append(c)
 
 	def match_lexicon(self,token):
