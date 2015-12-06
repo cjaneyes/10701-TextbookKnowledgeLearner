@@ -5,6 +5,7 @@ from Lexicon import Lexicon
 from Token import Token
 from if_then_parsing import if_then_parsing
 
+
 class Sentence:
 	def __init__(self,text,lexicon):
 		self.text = text
@@ -13,6 +14,7 @@ class Sentence:
 		self.update_quant()
 		self.concepts_match(lexicon)
 		self.update_variables()
+		print "process"
 
 	def get_dependency_tree(self):
 
@@ -132,12 +134,5 @@ class Sentence:
 
 		print "=== end of this sentence ===="
 
-'''
-	def label_if_then(self):
 
 
-	def relation_map(self):
-
-
-	
-		'''

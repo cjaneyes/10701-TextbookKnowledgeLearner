@@ -1,14 +1,15 @@
 Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
-DF  Remark : If two angles of a triangle are respectively equal to two angles of another triangle, then by the angle sum property of a triangle their third angles will also be equal.
+DF  Remark : If two angles of a triangle are respectively equal to two angles of another triangle, then their third angles will also be equal.
 The lengths of the two tangents from an external point to a circle are equal.
-A triangle having two equal sides is called an Isosceles Triangle [(b), (f)].
-A triangle having three equal sides is called an Equilateral Triangle [(a), (d)].
+A triangle having two equal sides is called an Isosceles Triangle [(b),(f)].
+A triangle having three equal sides is called an Equilateral Triangle [(a),(d)].
 Naming triangles based on angles If each angle is less than 90°, then the triangle is called an acute angled triangle.
 If any one angle is a right angle then the triangle is called a right angled triangle.
 If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
 One more obvious property of the rectangle you can see is that opposite sides are of equal length.
-The measure of a right angle is 90° and hence that of a straight angle is 180°.
-Complementary Angles When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+The measure of a right angle is 90° and 
+hence that measure of a straight angle is 180°.
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
 We also find that the difference between the length of any two sides of a triangle is smaller than the length of the third side.
 The total measure of the three angles of a triangle is 180°.
 Statement The total measure of the three angles of a triangle is 180°.

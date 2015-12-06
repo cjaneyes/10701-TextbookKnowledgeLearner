@@ -1,5 +1,7 @@
 from Sentence import Sentence
 from Lexicon import Lexicon
+from Feature import Feature
+from getSample import *
 
 class Main:
 	def __init__(self,test_file,lexicon):
@@ -12,8 +14,10 @@ class Main:
 	def output(self,file_name):
 		for sen in self.sentences:
 			sen.output(file_name)
+			getSample(sen)
+
 
 if __name__ == '__main__':
 	lexicon = Lexicon()
 	m = Main("./test/demo.txt",lexicon)
-	m.output('./test/concepts_demo.txt')
+	m.output('./test/concepts_knowledge.txt')

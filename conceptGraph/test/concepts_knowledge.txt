@@ -1,0 +1,6 @@
+angle1	IsAngle	AngleOf	GreaterThan	constant	Equals	LessThan	constant	Equals	ObtuseAngle	Obtuse	
+triangle1	triangle2	IsTriangle	Equals	
+angle1	angle2	IsAngle	AngleOf	triangle1	IsTriangle	Equals	angle3	angle4	IsAngle	AngleOf	triangle2	IsTriangle	angle5	IsAngle	AngleOf	Equals	
+angle1	IsAngle	AngleOf	GreaterThan	constant	Equals	LessThan	constant	Equals	ObtuseAngle	Obtuse	
+triangle1	triangle2	IsTriangle	Equals	
+angle1	angle2	IsAngle	AngleOf	triangle1	IsTriangle	Equals	angle3	angle4	IsAngle	AngleOf	triangle2	IsTriangle	angle5	IsAngle	AngleOf	Equals	
