@@ -1,3 +1,2 @@
-If any angle greater than 90 and less than 180 is a obtuse angle.
+If any angle greater than 90 and less than 180 is called obtuse.
 Two triangles are equal.
-Both polygon are similar.

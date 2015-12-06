@@ -15,5 +15,5 @@ class Main:
 
 if __name__ == '__main__':
 	lexicon = Lexicon()
-	m = Main("./test/knowledge.txt",lexicon)
-	m.output('./test/concepts.txt')
+	m = Main("./test/demo.txt",lexicon)
+	m.output('./test/concepts_demo.txt')

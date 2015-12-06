@@ -17,6 +17,7 @@ class Sentence:
 	def get_dependency_tree(self):
 
 		sentence = if_then_parsing(self.text)
+		self.logic_text = sentence
 		#path_to_jar = '/Users/jane_C/Documents/CMU/Courses/10701-MachineLearning/project/KnowledgeLearning/lib/stanford-parser/stanford-parser.jar'
 		#path_to_models_jar = '/Users/jane_C/Documents/CMU/Courses/10701-MachineLearning/project/KnowledgeLearning/lib/stanford-parser/stanford-parser-3.5.2-models.jar'
 
@@ -95,7 +96,6 @@ class Sentence:
 					else:
 						name_dict[name] += 1
 					concept.name = concept.name + str(name_dict[name])
-					print concept.name
 
 	def update_quant(self):
 		for token in self.tokens:
@@ -103,27 +103,31 @@ class Sentence:
 				child_content = self.tokens[child].content.lower()
 				if "two" in child_content or "both" in child_content:
 					token.quant = 2
-					print "two"
 				elif "three" in child_content:
 					token.quant = 3
-					print "three"
 				elif "all" in child_content and "triangle" in token.content:
 					token.quant = 3
 
 
 	def output(self,file_name):
 		write_file = open(file_name,"a")
-		print self.text
+		print self.logic_text
 		for token in self.tokens:
 			for concept in token.concepts:
 				write_file.write(concept.name + "\t")
-				print token.content + " is " + concept.name + "\t" + str(concept.type),
+				print token.content + " is " + concept.name + "\t" + str(concept.type) ,
 				if concept.type == "3":
-					print 'predicate'
+					print 'predicate	',
 				elif concept.type =="2":
-					print "function"
+					print "function	",
 				else:
-					print "variable"
+					print "variable	",
+				print  " => ",
+				if token.if_then==1:
+					print "Then"
+				else:
+					print "If" 
+
 		write_file.write("\n")
 
 		print "=== end of this sentence ===="
