@@ -84,5 +84,4 @@ class Feature():
 			self.feature.append(self.getDependencyTreeEdge(pToken, cToken))
 			#self.feature.append(self.getRelationType(pToken, cToken))
 			#self.feature.append(self.getReturnType(pToken, cToken))
-		print self.feature
 		return self.feature

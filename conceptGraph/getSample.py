@@ -20,9 +20,33 @@ def remove_duplicate(concept_list):
 		concept_list[3].append(v)
 	return concept_list
 
-def getSample(sentence):
-	concept_list = reorder_concepts(sentence.concepts)
+def function_filter(function, param1, param2):
+	param1 = param1[0]
+	param2 = param2[0]
+	if param1.type == 1 and param2.type == 1:
+		if param1.name[:len(param1.name)-1] != param2.name[:len(param2.name)-1]:
+			return True
+	return False
 
+def binary_filter(predicate, param1, param2):
+	param1 = param1[0]
+	param2 = param2[0]
+	var_var_equals_filter = ['Equals', 'LessThan', 'GreaterThan','Congruent','Similar']
+	if(predicate.name == 'AngleOf'):
+		if param1.name[:5] != 'angle':
+			return True
+		elif param2.name[:5] == 'angle':
+			return True
+	if predicate.name in var_var_equals_filter:
+		if param1.type == 1 and param2.type == 1:
+			if param1.name[:len(param1.name)-1] != param2.name[:len(param2.name)-1]:
+				return True
+	return False
+
+def getSample(sentence):
+	write_file_1 = open("uni.sub.literal","a")
+	write_file_2 = open("bi.sub.literal","a")
+	concept_list = reorder_concepts(sentence.concepts)
 	params = []
 	for concept in concept_list[0]:
 		params.append((concept,[]))
@@ -35,23 +59,36 @@ def getSample(sentence):
 		else:
 			for i in range(0,len(params)):
 				for j in range(i+1,len(params)):
-					params.append((function, [params[i],params[j]]))
+					if not function_filter(function, params[i], params[j]):
+						params.append((function, [params[i],params[j]]))
 
 	samples = []
 	for predicate in concept_list[3]:
 		if predicate.param_num == 1:
 			for param in params:
-				samples.append((predicate, param))
+				samples.append((predicate, [param])) # lack [] initially
 		else:
 			for i in range(0,len(params)):
 				for j in range(i+1,len(params)):
-					samples.append((predicate,[params[i],params[j]]))
+					if not binary_filter(predicate, params[i], params[j]):
+						samples.append((predicate,[params[i],params[j]]))
+
 	for sample in samples:
+		print sentence.text
+		print sample[0].name+"(",
 		if len(sample[1]) == 1:
+			print sample[1][0][0].name+  "-" +str(sample[1][0][0].token_id) +")"
 			sam = Feature([sample[0],sample[1][0][0]], sentence)
 			features = sam.generateFeature()
+			write_file_1.write(sentence.text+"\n"+sample[0].name+"("+sample[1][0][0].name+  "-" +str(sample[1][0][0].token_id) +")\t"+str(features)+"\n")
+
 		else:
+			print sample[1][0][0].name + "-" + str(sample[1][0][0].token_id) +","+sample[1][1][0].name + "-" + str(sample[1][1][0].token_id)+")"
 			sam = Feature([sample[0],sample[1][0][0],sample[1][1][0]], sentence)
 			features = sam.generateFeature()
+			write_file_2.write(sentence.text+"\n"+sample[0].name+"("+sample[1][0][0].name + "-" + str(sample[1][0][0].token_id) +","+sample[1][1][0].name + "-" + str(sample[1][1][0].token_id)+")\t"+str(features)+"\n")
+
 		#print sample, features
-		#print sentence,sample#,token_id,features
+		
+		print features
+		#print features

@@ -1,3 +1,4 @@
 If any angle greater than 90 and less than 180 is called obtuse.
 Two triangles are equal.
 DF  Remark : If two angles of a triangle are respectively equal to two angles of another triangle, then their third angles will also be equal.
+An acute angle measures between 0° and 90°.

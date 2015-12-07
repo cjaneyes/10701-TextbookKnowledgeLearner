@@ -1,0 +1,400 @@
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle(angle1-4)	[0, 0.0, 0]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle(angle2-8)	[2, 4.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle(triangle1-12)	[3, 8.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle(angle3-17)	[4, 13.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle(triangle2-18)	[3, 14.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle(angle1-4)	[2, 3.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle(angle2-8)	[2, 1.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle(triangle1-12)	[3, 5.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle(angle3-17)	[4, 10.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle(triangle2-18)	[3, 11.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle(angle1-4)	[2, 3.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle(angle2-8)	[2, 1.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle(triangle1-12)	[3, 5.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle(angle3-17)	[4, 10.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle(triangle2-18)	[3, 11.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle(angle1-4)	[2, 4.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle(angle2-8)	[0, 0.0, 0]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle(triangle1-12)	[3, 4.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle(angle3-17)	[4, 9.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle(triangle2-18)	[3, 10.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle(angle1-4)	[3, 8.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle(angle2-8)	[3, 4.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle(triangle1-12)	[0, 0.0, 0]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle(angle3-17)	[3, 5.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle(triangle2-18)	[2, 6.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle(angle1-4)	[4, 12.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle(angle2-8)	[4, 8.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle(triangle1-12)	[3, 4.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle(angle3-17)	[2, 1.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle(triangle2-18)	[1, 2.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle(angle1-4)	[4, 12.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle(angle2-8)	[4, 8.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle(triangle1-12)	[3, 4.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle(angle3-17)	[2, 1.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle(triangle2-18)	[1, 2.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle(angle1-4)	[4, 13.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle(angle2-8)	[4, 9.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle(triangle1-12)	[3, 5.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle(angle3-17)	[0, 0.0, 0]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle(triangle2-18)	[1, 1.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle(angle1-4)	[3, 14.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle(angle2-8)	[3, 10.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle(triangle1-12)	[2, 6.0, -1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle(angle3-17)	[1, 1.0, 1]
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle(triangle2-18)	[0, 0.0, 0]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle(constant-8)	[2, 4.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle(angle1-4)	[0, 0.0, 0]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle(triangle1-12)	[3, 8.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle(angle2-17)	[4, 13.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle(triangle2-18)	[3, 14.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle(constant-8)	[3, 4.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle(angle1-4)	[3, 8.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle(triangle1-12)	[0, 0.0, 0]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle(angle2-17)	[3, 5.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle(triangle2-18)	[2, 6.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+ObtuseAngle(constant-8)	[4, 8.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+ObtuseAngle(angle1-4)	[4, 12.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+ObtuseAngle(triangle1-12)	[3, 4.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+ObtuseAngle(angle2-17)	[2, 1.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+ObtuseAngle(triangle2-18)	[1, 2.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+Obtuse(constant-8)	[4, 8.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+Obtuse(angle1-4)	[4, 12.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+Obtuse(triangle1-12)	[3, 4.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+Obtuse(angle2-17)	[2, 1.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+Obtuse(triangle2-18)	[1, 2.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle(constant-8)	[4, 9.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle(angle1-4)	[4, 13.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle(triangle1-12)	[3, 5.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle(angle2-17)	[0, 0.0, 0]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle(triangle2-18)	[1, 1.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle(constant-8)	[3, 10.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle(angle1-4)	[3, 14.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle(triangle1-12)	[2, 6.0, -1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle(angle2-17)	[1, 1.0, 1]
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle(triangle2-18)	[0, 0.0, 0]
+One more obvious property of the rectangle you can see is that opposite sides are of equal length.
+IsRectangle(rectangle1-7)	[0, 0.0, 0]
+hence that measure of a straight angle is 180°.
+StraightAngle(constant-10)	[3, 3.0, -1]
+hence that measure of a straight angle is 180°.
+StraightAngle(angle1-8)	[1, 1.0, -1]
+hence that measure of a straight angle is 180°.
+IsAngle(constant-10)	[2, 2.0, -1]
+hence that measure of a straight angle is 180°.
+IsAngle(angle1-8)	[0, 0.0, 0]
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+IsAngle(constant-11)	[3, 2.0, -1]
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+IsAngle(angle1-9)	[0, 0.0, 0]
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+IsAngle(angle2-9)	[0, 0.0, 0]
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+IsAngle(angle3-13)	[6, 4.0, -1]
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+IsAngle(angle4-18)	[5, 9.0, -1]
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+IsAngle(constant-11)	[3, 2.0, -1]
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+IsAngle(angle1-9)	[6, 4.0, -1]
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+IsAngle(angle2-9)	[6, 4.0, -1]
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+IsAngle(angle3-13)	[0, 0.0, 0]
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+IsAngle(angle4-18)	[3, 5.0, -1]
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+IsAngle(constant-11)	[2, 7.0, -1]
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+IsAngle(angle1-9)	[5, 9.0, -1]
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+IsAngle(angle2-9)	[5, 9.0, -1]
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+IsAngle(angle3-13)	[3, 5.0, -1]
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+IsAngle(angle4-18)	[0, 0.0, 0]
+A triangle is said to be isosceles, if at least any two of its sides are of same length.
+IsTriangle(triangle1-2)	[0, 0.0, 0]
+If two line segments have the same (i.e., equal) length, they are congruent.
+IsLine(line1-3)	[0, 0.0, 0]
+If two line segments have the same (i.e., equal) length, they are congruent.
+IsLine(segment1-4)	[1, 1.0, -1]
+If two line segments have the same (i.e., equal) length, they are congruent.
+IsLine(segment2-4)	[1, 1.0, -1]
+If two line segments have the same (i.e., equal) length, they are congruent.
+IsSegment(line1-3)	[1, 1.0, 1]
+If two line segments have the same (i.e., equal) length, they are congruent.
+IsSegment(segment1-4)	[0, 0.0, 0]
+If two line segments have the same (i.e., equal) length, they are congruent.
+IsSegment(segment2-4)	[0, 0.0, 0]
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+IsLine(line1-2)	[0, 0.0, 0]
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+IsLine(segment1-3)	[1, 1.0, -1]
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+IsLine(segment2-3)	[1, 1.0, -1]
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+IsSegment(line1-2)	[1, 1.0, 1]
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+IsSegment(segment1-3)	[0, 0.0, 0]
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+IsSegment(segment2-3)	[0, 0.0, 0]
+Two angles, say, ∠ABC and ∠PQR, are congruent if their measures are equal.
+IsAngle(angle1-2)	[0, 0.0, 0]
+Two angles, say, ∠ABC and ∠PQR, are congruent if their measures are equal.
+IsAngle(angle2-2)	[0, 0.0, 0]
+An acute angle measures between 0° and 90°.
+AcuteAngle(constant-7)	[4, 5.0, -1]
+An acute angle measures between 0° and 90°.
+AcuteAngle(constant-9)	[4, 7.0, -1]
+An acute angle measures between 0° and 90°.
+AcuteAngle(angle1-3)	[1, 1.0, -1]
+An acute angle measures between 0° and 90°.
+Acute(constant-7)	[4, 5.0, -1]
+An acute angle measures between 0° and 90°.
+Acute(constant-9)	[4, 7.0, -1]
+An acute angle measures between 0° and 90°.
+Acute(angle1-3)	[1, 1.0, -1]
+An acute angle measures between 0° and 90°.
+IsAngle(constant-7)	[3, 4.0, -1]
+An acute angle measures between 0° and 90°.
+IsAngle(constant-9)	[3, 6.0, -1]
+An acute angle measures between 0° and 90°.
+IsAngle(angle1-3)	[0, 0.0, 0]
+whereas a right angle is exactly equal to 90°.
+RightAngle(constant-10)	[3, 7.0, -1]
+whereas a right angle is exactly equal to 90°.
+RightAngle(angle1-4)	[2, 1.0, -1]
+whereas a right angle is exactly equal to 90°.
+RightTriangle(constant-10)	[3, 7.0, -1]
+whereas a right angle is exactly equal to 90°.
+RightTriangle(angle1-4)	[2, 1.0, -1]
+whereas a right angle is exactly equal to 90°.
+IsAngle(constant-10)	[3, 6.0, -1]
+whereas a right angle is exactly equal to 90°.
+IsAngle(angle1-4)	[0, 0.0, 0]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle(constant-5)	[1, 3.0, 1]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle(constant-9)	[2, 7.0, 2]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle(angle1-2)	[0, 0.0, 0]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle(angle2-15)	[2, 13.0, -1]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+ObtuseAngle(constant-5)	[4, 9.0, -1]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+ObtuseAngle(constant-9)	[5, 5.0, -1]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+ObtuseAngle(angle1-2)	[3, 12.0, -1]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+ObtuseAngle(angle2-15)	[1, 1.0, -1]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+Obtuse(constant-5)	[4, 9.0, -1]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+Obtuse(constant-9)	[5, 5.0, -1]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+Obtuse(angle1-2)	[3, 12.0, -1]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+Obtuse(angle2-15)	[1, 1.0, -1]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle(constant-5)	[3, 10.0, -1]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle(constant-9)	[4, 6.0, -1]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle(angle1-2)	[2, 13.0, -1]
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle(angle2-15)	[0, 0.0, 0]
+Further, two angles whose sum is 90° are called complementary angles.
+IsAngle(constant-7)	[2, 4.0, 2]
+Further, two angles whose sum is 90° are called complementary angles.
+IsAngle(angle1-3)	[0, 0.0, 0]
+Further, two angles whose sum is 90° are called complementary angles.
+IsAngle(angle2-3)	[0, 0.0, 0]
+Further, two angles whose sum is 90° are called complementary angles.
+IsAngle(angle3-12)	[2, 9.0, -1]
+Further, two angles whose sum is 90° are called complementary angles.
+IsAngle(constant-7)	[4, 5.0, -1]
+Further, two angles whose sum is 90° are called complementary angles.
+IsAngle(angle1-3)	[2, 9.0, -1]
+Further, two angles whose sum is 90° are called complementary angles.
+IsAngle(angle2-3)	[2, 9.0, -1]
+Further, two angles whose sum is 90° are called complementary angles.
+IsAngle(angle3-12)	[0, 0.0, 0]
+And two angles whose sum is 180° are called supplementary angles.
+IsAngle(constant-7)	[2, 4.0, 2]
+And two angles whose sum is 180° are called supplementary angles.
+IsAngle(angle1-3)	[0, 0.0, 0]
+And two angles whose sum is 180° are called supplementary angles.
+IsAngle(angle2-3)	[0, 0.0, 0]
+And two angles whose sum is 180° are called supplementary angles.
+IsAngle(angle3-12)	[2, 9.0, -1]
+And two angles whose sum is 180° are called supplementary angles.
+IsAngle(constant-7)	[4, 5.0, -1]
+And two angles whose sum is 180° are called supplementary angles.
+IsAngle(angle1-3)	[2, 9.0, -1]
+And two angles whose sum is 180° are called supplementary angles.
+IsAngle(angle2-3)	[2, 9.0, -1]
+And two angles whose sum is 180° are called supplementary angles.
+IsAngle(angle3-12)	[0, 0.0, 0]
+Theorem 6.6 : Lines which are parallel to the same line are parallel to each other.
+IsLine(line1-8)	[0, 0.0, 0]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsRectangle(rectangle1-2)	[0, 0.0, 0]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsRectangle(parallelogram1-6)	[2, 4.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsRectangle(angle1-10)	[4, 8.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsRectangle(angle2-14)	[3, 12.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsParallelogram(rectangle1-2)	[2, 4.0, 2]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsParallelogram(parallelogram1-6)	[0, 0.0, 0]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsParallelogram(angle1-10)	[2, 4.0, 2]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsParallelogram(angle2-14)	[1, 8.0, 1]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsAngle(rectangle1-2)	[4, 8.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsAngle(parallelogram1-6)	[2, 4.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsAngle(angle1-10)	[0, 0.0, 0]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsAngle(angle2-14)	[1, 4.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+RightAngle(rectangle1-2)	[4, 11.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+RightAngle(parallelogram1-6)	[2, 7.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+RightAngle(angle1-10)	[2, 3.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+RightAngle(angle2-14)	[1, 1.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+RightTriangle(rectangle1-2)	[4, 11.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+RightTriangle(parallelogram1-6)	[2, 7.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+RightTriangle(angle1-10)	[2, 3.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+RightTriangle(angle2-14)	[1, 1.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsAngle(rectangle1-2)	[3, 12.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsAngle(parallelogram1-6)	[1, 8.0, -1]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsAngle(angle1-10)	[1, 4.0, 1]
+A rectangle is a parallelogram in which one angle is a right angle.
+IsAngle(angle2-14)	[0, 0.0, 0]
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle(chord1-2)	[4, 8.0, -1]
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle(centre1-7)	[2, 3.0, -1]
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle(circle1-10)	[0, 0.0, 0]
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle(circle2-18)	[7, 8.0, -1]
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle(chord1-2)	[3, 16.0, -1]
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle(centre1-7)	[5, 11.0, -1]
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle(circle1-10)	[7, 8.0, -1]
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle(circle2-18)	[0, 0.0, 0]
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsLine(line1-2)	[0, 0.0, 0]
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsLine(centre1-6)	[2, 4.0, 2]
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsLine(circle1-9)	[3, 7.0, 3]
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsLine(chord1-13)	[4, 11.0, 4]
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsLine(chord2-19)	[2, 17.0, -1]
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsCircle(line1-2)	[3, 7.0, -1]
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsCircle(centre1-6)	[1, 3.0, -1]
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsCircle(circle1-9)	[0, 0.0, 0]
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsCircle(chord1-13)	[5, 4.0, -1]
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsCircle(chord2-19)	[5, 10.0, -1]

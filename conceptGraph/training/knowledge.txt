@@ -13,7 +13,6 @@ When the sum of the measures of two angles is 90°, the angles are called comple
 We also find that the difference between the length of any two sides of a triangle is smaller than the length of the third side.
 The total measure of the three angles of a triangle is 180°.
 Statement The total measure of the three angles of a triangle is 180°.
-It may be stated as follows: In a right-angled triangle, the square on the hypotenuse = sum of the squares on the legs.
 In an equilateral triangle, each angle has measure 60°.
 A triangle is said to be isosceles, if at least any two of its sides are of same length.
 If two line segments have the same (i.e., equal) length, they are congruent.
