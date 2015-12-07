@@ -1,5 +1,5 @@
 constant	0	0	0,60,90,180,360
-line	1	0	line
+line	1	0	line,lines
 angle	1	0	angle,angles,angled
 triangle	1	0	triangle,triangles
 segment	1	0	segment,segments,tangent,tangents
@@ -18,7 +18,7 @@ arc	1	0	arc
 Similar	3	2	similar
 IsTriangle	3	1	triangle,triangles
 IsAngle	3	1	angle,angles,angled
-IsLine	3	1	line
+IsLine	3	1	line,lines
 IsSegment	3	1	segment,segments,tangent,tangents
 SideOf	3	2	side,hypotenuse,leg,legs
 AngleOf	3	2	angle,angles,angled
