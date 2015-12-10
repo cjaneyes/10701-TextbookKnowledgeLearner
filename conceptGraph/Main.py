@@ -16,8 +16,7 @@ class Main:
 			sen.output(file_name)
 			getSample(sen)
 
-
-if __name__ == '__main__':
+if __name__ == '__main__': 
 	lexicon = Lexicon()
-	m = Main("./test/demo.txt",lexicon)
-	m.output('./test/concepts_knowledges.txt')
+	m = Main("./test/knowledge.txt",lexicon)
+	m.output('./Evaluation/pred_step1.txt')

@@ -1,5 +1,12 @@
 from Feature import Feature
 
+def convert_features(features):
+	length = len(features)
+	return_str = ""
+	for i in range(length):
+		return_str += str(i)+":"+str(features[i])+" "
+	return return_str
+
 def reorder_concepts(concepts):
 	concept_list = []
 	for i in range(0,4):
@@ -54,8 +61,8 @@ def order_matter(predicate):
 	return False
 
 def getSample(sentence):
-	write_file_1 = open("uni.sup.literal","a")
-	write_file_2 = open("bi.sup.literal","a")
+	write_file_1 = open("uni.test.literal","a")
+	write_file_2 = open("bi.test.literal","a")
 	concept_list = reorder_concepts(sentence.concepts)
 	params = []
 	for concept in concept_list[0]:
@@ -93,15 +100,14 @@ def getSample(sentence):
 			print sample[1][0][0].name+  "-" +str(sample[1][0][0].token_id) +")"
 			sam = Feature([sample[0],sample[1][0][0]], sentence)
 			features = sam.generateFeature()
-			write_file_1.write(sentence.text+"\n"+sample[0].name + "-" + str(sample[0].token_id) + "(" + sample[1][0][0].name+  "-" +str(sample[1][0][0].token_id) +")\t"+str(features)+"\n")
+			write_file_1.write(sentence.text+"\n"+sample[0].name + "-" + str(sample[0].token_id) + "(" + sample[1][0][0].name+  "-" +str(sample[1][0][0].token_id) +")\t"+convert_features(features)+"\n")
 
 		else:
 			print sample[1][0][0].name + "-" + str(sample[1][0][0].token_id) +","+sample[1][1][0].name + "-" + str(sample[1][1][0].token_id)+")"
 			sam = Feature([sample[0],sample[1][0][0],sample[1][1][0]], sentence)
 			features = sam.generateFeature()
-			write_file_2.write(sentence.text+"\n"+sample[0].name+ "-" + str(sample[0].token_id)+"("+sample[1][0][0].name + "-" + str(sample[1][0][0].token_id) +","+sample[1][1][0].name + "-" + str(sample[1][1][0].token_id)+")\t"+str(features)+"\n")
+			write_file_2.write(sentence.text+"\n"+sample[0].name+ "-" + str(sample[0].token_id)+"("+sample[1][0][0].name + "-" + str(sample[1][0][0].token_id) +","+sample[1][1][0].name + "-" + str(sample[1][1][0].token_id)+")\t"+convert_features(features)+"\n")
 
 		#print sample, features
-		
 		print features
 		#print features

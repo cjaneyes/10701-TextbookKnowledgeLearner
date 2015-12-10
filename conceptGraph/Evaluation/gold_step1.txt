@@ -13,7 +13,6 @@ Sum	angle1	angle2	IsAngle	AngleOf	constant	Equals	angle3	IsAngle	AngleOf	Complem
 Difference	triangle1	IsTriangle	SmallerThan	side1	SideOf	
 MeasureOf	angle1	angle2	angle3	IsAngle	AngleOf	triangle1	IsTriangle	constant	Equals	
 MeasureOf	angle1	angle2	angle3	IsAngle	AngleOf	triangle1	IsTriangle	constant	Equals	
-triangle1	IsTriangle	square1	Square	IsSquare	side1	SideOf	IsHypotenuse	Equals	Sum	square2	IsSquare	side2	SideOf	IsLeg	
 triangle1	IsTriangle	angle1	IsAngle	AngleOf	MeasureOf	constant	
 triangle1	IsTriangle	
 line1	IsLine	segment1	segment2	IsSegment	Equals	Congruent	

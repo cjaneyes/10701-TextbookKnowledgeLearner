@@ -1,0 +1,5 @@
+An obtuse angle is greater than 90°.
+Two segments have equal lengths, if they are congruent.
+A triangle with two sides of equal lengths is isosceles.
+The diameter of the circle is a chord pass through the centre.
+A line is parallel to another line, if they are both parallel to a third line.

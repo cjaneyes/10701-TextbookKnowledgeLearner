@@ -76,12 +76,24 @@ class Feature():
 	def generateFeature(self):
 		#print self.parent
 		pToken = self.sentence.tokens[self.parent.token_id]
-		#print pToken
+		
+		# generate (parent, children) features
 		for child in self.children:
 			cToken = self.sentence.tokens[child.token_id]
 			self.feature.append(self.getDependencyTreeDist(pToken, cToken))
 			self.feature.append(self.getWordDist(pToken, cToken))
 			self.feature.append(self.getDependencyTreeEdge(pToken, cToken))
+
+		# generate (child1, child2) features
+		for i in range(0, len(self.children)):
+			for j in range(i+1, len(self.children)):
+				cToken = self.sentence.tokens[self.children[i].token_id]
+				c2Token = self.sentence.tokens[self.children[j].token_id]
+
+				self.feature.append(self.getDependencyTreeDist(cToken, c2Token))
+				self.feature.append(self.getWordDist(cToken, c2Token))
+				self.feature.append(self.getDependencyTreeEdge(cToken, c2Token))				
 			#self.feature.append(self.getRelationType(pToken, cToken))
 			#self.feature.append(self.getReturnType(pToken, cToken))
+
 		return self.feature

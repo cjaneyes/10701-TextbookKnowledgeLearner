@@ -1,0 +1,42 @@
+An obtuse angle is greater than 90°.
+ObtuseAngle-2(constant-8)	0:2 1:6.0 2:-1 
+An obtuse angle is greater than 90°.
+ObtuseAngle-2(angle1-3)	0:2 1:1.0 2:-1 
+An obtuse angle is greater than 90°.
+Obtuse-2(constant-8)	0:2 1:6.0 2:-1 
+An obtuse angle is greater than 90°.
+Obtuse-2(angle1-3)	0:2 1:1.0 2:-1 
+An obtuse angle is greater than 90°.
+IsAngle-3(constant-8)	0:2 1:5.0 2:-1 
+An obtuse angle is greater than 90°.
+IsAngle-3(angle1-3)	0:0 1:0.0 2:0 
+Two segments have equal lengths, if they are congruent.
+IsSegment-2(segment1-2)	0:0 1:0.0 2:0 
+Two segments have equal lengths, if they are congruent.
+IsSegment-2(segment2-2)	0:0 1:0.0 2:0 
+A triangle with two sides of equal lengths is isosceles.
+IsTriangle-2(triangle1-2)	0:0 1:0.0 2:0 
+The diameter of the circle is a chord pass through the centre.
+IsCircle-5(circle1-5)	0:0 1:0.0 2:0 
+The diameter of the circle is a chord pass through the centre.
+IsCircle-5(chord1-9)	0:4 1:4.0 2:-1 
+The diameter of the circle is a chord pass through the centre.
+IsCircle-5(centre1-13)	0:4 1:8.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-2(line1-2)	0:0 1:0.0 2:0 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-2(line2-7)	0:2 1:5.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-2(line3-17)	0:3 1:15.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-7(line1-2)	0:2 1:5.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-7(line2-7)	0:0 1:0.0 2:0 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-7(line3-17)	0:3 1:10.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-17(line1-2)	0:3 1:15.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-17(line2-7)	0:3 1:10.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-17(line3-17)	0:0 1:0.0 2:0 

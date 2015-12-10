@@ -1,0 +1,266 @@
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-9(polygon1-7,polygon2-12)	0:1 1:2.0 2:1 3:1 4:3.0 5:1 6:2 7:5.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-9(polygon1-7,polygon3-16)	0:1 1:2.0 2:1 3:2 4:7.0 5:2 6:3 7:9.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-9(polygon1-7,polygon4-22)	0:1 1:2.0 2:1 3:3 4:13.0 5:3 6:4 7:15.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-9(polygon1-7,polygon5-27)	0:1 1:2.0 2:1 3:2 4:18.0 5:-1 6:3 7:20.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-9(polygon1-7,polygon6-33)	0:1 1:2.0 2:1 3:2 4:24.0 5:-1 6:3 7:26.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-9(polygon2-12,polygon3-16)	0:1 1:3.0 2:1 3:2 4:7.0 5:2 6:3 7:4.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-9(polygon2-12,polygon4-22)	0:1 1:3.0 2:1 3:3 4:13.0 5:3 6:4 7:10.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-9(polygon2-12,polygon5-27)	0:1 1:3.0 2:1 3:2 4:18.0 5:-1 6:3 7:15.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-9(polygon2-12,polygon6-33)	0:1 1:3.0 2:1 3:2 4:24.0 5:-1 6:3 7:21.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-9(polygon3-16,polygon4-22)	0:2 1:7.0 2:2 3:3 4:13.0 5:3 6:3 7:6.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-9(polygon3-16,polygon5-27)	0:2 1:7.0 2:2 3:2 4:18.0 5:-1 6:4 7:11.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-9(polygon3-16,polygon6-33)	0:2 1:7.0 2:2 3:2 4:24.0 5:-1 6:4 7:17.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-9(polygon4-22,polygon5-27)	0:3 1:13.0 2:3 3:2 4:18.0 5:-1 6:5 7:5.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-9(polygon4-22,polygon6-33)	0:3 1:13.0 2:3 3:2 4:24.0 5:-1 6:5 7:11.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-9(polygon5-27,polygon6-33)	0:2 1:18.0 2:-1 3:2 4:24.0 5:-1 6:2 7:6.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-18(polygon1-7,polygon2-12)	0:2 1:11.0 2:-1 3:2 4:6.0 5:-1 6:2 7:5.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-18(polygon1-7,polygon3-16)	0:2 1:11.0 2:-1 3:1 4:2.0 5:1 6:3 7:9.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-18(polygon1-7,polygon4-22)	0:2 1:11.0 2:-1 3:2 4:4.0 5:2 6:4 7:15.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-18(polygon1-7,polygon5-27)	0:2 1:11.0 2:-1 3:3 4:9.0 5:-1 6:3 7:20.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-18(polygon1-7,polygon6-33)	0:2 1:11.0 2:-1 3:3 4:15.0 5:-1 6:3 7:26.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-18(polygon2-12,polygon3-16)	0:2 1:6.0 2:-1 3:1 4:2.0 5:1 6:3 7:4.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-18(polygon2-12,polygon4-22)	0:2 1:6.0 2:-1 3:2 4:4.0 5:2 6:4 7:10.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-18(polygon2-12,polygon5-27)	0:2 1:6.0 2:-1 3:3 4:9.0 5:-1 6:3 7:15.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-18(polygon2-12,polygon6-33)	0:2 1:6.0 2:-1 3:3 4:15.0 5:-1 6:3 7:21.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-18(polygon3-16,polygon4-22)	0:1 1:2.0 2:1 3:2 4:4.0 5:2 6:3 7:6.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-18(polygon3-16,polygon5-27)	0:1 1:2.0 2:1 3:3 4:9.0 5:-1 6:4 7:11.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-18(polygon3-16,polygon6-33)	0:1 1:2.0 2:1 3:3 4:15.0 5:-1 6:4 7:17.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-18(polygon4-22,polygon5-27)	0:2 1:4.0 2:2 3:3 4:9.0 5:-1 6:5 7:5.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-18(polygon4-22,polygon6-33)	0:2 1:4.0 2:2 3:3 4:15.0 5:-1 6:5 7:11.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-18(polygon5-27,polygon6-33)	0:3 1:9.0 2:-1 3:3 4:15.0 5:-1 6:2 7:6.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-29(polygon1-7,polygon2-12)	0:2 1:22.0 2:2 3:2 4:17.0 5:2 6:2 7:5.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-29(polygon1-7,polygon3-16)	0:2 1:22.0 2:2 3:3 4:13.0 5:3 6:3 7:9.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-29(polygon1-7,polygon4-22)	0:2 1:22.0 2:2 3:4 4:7.0 5:4 6:4 7:15.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-29(polygon1-7,polygon5-27)	0:2 1:22.0 2:2 3:1 4:2.0 5:1 6:3 7:20.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-29(polygon1-7,polygon6-33)	0:2 1:22.0 2:2 3:1 4:4.0 5:1 6:3 7:26.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-29(polygon2-12,polygon3-16)	0:2 1:17.0 2:2 3:3 4:13.0 5:3 6:3 7:4.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-29(polygon2-12,polygon4-22)	0:2 1:17.0 2:2 3:4 4:7.0 5:4 6:4 7:10.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-29(polygon2-12,polygon5-27)	0:2 1:17.0 2:2 3:1 4:2.0 5:1 6:3 7:15.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-29(polygon2-12,polygon6-33)	0:2 1:17.0 2:2 3:1 4:4.0 5:1 6:3 7:21.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-29(polygon3-16,polygon4-22)	0:3 1:13.0 2:3 3:4 4:7.0 5:4 6:3 7:6.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-29(polygon3-16,polygon5-27)	0:3 1:13.0 2:3 3:1 4:2.0 5:1 6:4 7:11.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-29(polygon3-16,polygon6-33)	0:3 1:13.0 2:3 3:1 4:4.0 5:1 6:4 7:17.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-29(polygon4-22,polygon5-27)	0:4 1:7.0 2:4 3:1 4:2.0 5:1 6:5 7:5.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-29(polygon4-22,polygon6-33)	0:4 1:7.0 2:4 3:1 4:4.0 5:1 6:5 7:11.0 8:-1 
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar-29(polygon5-27,polygon6-33)	0:1 1:2.0 2:1 3:1 4:4.0 5:1 6:2 7:6.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-4(angle1-4,triangle1-12)	0:0 1:0.0 2:0 3:3 4:8.0 5:-1 6:3 7:8.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-4(angle1-4,triangle2-18)	0:0 1:0.0 2:0 3:3 4:14.0 5:-1 6:3 7:14.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-4(angle2-8,triangle1-12)	0:2 1:4.0 2:-1 3:3 4:8.0 5:-1 6:3 7:4.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-4(angle2-8,triangle2-18)	0:2 1:4.0 2:-1 3:3 4:14.0 5:-1 6:3 7:10.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-4(angle3-17,triangle1-12)	0:4 1:13.0 2:-1 3:3 4:8.0 5:-1 6:3 7:5.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-4(angle3-17,triangle2-18)	0:4 1:13.0 2:-1 3:3 4:14.0 5:-1 6:1 7:1.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-8(angle1-4,triangle1-12)	0:2 1:4.0 2:-1 3:3 4:4.0 5:-1 6:3 7:8.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-8(angle1-4,triangle2-18)	0:2 1:4.0 2:-1 3:3 4:10.0 5:-1 6:3 7:14.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-8(angle2-8,triangle1-12)	0:0 1:0.0 2:0 3:3 4:4.0 5:-1 6:3 7:4.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-8(angle2-8,triangle2-18)	0:0 1:0.0 2:0 3:3 4:10.0 5:-1 6:3 7:10.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-8(angle3-17,triangle1-12)	0:4 1:9.0 2:-1 3:3 4:4.0 5:-1 6:3 7:5.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-8(angle3-17,triangle2-18)	0:4 1:9.0 2:-1 3:3 4:10.0 5:-1 6:1 7:1.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-17(angle1-4,triangle1-12)	0:4 1:13.0 2:-1 3:3 4:5.0 5:-1 6:3 7:8.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-17(angle1-4,triangle2-18)	0:4 1:13.0 2:-1 3:1 4:1.0 5:-1 6:3 7:14.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-17(angle2-8,triangle1-12)	0:4 1:9.0 2:-1 3:3 4:5.0 5:-1 6:3 7:4.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-17(angle2-8,triangle2-18)	0:4 1:9.0 2:-1 3:1 4:1.0 5:-1 6:3 7:10.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-17(angle3-17,triangle1-12)	0:0 1:0.0 2:0 3:3 4:5.0 5:-1 6:3 7:5.0 8:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+AngleOf-17(angle3-17,triangle2-18)	0:0 1:0.0 2:0 3:1 4:1.0 5:-1 6:1 7:1.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+AngleOf-4(angle1-4,constant-8)	0:0 1:0.0 2:0 3:2 4:4.0 5:-1 6:2 7:4.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+AngleOf-4(angle2-17,constant-8)	0:4 1:13.0 2:-1 3:2 4:4.0 5:-1 6:4 7:9.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+AngleOf-4(angle1-4,triangle1-12)	0:0 1:0.0 2:0 3:3 4:8.0 5:-1 6:3 7:8.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+AngleOf-4(angle1-4,triangle2-18)	0:0 1:0.0 2:0 3:3 4:14.0 5:-1 6:3 7:14.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+AngleOf-4(angle2-17,triangle1-12)	0:4 1:13.0 2:-1 3:3 4:8.0 5:-1 6:3 7:5.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+AngleOf-4(angle2-17,triangle2-18)	0:4 1:13.0 2:-1 3:3 4:14.0 5:-1 6:1 7:1.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+GreaterThan-6(angle1-4,constant-8)	0:3 1:2.0 2:-1 3:1 4:2.0 5:-1 6:2 7:4.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+GreaterThan-6(triangle1-12,constant-8)	0:4 1:6.0 2:-1 3:1 4:2.0 5:-1 6:3 7:4.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+GreaterThan-6(angle2-17,constant-8)	0:5 1:11.0 2:-1 3:1 4:2.0 5:-1 6:4 7:9.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+GreaterThan-6(triangle2-18,constant-8)	0:4 1:12.0 2:-1 3:1 4:2.0 5:-1 6:3 7:10.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+GreaterThan-6(angle1-4,angle2-17)	0:3 1:2.0 2:-1 3:5 4:11.0 5:-1 6:4 7:13.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+GreaterThan-6(angle2-17,angle1-4)	0:5 1:11.0 2:-1 3:3 4:2.0 5:-1 6:4 7:13.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+GreaterThan-6(triangle1-12,triangle2-18)	0:4 1:6.0 2:-1 3:4 4:12.0 5:-1 6:2 7:6.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+GreaterThan-6(triangle2-18,triangle1-12)	0:4 1:12.0 2:-1 3:4 4:6.0 5:-1 6:2 7:6.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+Equals-8(angle1-4,angle2-17)	0:2 1:4.0 2:-1 3:4 4:9.0 5:-1 6:4 7:13.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+Equals-8(triangle1-12,triangle2-18)	0:3 1:4.0 2:-1 3:3 4:10.0 5:-1 6:2 7:6.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+AngleOf-17(angle1-4,constant-8)	0:4 1:13.0 2:-1 3:4 4:9.0 5:-1 6:2 7:4.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+AngleOf-17(angle2-17,constant-8)	0:0 1:0.0 2:0 3:4 4:9.0 5:-1 6:4 7:9.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+AngleOf-17(angle1-4,triangle1-12)	0:4 1:13.0 2:-1 3:3 4:5.0 5:-1 6:3 7:8.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+AngleOf-17(angle1-4,triangle2-18)	0:4 1:13.0 2:-1 3:1 4:1.0 5:-1 6:3 7:14.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+AngleOf-17(angle2-17,triangle1-12)	0:0 1:0.0 2:0 3:3 4:5.0 5:-1 6:3 7:5.0 8:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+AngleOf-17(angle2-17,triangle2-18)	0:0 1:0.0 2:0 3:1 4:1.0 5:-1 6:1 7:1.0 8:-1 
+hence that measure of a straight angle is 180°.
+MeasureOf-4(constant-10,angle1-8)	0:1 1:6.0 2:-1 3:1 4:4.0 5:1 6:2 7:2.0 8:2 
+hence that measure of a straight angle is 180°.
+MeasureOf-4(angle1-8,constant-10)	0:1 1:4.0 2:1 3:1 4:6.0 5:-1 6:2 7:2.0 8:-1 
+hence that measure of a straight angle is 180°.
+AngleOf-8(angle1-8,constant-10)	0:0 1:0.0 2:0 3:2 4:2.0 5:-1 6:2 7:2.0 8:-1 
+If two line segments have the same (i.e., equal) length, they are congruent.
+Equals-9(segment1-4,segment2-4)	0:3 1:5.0 2:-1 3:3 4:5.0 5:-1 6:0 7:0.0 8:0 
+If two line segments have the same (i.e., equal) length, they are congruent.
+Congruent-14(segment1-4,segment2-4)	0:2 1:10.0 2:2 3:2 4:10.0 5:2 6:0 7:0.0 8:0 
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+Congruent-9(segment1-3,segment2-3)	0:2 1:6.0 2:-1 3:2 4:6.0 5:-1 6:0 7:0.0 8:0 
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+Equals-14(segment1-3,segment2-3)	0:5 1:11.0 2:-1 3:5 4:11.0 5:-1 6:0 7:0.0 8:0 
+Two angles, say, ∠ABC and ∠PQR, are congruent if their measures are equal.
+Congruent-8(angle1-2,angle2-2)	0:2 1:6.0 2:-1 3:2 4:6.0 5:-1 6:0 7:0.0 8:0 
+Two angles, say, ∠ABC and ∠PQR, are congruent if their measures are equal.
+Equals-14(angle1-2,angle2-2)	0:3 1:12.0 2:-1 3:3 4:12.0 5:-1 6:0 7:0.0 8:0 
+An acute angle measures between 0° and 90°.
+AngleOf-3(angle1-3,constant-7)	0:0 1:0.0 2:0 3:3 4:4.0 5:-1 6:3 7:4.0 8:-1 
+An acute angle measures between 0° and 90°.
+AngleOf-3(angle1-3,constant-9)	0:0 1:0.0 2:0 3:3 4:6.0 5:-1 6:3 7:6.0 8:-1 
+whereas a right angle is exactly equal to 90°.
+AngleOf-4(angle1-4,constant-10)	0:0 1:0.0 2:0 3:3 4:6.0 5:-1 6:3 7:6.0 8:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+AngleOf-2(angle1-2,constant-5)	0:0 1:0.0 2:0 3:1 4:3.0 5:1 6:1 7:3.0 8:1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+AngleOf-2(angle2-15,constant-5)	0:2 1:13.0 2:-1 3:1 4:3.0 5:1 6:3 7:10.0 8:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+AngleOf-2(angle1-2,constant-9)	0:0 1:0.0 2:0 3:2 4:7.0 5:2 6:2 7:7.0 8:2 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+AngleOf-2(angle2-15,constant-9)	0:2 1:13.0 2:-1 3:2 4:7.0 5:2 6:4 7:6.0 8:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+GreaterThan-3(angle1-2,constant-5)	0:2 1:1.0 2:-1 3:1 4:2.0 5:-1 6:1 7:3.0 8:1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+GreaterThan-3(angle2-15,constant-5)	0:4 1:12.0 2:-1 3:1 4:2.0 5:-1 6:3 7:10.0 8:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+GreaterThan-3(angle1-2,constant-9)	0:2 1:1.0 2:-1 3:4 4:6.0 5:-1 6:2 7:7.0 8:2 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+GreaterThan-3(angle2-15,constant-9)	0:4 1:12.0 2:-1 3:4 4:6.0 5:-1 6:4 7:6.0 8:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+GreaterThan-3(angle1-2,angle2-15)	0:2 1:1.0 2:-1 3:4 4:12.0 5:-1 6:2 7:13.0 8:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+GreaterThan-3(angle2-15,angle1-2)	0:4 1:12.0 2:-1 3:2 4:1.0 5:-1 6:2 7:13.0 8:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+Equals-5(angle1-2,angle2-15)	0:1 1:3.0 2:-1 3:3 4:10.0 5:-1 6:2 7:13.0 8:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+LessThan-7(angle1-2,constant-5)	0:3 1:5.0 2:-1 3:4 4:2.0 5:-1 6:1 7:3.0 8:1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+LessThan-7(angle2-15,constant-5)	0:5 1:8.0 2:-1 3:4 4:2.0 5:-1 6:3 7:10.0 8:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+LessThan-7(angle1-2,constant-9)	0:3 1:5.0 2:-1 3:1 4:2.0 5:-1 6:2 7:7.0 8:2 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+LessThan-7(angle2-15,constant-9)	0:5 1:8.0 2:-1 3:1 4:2.0 5:-1 6:4 7:6.0 8:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+LessThan-7(angle1-2,angle2-15)	0:3 1:5.0 2:-1 3:5 4:8.0 5:-1 6:2 7:13.0 8:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+LessThan-7(angle2-15,angle1-2)	0:5 1:8.0 2:-1 3:3 4:5.0 5:-1 6:2 7:13.0 8:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+Equals-9(angle1-2,angle2-15)	0:2 1:7.0 2:-1 3:4 4:6.0 5:-1 6:2 7:13.0 8:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+AngleOf-15(angle1-2,constant-5)	0:2 1:13.0 2:-1 3:3 4:10.0 5:-1 6:1 7:3.0 8:1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+AngleOf-15(angle2-15,constant-5)	0:0 1:0.0 2:0 3:3 4:10.0 5:-1 6:3 7:10.0 8:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+AngleOf-15(angle1-2,constant-9)	0:2 1:13.0 2:-1 3:4 4:6.0 5:-1 6:2 7:7.0 8:2 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+AngleOf-15(angle2-15,constant-9)	0:0 1:0.0 2:0 3:4 4:6.0 5:-1 6:4 7:6.0 8:-1 
+Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
+Parallel-5(line1-2,line2-2)	0:2 1:3.0 2:-1 3:2 4:3.0 5:-1 6:0 7:0.0 8:0 
+Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
+Parallel-5(line1-2,line3-9)	0:2 1:3.0 2:-1 3:1 4:4.0 5:-1 6:1 7:7.0 8:1 
+Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
+Parallel-5(line2-2,line3-9)	0:2 1:3.0 2:-1 3:1 4:4.0 5:-1 6:1 7:7.0 8:1 
+Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
+Parallel-12(line1-2,line2-2)	0:2 1:10.0 2:-1 3:2 4:10.0 5:-1 6:0 7:0.0 8:0 
+Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
+Parallel-12(line1-2,line3-9)	0:2 1:10.0 2:-1 3:3 4:3.0 5:-1 6:1 7:7.0 8:1 
+Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
+Parallel-12(line2-2,line3-9)	0:2 1:10.0 2:-1 3:3 4:3.0 5:-1 6:1 7:7.0 8:1 
+A rectangle is a parallelogram in which one angle is a right angle.
+AngleOf-10(angle1-10,rectangle1-2)	0:0 1:0.0 2:0 3:4 4:8.0 5:-1 6:4 7:8.0 8:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+AngleOf-10(angle2-14,rectangle1-2)	0:1 1:4.0 2:-1 3:4 4:8.0 5:-1 6:3 7:12.0 8:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+AngleOf-10(angle1-10,parallelogram1-6)	0:0 1:0.0 2:0 3:2 4:4.0 5:-1 6:2 7:4.0 8:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+AngleOf-10(angle2-14,parallelogram1-6)	0:1 1:4.0 2:-1 3:2 4:4.0 5:-1 6:1 7:8.0 8:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+AngleOf-14(angle1-10,rectangle1-2)	0:1 1:4.0 2:1 3:3 4:12.0 5:-1 6:4 7:8.0 8:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+AngleOf-14(angle2-14,rectangle1-2)	0:0 1:0.0 2:0 3:3 4:12.0 5:-1 6:3 7:12.0 8:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+AngleOf-14(angle1-10,parallelogram1-6)	0:1 1:4.0 2:1 3:1 4:8.0 5:-1 6:2 7:4.0 8:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+AngleOf-14(angle2-14,parallelogram1-6)	0:0 1:0.0 2:0 3:1 4:8.0 5:-1 6:1 7:8.0 8:-1 

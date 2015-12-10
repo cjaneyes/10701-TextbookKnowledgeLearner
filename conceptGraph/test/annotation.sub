@@ -3,7 +3,6 @@ If any one angle is a right angle then the triangle is called a right angled tri
 If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
 One more obvious property of the rectangle you can see is that opposite sides are of equal length.
 hence that measure of a straight angle is 180°.
-When the sum of the measures of two angles is 90°, the angles are called complementary angles.
 A triangle is said to be isosceles, if at least any two of its sides are of same length.
 If two line segments have the same (i.e., equal) length, they are congruent.
 Two line segments, say, AB and CD , are congruent if they have equal lengths.
@@ -11,9 +10,7 @@ Two angles, say, ∠ABC and ∠PQR, are congruent if their measures are equal.
 An acute angle measures between 0° and 90°.
 whereas a right angle is exactly equal to 90°.
 An angle greater than 90° but less than 180° is called an obtuse angle.
-Further, two angles whose sum is 90° are called complementary angles.
-And two angles whose sum is 180° are called supplementary angles.
-Theorem 6.6 : Lines which are parallel to the same line are parallel to each other.
+Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
 A rectangle is a parallelogram in which one angle is a right angle.
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
