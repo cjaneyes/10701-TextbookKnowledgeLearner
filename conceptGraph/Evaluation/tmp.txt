@@ -1,0 +1,77 @@
+polygon1	Similar	polygon2	polygon3	Similar	polygon4	polygon5	Similar	polygon6	
+angle1	IsAngle	AngleOf	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	triangle1	IsTriangle	RightAngle	RightTriangle	angle3	IsAngle	AngleOf	triangle2	IsTriangle	
+angle1	IsAngle	AngleOf	GreaterThan	constant	Equals	triangle1	IsTriangle	ObtuseAngle	Obtuse	angle2	IsAngle	AngleOf	triangle2	IsTriangle	
+rectangle1	IsRectangle	Opposite	side1	SideOf	Equals	
+MeasureOf	StraightAngle	angle1	IsAngle	AngleOf	constant	Equals	
+triangle1	IsTriangle	Isosceles	side1	SideOf	
+line1	IsLine	segment1	segment2	IsSegment	Equals	Congruent	
+line1	IsLine	segment1	segment2	IsSegment	Congruent	Equals	
+angle1	angle2	IsAngle	AngleOf	Congruent	Equals	
+AcuteAngle	Acute	angle1	IsAngle	AngleOf	constant	constant	Equals	
+RightAngle	RightTriangle	angle1	IsAngle	AngleOf	Equals	constant	Equals	
+angle1	IsAngle	AngleOf	GreaterThan	constant	Equals	LessThan	constant	Equals	ObtuseAngle	Obtuse	angle2	IsAngle	AngleOf	
+line1	line2	IsLine	Parallel	line3	IsLine	Parallel	
+rectangle1	IsRectangle	parallelogram1	IsParallelogram	angle1	IsAngle	AngleOf	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	
+chord1	ChordOf	IsOn	centre1	CentreOf	circle1	IsCircle	DiameterOf	circle2	IsCircle	
+line1	IsLine	IsOn	centre1	CentreOf	circle1	IsCircle	Bisect	chord1	ChordOf	Perpendicular	chord2	ChordOf	
+ObtuseAngle	Obtuse	angle1	IsAngle	AngleOf	GreaterThan	constant	Equals	
+segment1	segment2	IsSegment	Equals	Congruent	
+triangle1	IsTriangle	side1	side2	SideOf	Equals	Isosceles	
+DiameterOf	circle1	IsCircle	chord1	ChordOf	IsOn	IsOn	centre1	CentreOf	
+line1	IsLine	Parallel	line2	IsLine	Parallel	line3	IsLine	
+polygon1	Similar	polygon2	polygon3	Similar	polygon4	polygon5	Similar	polygon6	
+angle1	IsAngle	AngleOf	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	triangle1	IsTriangle	RightAngle	RightTriangle	angle3	IsAngle	AngleOf	triangle2	IsTriangle	
+angle1	IsAngle	AngleOf	GreaterThan	constant	Equals	triangle1	IsTriangle	ObtuseAngle	Obtuse	angle2	IsAngle	AngleOf	triangle2	IsTriangle	
+rectangle1	IsRectangle	Opposite	side1	SideOf	Equals	
+MeasureOf	StraightAngle	angle1	IsAngle	AngleOf	constant	Equals	
+triangle1	IsTriangle	Isosceles	side1	SideOf	
+line1	IsLine	segment1	segment2	IsSegment	Equals	Congruent	
+line1	IsLine	segment1	segment2	IsSegment	Congruent	Equals	
+angle1	angle2	IsAngle	AngleOf	Congruent	Equals	
+AcuteAngle	Acute	angle1	IsAngle	AngleOf	constant	constant	Equals	
+RightAngle	RightTriangle	angle1	IsAngle	AngleOf	Equals	constant	Equals	
+angle1	IsAngle	AngleOf	GreaterThan	constant	Equals	LessThan	constant	Equals	ObtuseAngle	Obtuse	angle2	IsAngle	AngleOf	
+line1	line2	IsLine	Parallel	line3	IsLine	Parallel	
+rectangle1	IsRectangle	parallelogram1	IsParallelogram	angle1	IsAngle	AngleOf	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	
+chord1	ChordOf	IsOn	centre1	CentreOf	circle1	IsCircle	DiameterOf	circle2	IsCircle	
+line1	IsLine	IsOn	centre1	CentreOf	circle1	IsCircle	Bisect	chord1	ChordOf	Perpendicular	chord2	ChordOf	
+AcuteAngle	Acute	angle1	IsAngle	AngleOf	LessThan	constant	Equals	
+segment1	segment2	IsSegment	Equals	Congruent	
+triangle1	IsTriangle	side1	side2	SideOf	Equals	Isosceles	
+DiameterOf	circle1	IsCircle	chord1	ChordOf	IsOn	IsOn	centre1	CentreOf	
+line1	IsLine	Parallel	line2	IsLine	Parallel	line3	IsLine	
+angle1	IsAngle	AngleOf	Equals	constant	Equals	StraightAngle	angle2	IsAngle	AngleOf	
+MeasureOf	ObtuseAngle	Obtuse	angle1	IsAngle	AngleOf	GreaterThan	constant	Equals	LessThan	constant	Equals	
+angle1	IsAngle	AngleOf	parallelogram1	IsParallelogram	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	rectangle1	IsRectangle	
+Opposite	side1	SideOf	rectangle1	IsRectangle	Equals	
+angle1	IsAngle	AngleOf	Equals	constant	Equals	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	
+AcuteAngle	Acute	angle1	IsAngle	AngleOf	LessThan	constant	Equals	
+segment1	segment2	IsSegment	Equals	Congruent	
+triangle1	IsTriangle	side1	side2	SideOf	Equals	Isosceles	
+DiameterOf	circle1	IsCircle	chord1	ChordOf	IsOn	IsOn	centre1	CentreOf	
+line1	IsLine	Parallel	line2	IsLine	Parallel	line3	IsLine	
+angle1	IsAngle	AngleOf	Equals	constant	Equals	StraightAngle	angle2	IsAngle	AngleOf	
+MeasureOf	ObtuseAngle	Obtuse	angle1	IsAngle	AngleOf	GreaterThan	constant	Equals	LessThan	constant	Equals	
+angle1	IsAngle	AngleOf	parallelogram1	IsParallelogram	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	rectangle1	IsRectangle	
+Opposite	side1	SideOf	rectangle1	IsRectangle	Equals	
+angle1	IsAngle	AngleOf	Equals	constant	Equals	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	
+AcuteAngle	Acute	angle1	IsAngle	AngleOf	LessThan	constant	Equals	
+segment1	segment2	IsSegment	Equals	Congruent	
+triangle1	IsTriangle	side1	side2	SideOf	Equals	Isosceles	
+DiameterOf	circle1	IsCircle	chord1	ChordOf	IsOn	IsOn	centre1	CentreOf	
+line1	IsLine	Parallel	line2	IsLine	Parallel	line3	IsLine	
+angle1	IsAngle	AngleOf	Equals	constant	Equals	StraightAngle	angle2	IsAngle	AngleOf	
+MeasureOf	ObtuseAngle	Obtuse	angle1	IsAngle	AngleOf	GreaterThan	constant	Equals	LessThan	constant	Equals	
+angle1	IsAngle	AngleOf	parallelogram1	IsParallelogram	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	rectangle1	IsRectangle	
+Opposite	side1	SideOf	rectangle1	IsRectangle	Equals	
+angle1	IsAngle	AngleOf	Equals	constant	Equals	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	
+AcuteAngle	Acute	angle1	IsAngle	AngleOf	LessThan	constant	Equals	
+segment1	segment2	IsSegment	Equals	Congruent	
+triangle1	IsTriangle	side1	side2	SideOf	Equals	Isosceles	
+DiameterOf	circle1	IsCircle	chord1	ChordOf	IsOn	IsOn	centre1	CentreOf	
+line1	IsLine	Parallel	line2	IsLine	Parallel	line3	IsLine	
+angle1	IsAngle	AngleOf	Equals	constant	Equals	StraightAngle	angle2	IsAngle	AngleOf	
+MeasureOf	ObtuseAngle	Obtuse	angle1	IsAngle	AngleOf	GreaterThan	constant	Equals	LessThan	constant	Equals	
+angle1	IsAngle	AngleOf	parallelogram1	IsParallelogram	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	rectangle1	IsRectangle	
+Opposite	side1	SideOf	rectangle1	IsRectangle	Equals	
+angle1	IsAngle	AngleOf	Equals	constant	Equals	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	

@@ -12,6 +12,7 @@ class Eval1:
 		length = len(self.train_lines)
 		recall_scores = []
 		for i in range(length):
+			print "sentence num is " + str(i+1) + " ",
 			test_concept = self.test_lines[i].strip().split("\t")
 			train_concept = self.train_lines[i].strip().split("\t")
 			score = self.recall(train_concept,test_concept)
@@ -24,13 +25,13 @@ class Eval1:
 		train_dict = {}
 		test_dict = {}
 		for key in train_concept:
-			re.sub("[0-9]","",key)
+			key = re.sub("[0-9]","",key)
 			if key in train_dict:
 				train_dict[key] +=1 
 			else:
 				train_dict[key] = 1
 		for key in test_concept:
-			re.sub("[0-9]","",key)
+			key = re.sub("[0-9]","",key)
 			if key in test_dict:
 				test_dict[key] += 1
 			else:
@@ -42,6 +43,7 @@ class Eval1:
 			total_num += num_train
 			num_not_covered += max(num_train - test_dict.get(key,0) , 0)
 
+		print str(num_not_covered) + "	" + str(total_num)	
 		return 1.0 - float(num_not_covered)/float(total_num)
 
 	def calculate_jaccard(self):
@@ -67,7 +69,7 @@ class Eval1:
 
 
 if __name__ == '__main__':
-	eval1 = Eval1("./demo.train","./demo.test")
+	eval1 = Eval1("./gold_step1.txt","./pred_step1.txt")
 	print eval1.recall_score
 	print eval1.jaccard_score
 

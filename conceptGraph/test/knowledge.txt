@@ -22,7 +22,6 @@ RHS Congruence of two right-angled triangles: Under a given correspondence, two 
 The adjacent angles in a parallelogram are supplementary.
 A parallelogram is a quadrilateral whose opposite sides are parallel.
 So, a rectangle is a parallelogram in which every angle is a right angle.
-Property: The diagonals of a square are perpendicular bisectors of each other.
 An acute angle measures between 0° and 90°.
 whereas a right angle is exactly equal to 90°.
 An angle greater than 90° but less than 180° is called an obtuse angle.

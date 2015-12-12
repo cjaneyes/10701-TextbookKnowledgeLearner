@@ -1,0 +1,520 @@
+If any one angle is a right angle then the triangle is called a right angled triangle.
+1	IsAngle-4(angle1-4)	0:0 1:0.0 2:0 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle-4(angle2-8)	0:2 1:4.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle-4(triangle1-12)	0:3 1:8.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle-4(angle3-17)	0:4 1:13.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle-4(triangle2-18)	0:3 1:14.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+1	RightAngle-7(angle1-4)	0:2 1:3.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle-7(angle2-8)	0:2 1:1.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle-7(triangle1-12)	0:3 1:5.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle-7(angle3-17)	0:4 1:10.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle-7(triangle2-18)	0:3 1:11.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle-7(angle1-4)	0:2 1:3.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle-7(angle2-8)	0:2 1:1.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle-7(triangle1-12)	0:3 1:5.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle-7(angle3-17)	0:4 1:10.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle-7(triangle2-18)	0:3 1:11.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle-8(angle1-4)	0:2 1:4.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle-8(angle2-8)	0:0 1:0.0 2:0 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle-8(triangle1-12)	0:3 1:4.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle-8(angle3-17)	0:4 1:9.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle-8(triangle2-18)	0:3 1:10.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle-12(angle1-4)	0:3 1:8.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle-12(angle2-8)	0:3 1:4.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+1	IsTriangle-12(triangle1-12)	0:0 1:0.0 2:0 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle-12(angle3-17)	0:3 1:5.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle-12(triangle2-18)	0:2 1:6.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle-16(angle1-4)	0:4 1:12.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle-16(angle2-8)	0:4 1:8.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle-16(triangle1-12)	0:3 1:4.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle-16(angle3-17)	0:2 1:1.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightAngle-16(triangle2-18)	0:1 1:2.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle-16(angle1-4)	0:4 1:12.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle-16(angle2-8)	0:4 1:8.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle-16(triangle1-12)	0:3 1:4.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+1	RightTriangle-16(angle3-17)	0:2 1:1.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+RightTriangle-16(triangle2-18)	0:1 1:2.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle-17(angle1-4)	0:4 1:13.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle-17(angle2-8)	0:4 1:9.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle-17(triangle1-12)	0:3 1:5.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle-17(angle3-17)	0:0 1:0.0 2:0 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsAngle-17(triangle2-18)	0:1 1:1.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle-18(angle1-4)	0:3 1:14.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle-18(angle2-8)	0:3 1:10.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle-18(triangle1-12)	0:2 1:6.0 2:-1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle-18(angle3-17)	0:1 1:1.0 2:1 
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle-18(triangle2-18)	0:0 1:0.0 2:0 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle-4(constant-8)	0:2 1:4.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+1	IsAngle-4(angle1-4)	0:0 1:0.0 2:0 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle-4(triangle1-12)	0:3 1:8.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle-4(angle2-17)	0:4 1:13.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle-4(triangle2-18)	0:3 1:14.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle-12(constant-8)	0:3 1:4.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle-12(angle1-4)	0:3 1:8.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+1	IsTriangle-12(triangle1-12)	0:0 1:0.0 2:0 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle-12(angle2-17)	0:3 1:5.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle-12(triangle2-18)	0:2 1:6.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+ObtuseAngle-16(constant-8)	0:4 1:8.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+ObtuseAngle-16(angle1-4)	0:4 1:12.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+ObtuseAngle-16(triangle1-12)	0:3 1:4.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+ObtuseAngle-16(angle2-17)	0:2 1:1.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+ObtuseAngle-16(triangle2-18)	0:1 1:2.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+Obtuse-16(constant-8)	0:4 1:8.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+Obtuse-16(angle1-4)	0:4 1:12.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+Obtuse-16(triangle1-12)	0:3 1:4.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+Obtuse-16(angle2-17)	0:2 1:1.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+1	Obtuse-16(triangle2-18)	0:1 1:2.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle-17(constant-8)	0:4 1:9.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle-17(angle1-4)	0:4 1:13.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle-17(triangle1-12)	0:3 1:5.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle-17(angle2-17)	0:0 1:0.0 2:0 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsAngle-17(triangle2-18)	0:1 1:1.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle-18(constant-8)	0:3 1:10.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle-18(angle1-4)	0:3 1:14.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle-18(triangle1-12)	0:2 1:6.0 2:-1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle-18(angle2-17)	0:1 1:1.0 2:1 
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle-18(triangle2-18)	0:0 1:0.0 2:0 
+One more obvious property of the rectangle you can see is that opposite sides are of equal length.
+1	IsRectangle-7(rectangle1-7)	0:0 1:0.0 2:0 
+One more obvious property of the rectangle you can see is that opposite sides are of equal length.
+IsRectangle-7(side1-14)	0:4 1:7.0 2:-1 
+hence that measure of a straight angle is 180°.
+StraightAngle-7(constant-10)	0:3 1:3.0 2:-1 
+hence that measure of a straight angle is 180°.
+1	StraightAngle-7(angle1-8)	0:1 1:1.0 2:-1 
+hence that measure of a straight angle is 180°.
+IsAngle-8(constant-10)	0:2 1:2.0 2:-1 
+hence that measure of a straight angle is 180°.
+1	IsAngle-8(angle1-8)	0:0 1:0.0 2:0 
+A triangle is said to be isosceles, if at least any two of its sides are of same length.
+1	IsTriangle-2(triangle1-2)	0:0 1:0.0 2:0 
+A triangle is said to be isosceles, if at least any two of its sides are of same length.
+IsTriangle-2(side1-16)	0:5 1:14.0 2:-1 
+A triangle is said to be isosceles, if at least any two of its sides are of same length.
+1	Isosceles-7(triangle1-2)	0:3 1:5.0 2:-1 
+A triangle is said to be isosceles, if at least any two of its sides are of same length.
+Isosceles-7(side1-16)	0:4 1:9.0 2:-1 
+If two line segments have the same (i.e., equal) length, they are congruent.
+IsLine-3(line1-3)	0:0 1:0.0 2:0 
+If two line segments have the same (i.e., equal) length, they are congruent.
+IsLine-3(segment1-4)	0:1 1:1.0 2:-1 
+If two line segments have the same (i.e., equal) length, they are congruent.
+IsLine-3(segment2-4)	0:1 1:1.0 2:-1 
+If two line segments have the same (i.e., equal) length, they are congruent.
+IsSegment-4(line1-3)	0:1 1:1.0 2:1 
+If two line segments have the same (i.e., equal) length, they are congruent.
+1	IsSegment-4(segment1-4)	0:0 1:0.0 2:0 
+If two line segments have the same (i.e., equal) length, they are congruent.
+1	IsSegment-4(segment2-4)	0:0 1:0.0 2:0 
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+IsLine-2(line1-2)	0:0 1:0.0 2:0 
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+IsLine-2(segment1-3)	0:1 1:1.0 2:-1 
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+IsLine-2(segment2-3)	0:1 1:1.0 2:-1 
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+IsSegment-3(line1-2)	0:1 1:1.0 2:1 
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+1	IsSegment-3(segment1-3)	0:0 1:0.0 2:0 
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+1	IsSegment-3(segment2-3)	0:0 1:0.0 2:0 
+Two angles, say, ∠ABC and ∠PQR, are congruent if their measures are equal.
+1	IsAngle-2(angle1-2)	0:0 1:0.0 2:0 
+Two angles, say, ∠ABC and ∠PQR, are congruent if their measures are equal.
+1	IsAngle-2(angle2-2)	0:0 1:0.0 2:0 
+An acute angle measures between 0° and 90°.
+AcuteAngle-2(constant-7)	0:4 1:5.0 2:-1 
+An acute angle measures between 0° and 90°.
+AcuteAngle-2(constant-9)	0:4 1:7.0 2:-1 
+An acute angle measures between 0° and 90°.
+1	AcuteAngle-2(angle1-3)	0:1 1:1.0 2:-1 
+An acute angle measures between 0° and 90°.
+Acute-2(constant-7)	0:4 1:5.0 2:-1 
+An acute angle measures between 0° and 90°.
+Acute-2(constant-9)	0:4 1:7.0 2:-1 
+An acute angle measures between 0° and 90°.
+Acute-2(angle1-3)	0:1 1:1.0 2:-1 
+An acute angle measures between 0° and 90°.
+IsAngle-3(constant-7)	0:3 1:4.0 2:-1 
+An acute angle measures between 0° and 90°.
+IsAngle-3(constant-9)	0:3 1:6.0 2:-1 
+An acute angle measures between 0° and 90°.
+1	IsAngle-3(angle1-3)	0:0 1:0.0 2:0 
+whereas a right angle is exactly equal to 90°.
+RightAngle-3(constant-10)	0:3 1:7.0 2:-1 
+whereas a right angle is exactly equal to 90°.
+1	RightAngle-3(angle1-4)	0:2 1:1.0 2:-1 
+whereas a right angle is exactly equal to 90°.
+RightTriangle-3(constant-10)	0:3 1:7.0 2:-1 
+whereas a right angle is exactly equal to 90°.
+RightTriangle-3(angle1-4)	0:2 1:1.0 2:-1 
+whereas a right angle is exactly equal to 90°.
+IsAngle-4(constant-10)	0:3 1:6.0 2:-1 
+whereas a right angle is exactly equal to 90°.
+1	IsAngle-4(angle1-4)	0:0 1:0.0 2:0 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle-2(constant-5)	0:1 1:3.0 2:1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle-2(constant-9)	0:2 1:7.0 2:2 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+1	IsAngle-2(angle1-2)	0:0 1:0.0 2:0 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle-2(angle2-15)	0:2 1:13.0 2:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+ObtuseAngle-14(constant-5)	0:4 1:9.0 2:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+ObtuseAngle-14(constant-9)	0:5 1:5.0 2:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+1	ObtuseAngle-14(angle1-2)	0:3 1:12.0 2:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+ObtuseAngle-14(angle2-15)	0:1 1:1.0 2:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+Obtuse-14(constant-5)	0:4 1:9.0 2:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+Obtuse-14(constant-9)	0:5 1:5.0 2:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+Obtuse-14(angle1-2)	0:3 1:12.0 2:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+Obtuse-14(angle2-15)	0:1 1:1.0 2:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle-15(constant-5)	0:3 1:10.0 2:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle-15(constant-9)	0:4 1:6.0 2:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle-15(angle1-2)	0:2 1:13.0 2:-1 
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle-15(angle2-15)	0:0 1:0.0 2:0 
+Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
+1	IsLine-2(line1-2)	0:0 1:0.0 2:0 
+Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
+1	IsLine-2(line2-2)	0:0 1:0.0 2:0 
+Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
+IsLine-2(line3-9)	0:1 1:7.0 2:1 
+Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
+IsLine-9(line1-2)	0:1 1:7.0 2:-1 
+Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
+IsLine-9(line2-2)	0:1 1:7.0 2:-1 
+Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
+1	IsLine-9(line3-9)	0:0 1:0.0 2:0 
+A rectangle is a parallelogram in which one angle is a right angle.
+1	IsRectangle-2(rectangle1-2)	0:0 1:0.0 2:0 
+A rectangle is a parallelogram in which one angle is a right angle.
+IsRectangle-2(parallelogram1-6)	0:2 1:4.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+IsRectangle-2(angle1-10)	0:4 1:8.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+IsRectangle-2(angle2-14)	0:3 1:12.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+1	IsParallelogram-6(rectangle1-2)	0:2 1:4.0 2:2 
+A rectangle is a parallelogram in which one angle is a right angle.
+IsParallelogram-6(parallelogram1-6)	0:0 1:0.0 2:0 
+A rectangle is a parallelogram in which one angle is a right angle.
+IsParallelogram-6(angle1-10)	0:2 1:4.0 2:2 
+A rectangle is a parallelogram in which one angle is a right angle.
+IsParallelogram-6(angle2-14)	0:1 1:8.0 2:1 
+A rectangle is a parallelogram in which one angle is a right angle.
+IsAngle-10(rectangle1-2)	0:4 1:8.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+IsAngle-10(parallelogram1-6)	0:2 1:4.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+1	IsAngle-10(angle1-10)	0:0 1:0.0 2:0 
+A rectangle is a parallelogram in which one angle is a right angle.
+IsAngle-10(angle2-14)	0:1 1:4.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+RightAngle-13(rectangle1-2)	0:4 1:11.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+RightAngle-13(parallelogram1-6)	0:2 1:7.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+1	RightAngle-13(angle1-10)	0:2 1:3.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+RightAngle-13(angle2-14)	0:1 1:1.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+RightTriangle-13(rectangle1-2)	0:4 1:11.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+RightTriangle-13(parallelogram1-6)	0:2 1:7.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+RightTriangle-13(angle1-10)	0:2 1:3.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+RightTriangle-13(angle2-14)	0:1 1:1.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+IsAngle-14(rectangle1-2)	0:3 1:12.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+IsAngle-14(parallelogram1-6)	0:1 1:8.0 2:-1 
+A rectangle is a parallelogram in which one angle is a right angle.
+IsAngle-14(angle1-10)	0:1 1:4.0 2:1 
+A rectangle is a parallelogram in which one angle is a right angle.
+IsAngle-14(angle2-14)	0:0 1:0.0 2:0 
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle-10(chord1-2)	0:4 1:8.0 2:-1 
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle-10(centre1-7)	0:2 1:3.0 2:-1 
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+1	IsCircle-10(circle1-10)	0:0 1:0.0 2:0 
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle-10(circle2-18)	0:7 1:8.0 2:-1 
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle-18(chord1-2)	0:3 1:16.0 2:-1 
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle-18(centre1-7)	0:5 1:11.0 2:-1 
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle-18(circle1-10)	0:7 1:8.0 2:-1 
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle-18(circle2-18)	0:0 1:0.0 2:0 
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+1	IsLine-2(line1-2)	0:0 1:0.0 2:0 
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsLine-2(centre1-6)	0:2 1:4.0 2:2 
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsLine-2(circle1-9)	0:3 1:7.0 2:3 
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsLine-2(chord1-13)	0:4 1:11.0 2:4 
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsLine-2(chord2-19)	0:2 1:17.0 2:-1 
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsCircle-9(line1-2)	0:3 1:7.0 2:-1 
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsCircle-9(centre1-6)	0:1 1:3.0 2:-1 
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+1	IsCircle-9(circle1-9)	0:0 1:0.0 2:0 
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsCircle-9(chord1-13)	0:5 1:4.0 2:-1 
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsCircle-9(chord2-19)	0:5 1:10.0 2:-1 
+An acute angle is less than 90°.
+AcuteAngle-2(constant-8)	0:2 1:6.0 2:-1 
+An acute angle is less than 90°.
+1	AcuteAngle-2(angle1-3)	0:2 1:1.0 2:-1 
+An acute angle is less than 90°.
+Acute-2(constant-8)	0:2 1:6.0 2:-1 
+An acute angle is less than 90°.
+Acute-2(angle1-3)	0:2 1:1.0 2:-1 
+An acute angle is less than 90°.
+IsAngle-3(constant-8)	0:2 1:5.0 2:-1 
+An acute angle is less than 90°.
+1	IsAngle-3(angle1-3)	0:0 1:0.0 2:0 
+Two segments have equal lengths, if they are congruent.
+1	IsSegment-2(segment1-2)	0:0 1:0.0 2:0 
+Two segments have equal lengths, if they are congruent.
+1	IsSegment-2(segment2-2)	0:0 1:0.0 2:0 
+A triangle with two sides of equal lengths is isosceles.
+1	IsTriangle-2(triangle1-2)	0:0 1:0.0 2:0 
+A triangle with two sides of equal lengths is isosceles.
+IsTriangle-2(side1-5)	0:1 1:3.0 2:1 
+A triangle with two sides of equal lengths is isosceles.
+IsTriangle-2(side2-5)	0:1 1:3.0 2:1 
+A triangle with two sides of equal lengths is isosceles.
+1	Isosceles-11(triangle1-2)	0:1 1:9.0 2:1 
+A triangle with two sides of equal lengths is isosceles.
+Isosceles-11(side1-5)	0:2 1:6.0 2:2 
+A triangle with two sides of equal lengths is isosceles.
+Isosceles-11(side2-5)	0:2 1:6.0 2:2 
+The diameter of the circle is a chord pass through the centre.
+1	IsCircle-5(circle1-5)	0:0 1:0.0 2:0 
+The diameter of the circle is a chord pass through the centre.
+IsCircle-5(chord1-9)	0:4 1:4.0 2:-1 
+The diameter of the circle is a chord pass through the centre.
+IsCircle-5(centre1-13)	0:4 1:8.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+1	IsLine-2(line1-2)	0:0 1:0.0 2:0 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-2(line2-7)	0:2 1:5.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-2(line3-17)	0:3 1:15.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-7(line1-2)	0:2 1:5.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+1	IsLine-7(line2-7)	0:0 1:0.0 2:0 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-7(line3-17)	0:3 1:10.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-17(line1-2)	0:3 1:15.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-17(line2-7)	0:3 1:10.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+1	IsLine-17(line3-17)	0:0 1:0.0 2:0 
+If an angle equals to 180°, then it is a straight angle.
+IsAngle-3(constant-6)	0:3 1:3.0 2:-1 
+If an angle equals to 180°, then it is a straight angle.
+1	IsAngle-3(angle1-3)	0:0 1:0.0 2:0 
+If an angle equals to 180°, then it is a straight angle.
+IsAngle-3(angle2-13)	0:2 1:10.0 2:-1 
+If an angle equals to 180°, then it is a straight angle.
+StraightAngle-12(constant-6)	0:4 1:6.0 2:-1 
+If an angle equals to 180°, then it is a straight angle.
+1	StraightAngle-12(angle1-3)	0:3 1:9.0 2:-1 
+If an angle equals to 180°, then it is a straight angle.
+StraightAngle-12(angle2-13)	0:1 1:1.0 2:-1 
+If an angle equals to 180°, then it is a straight angle.
+IsAngle-13(constant-6)	0:3 1:7.0 2:3 
+If an angle equals to 180°, then it is a straight angle.
+IsAngle-13(angle1-3)	0:2 1:10.0 2:2 
+If an angle equals to 180°, then it is a straight angle.
+IsAngle-13(angle2-13)	0:0 1:0.0 2:0 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+ObtuseAngle-5(constant-11)	0:3 1:6.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+ObtuseAngle-5(constant-15)	0:4 1:10.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+1	ObtuseAngle-5(angle1-6)	0:2 1:1.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+Obtuse-5(constant-11)	0:3 1:6.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+Obtuse-5(constant-15)	0:4 1:10.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+Obtuse-5(angle1-6)	0:2 1:1.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+IsAngle-6(constant-11)	0:3 1:5.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+IsAngle-6(constant-15)	0:4 1:9.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+1	IsAngle-6(angle1-6)	0:0 1:0.0 2:0 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+1	IsAngle-3(angle1-3)	0:0 1:0.0 2:0 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle-3(parallelogram1-6)	0:1 1:3.0 2:1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle-3(angle2-10)	0:2 1:7.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle-3(rectangle1-16)	0:2 1:13.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsParallelogram-6(angle1-3)	0:1 1:3.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+1	IsParallelogram-6(parallelogram1-6)	0:0 1:0.0 2:0 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsParallelogram-6(angle2-10)	0:3 1:4.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsParallelogram-6(rectangle1-16)	0:3 1:10.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightAngle-9(angle1-3)	0:2 1:6.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightAngle-9(parallelogram1-6)	0:3 1:3.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightAngle-9(angle2-10)	0:2 1:1.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightAngle-9(rectangle1-16)	0:2 1:7.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+1	RightTriangle-9(angle1-3)	0:2 1:6.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightTriangle-9(parallelogram1-6)	0:3 1:3.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightTriangle-9(angle2-10)	0:2 1:1.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightTriangle-9(rectangle1-16)	0:2 1:7.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle-10(angle1-3)	0:2 1:7.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle-10(parallelogram1-6)	0:3 1:4.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle-10(angle2-10)	0:0 1:0.0 2:0 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle-10(rectangle1-16)	0:2 1:6.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsRectangle-16(angle1-3)	0:2 1:13.0 2:2 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+1	IsRectangle-16(parallelogram1-6)	0:3 1:10.0 2:3 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsRectangle-16(angle2-10)	0:2 1:6.0 2:2 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsRectangle-16(rectangle1-16)	0:0 1:0.0 2:0 
+The opposite sides of a rectangle are of equal length.
+IsRectangle-6(side1-3)	0:1 1:3.0 2:-1 
+The opposite sides of a rectangle are of equal length.
+1	IsRectangle-6(rectangle1-6)	0:0 1:0.0 2:0 
+An angle that equals to 90° is a right angle.
+IsAngle-2(constant-6)	0:3 1:4.0 2:3 
+An angle that equals to 90° is a right angle.
+1	IsAngle-2(angle1-2)	0:0 1:0.0 2:0 
+An angle that equals to 90° is a right angle.
+IsAngle-2(angle2-11)	0:1 1:9.0 2:-1 
+An angle that equals to 90° is a right angle.
+RightAngle-10(constant-6)	0:5 1:4.0 2:-1 
+An angle that equals to 90° is a right angle.
+1	RightAngle-10(angle1-2)	0:2 1:8.0 2:-1 
+An angle that equals to 90° is a right angle.
+RightAngle-10(angle2-11)	0:1 1:1.0 2:-1 
+An angle that equals to 90° is a right angle.
+RightTriangle-10(constant-6)	0:5 1:4.0 2:-1 
+An angle that equals to 90° is a right angle.
+1	RightTriangle-10(angle1-2)	0:2 1:8.0 2:-1 
+An angle that equals to 90° is a right angle.
+RightTriangle-10(angle2-11)	0:1 1:1.0 2:-1 
+An angle that equals to 90° is a right angle.
+IsAngle-11(constant-6)	0:4 1:5.0 2:4 
+An angle that equals to 90° is a right angle.
+IsAngle-11(angle1-2)	0:1 1:9.0 2:1 
+An angle that equals to 90° is a right angle.
+IsAngle-11(angle2-11)	0:0 1:0.0 2:0 

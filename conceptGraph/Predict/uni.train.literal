@@ -150,6 +150,8 @@ If any one angle is greater than 90°, then the triangle is called an obtuse ang
 IsTriangle-18(triangle2-18)	0:0 1:0.0 2:0 
 One more obvious property of the rectangle you can see is that opposite sides are of equal length.
 IsRectangle-7(rectangle1-7)	0:0 1:0.0 2:0 
+One more obvious property of the rectangle you can see is that opposite sides are of equal length.
+IsRectangle-7(side1-14)	0:4 1:7.0 2:-1 
 hence that measure of a straight angle is 180°.
 StraightAngle-7(constant-10)	0:3 1:3.0 2:-1 
 hence that measure of a straight angle is 180°.
@@ -160,6 +162,12 @@ hence that measure of a straight angle is 180°.
 IsAngle-8(angle1-8)	0:0 1:0.0 2:0 
 A triangle is said to be isosceles, if at least any two of its sides are of same length.
 IsTriangle-2(triangle1-2)	0:0 1:0.0 2:0 
+A triangle is said to be isosceles, if at least any two of its sides are of same length.
+IsTriangle-2(side1-16)	0:5 1:14.0 2:-1 
+A triangle is said to be isosceles, if at least any two of its sides are of same length.
+Isosceles-7(triangle1-2)	0:3 1:5.0 2:-1 
+A triangle is said to be isosceles, if at least any two of its sides are of same length.
+Isosceles-7(side1-16)	0:4 1:9.0 2:-1 
 If two line segments have the same (i.e., equal) length, they are congruent.
 IsLine-3(line1-3)	0:0 1:0.0 2:0 
 If two line segments have the same (i.e., equal) length, they are congruent.

@@ -1,3 +1,11 @@
+An acute angle is less than 90°.
+AngleOf-3(angle1-3,constant-8)	0:0 1:0.0 2:0 3:2 4:5.0 5:-1 6:2 7:5.0 8:-1 
+An acute angle is less than 90°.
+LessThan-6(angle1-3,constant-8)	0:3 1:3.0 2:-1 3:1 4:2.0 5:-1 6:2 7:5.0 8:-1 
+Two segments have equal lengths, if they are congruent.
+Equals-4(segment1-2,segment2-2)	0:4 1:2.0 2:-1 3:4 4:2.0 5:-1 6:0 7:0.0 8:0 
+Two segments have equal lengths, if they are congruent.
+Congruent-10(segment1-2,segment2-2)	0:2 1:8.0 2:-1 3:2 4:8.0 5:-1 6:0 7:0.0 8:0 
 A triangle with two sides of equal lengths is isosceles.
 SideOf-5(triangle1-2,side1-5)	0:1 1:3.0 2:-1 3:0 4:0.0 5:0 6:1 7:3.0 8:1 
 A triangle with two sides of equal lengths is isosceles.
@@ -77,15 +85,7 @@ AngleOf-3(angle1-3,constant-6)	0:0 1:0.0 2:0 3:3 4:3.0 5:-1 6:3 7:3.0 8:-1
 If an angle equals to 180°, then it is a straight angle.
 AngleOf-3(angle2-13,constant-6)	0:2 1:10.0 2:-1 3:3 4:3.0 5:-1 6:3 7:7.0 8:3 
 If an angle equals to 180°, then it is a straight angle.
-Equals-4(constant-6,angle1-3)	0:2 1:2.0 2:2 3:1 4:1.0 5:1 6:3 7:3.0 8:-1 
-If an angle equals to 180°, then it is a straight angle.
-Equals-4(constant-6,angle2-13)	0:2 1:2.0 2:2 3:1 4:9.0 5:-1 6:3 7:7.0 8:-1 
-If an angle equals to 180°, then it is a straight angle.
 Equals-4(angle1-3,angle2-13)	0:1 1:1.0 2:1 3:1 4:9.0 5:-1 6:2 7:10.0 8:-1 
-If an angle equals to 180°, then it is a straight angle.
-Equals-6(constant-6,angle1-3)	0:0 1:0.0 2:0 3:3 4:3.0 5:-1 6:3 7:3.0 8:-1 
-If an angle equals to 180°, then it is a straight angle.
-Equals-6(constant-6,angle2-13)	0:0 1:0.0 2:0 3:3 4:7.0 5:-1 6:3 7:7.0 8:-1 
 If an angle equals to 180°, then it is a straight angle.
 Equals-6(angle1-3,angle2-13)	0:3 1:3.0 2:-1 3:3 4:7.0 5:-1 6:2 7:10.0 8:-1 
 If an angle equals to 180°, then it is a straight angle.
@@ -113,24 +113,40 @@ GreaterThan-9(angle1-6,constant-11)	0:4 1:3.0 2:-1 3:1 4:2.0 5:-1 6:3 7:5.0 8:-1
 The measure of an obtuse angle is greater than 90° but less than 180°.
 GreaterThan-9(angle1-6,constant-15)	0:4 1:3.0 2:-1 3:2 4:6.0 5:-1 6:4 7:9.0 8:-1 
 The measure of an obtuse angle is greater than 90° but less than 180°.
-Equals-11(constant-11,constant-15)	0:0 1:0.0 2:0 3:1 4:4.0 5:1 6:1 7:4.0 8:1 
-The measure of an obtuse angle is greater than 90° but less than 180°.
-Equals-11(constant-11,angle1-6)	0:0 1:0.0 2:0 3:3 4:5.0 5:3 6:3 7:5.0 8:3 
-The measure of an obtuse angle is greater than 90° but less than 180°.
-Equals-11(constant-15,angle1-6)	0:1 1:4.0 2:1 3:3 4:5.0 5:3 6:4 7:9.0 8:-1 
-The measure of an obtuse angle is greater than 90° but less than 180°.
 LessThan-13(angle1-6,constant-11)	0:5 1:7.0 2:-1 3:2 4:2.0 5:-1 6:3 7:5.0 8:-1 
 The measure of an obtuse angle is greater than 90° but less than 180°.
 LessThan-13(angle1-6,constant-15)	0:5 1:7.0 2:-1 3:1 4:2.0 5:-1 6:4 7:9.0 8:-1 
-The measure of an obtuse angle is greater than 90° but less than 180°.
-Equals-15(constant-11,constant-15)	0:1 1:4.0 2:-1 3:0 4:0.0 5:0 6:1 7:4.0 8:1 
-The measure of an obtuse angle is greater than 90° but less than 180°.
-Equals-15(constant-11,angle1-6)	0:1 1:4.0 2:-1 3:4 4:9.0 5:-1 6:3 7:5.0 8:3 
-The measure of an obtuse angle is greater than 90° but less than 180°.
-Equals-15(constant-15,angle1-6)	0:0 1:0.0 2:0 3:4 4:9.0 5:-1 6:4 7:9.0 8:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf-3(angle1-3,parallelogram1-6)	0:0 1:0.0 2:0 3:1 4:3.0 5:1 6:1 7:3.0 8:1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf-3(angle1-3,rectangle1-16)	0:0 1:0.0 2:0 3:2 4:13.0 5:-1 6:2 7:13.0 8:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf-3(angle2-10,parallelogram1-6)	0:2 1:7.0 2:-1 3:1 4:3.0 5:1 6:3 7:4.0 8:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf-3(angle2-10,rectangle1-16)	0:2 1:7.0 2:-1 3:2 4:13.0 5:-1 6:2 7:6.0 8:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf-10(angle1-3,parallelogram1-6)	0:2 1:7.0 2:-1 3:3 4:4.0 5:-1 6:1 7:3.0 8:1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf-10(angle1-3,rectangle1-16)	0:2 1:7.0 2:-1 3:2 4:6.0 5:-1 6:2 7:13.0 8:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf-10(angle2-10,parallelogram1-6)	0:0 1:0.0 2:0 3:3 4:4.0 5:-1 6:3 7:4.0 8:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf-10(angle2-10,rectangle1-16)	0:0 1:0.0 2:0 3:2 4:6.0 5:-1 6:2 7:6.0 8:-1 
 The opposite sides of a rectangle are of equal length.
 Opposite-2(side1-3,rectangle1-6)	0:1 1:1.0 2:-1 3:2 4:4.0 5:-1 6:1 7:3.0 8:1 
 The opposite sides of a rectangle are of equal length.
 SideOf-3(side1-3,rectangle1-6)	0:0 1:0.0 2:0 3:1 4:3.0 5:1 6:1 7:3.0 8:1 
 The opposite sides of a rectangle are of equal length.
 SideOf-3(rectangle1-6,side1-3)	0:1 1:3.0 2:1 3:0 4:0.0 5:0 6:1 7:3.0 8:-1 
+An angle that equals to 90° is a right angle.
+AngleOf-2(angle1-2,constant-6)	0:0 1:0.0 2:0 3:3 4:4.0 5:3 6:3 7:4.0 8:3 
+An angle that equals to 90° is a right angle.
+AngleOf-2(angle2-11,constant-6)	0:1 1:9.0 2:-1 3:3 4:4.0 5:3 6:4 7:5.0 8:4 
+An angle that equals to 90° is a right angle.
+Equals-4(angle1-2,angle2-11)	0:1 1:2.0 2:-1 3:2 4:7.0 5:-1 6:1 7:9.0 8:-1 
+An angle that equals to 90° is a right angle.
+Equals-6(angle1-2,angle2-11)	0:3 1:4.0 2:-1 3:4 4:5.0 5:-1 6:1 7:9.0 8:-1 
+An angle that equals to 90° is a right angle.
+AngleOf-11(angle1-2,constant-6)	0:1 1:9.0 2:1 3:4 4:5.0 5:4 6:3 7:4.0 8:3 
+An angle that equals to 90° is a right angle.
+AngleOf-11(angle2-11,constant-6)	0:0 1:0.0 2:0 3:4 4:5.0 5:4 6:4 7:5.0 8:4 

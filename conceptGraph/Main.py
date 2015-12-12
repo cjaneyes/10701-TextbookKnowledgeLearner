@@ -18,5 +18,5 @@ class Main:
 
 if __name__ == '__main__': 
 	lexicon = Lexicon()
-	m = Main("./test/knowledge.txt",lexicon)
-	m.output('./Evaluation/pred_step1.txt')
+	m = Main("./test/annotation_test.txt",lexicon)
+	m.output('./Evaluation/tmp.txt')

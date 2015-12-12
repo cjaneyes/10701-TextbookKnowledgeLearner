@@ -45,7 +45,9 @@ def binary_filter(predicate, param1, param2):
 		elif param2.name[:5] == 'angle':
 			return True
 	if predicate.name in var_var_equals_filter:
-		if param1.type == 0 and param1.name != 'Equals':
+		if predicate.name == 'Equals' and param1.type == 0:
+			return False
+		if param1.type == 0:
 			return True
 		if param1.type == 1 and param2.type == 1:
 			if param1.name[:len(param1.name)-1] != param2.name[:len(param2.name)-1]:

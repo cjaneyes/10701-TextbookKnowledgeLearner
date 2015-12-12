@@ -9,10 +9,10 @@ from sklearn.metrics import recall_score
 from sklearn.metrics import f1_score
 
 class Learner():
-    def __init__(self, file, train_file, test_file, label_file, feature_train_file, feature_test_file):
-        self.init(file, train_file, test_file, label_file, feature_train_file, feature_test_file)
+    def __init__(self, file_useless, train_file, test_file, label_file, feature_train_file, feature_test_file):
+        self.init(file_useless, train_file, test_file, label_file, feature_train_file, feature_test_file)
 
-    def init(self, file, train_file, test_file, label_file, feature_train_file, feature_test_file):
+    def init(self, file_useless, train_file, test_file, label_file, feature_train_file, feature_test_file):
         self.clf = LogisticRegression()
         self.label = self.read_label(label_file)
         self.genLibSVM(feature_train_file, train_file)
@@ -20,7 +20,7 @@ class Learner():
 
         self.train_file = train_file
         self.test_file = test_file
-        self.Data = load_svmlight_file(file)
+        self.Data = load_svmlight_file(file_useless)
         self.train_X = self.read_data(train_file, n_features=self.Data[0].shape[1])[0]
         self.train_y = self.read_data(train_file, n_features=self.Data[0].shape[1])[1]
         self.test_X = self.read_data(test_file, n_features=self.Data[0].shape[1])[0]
@@ -75,7 +75,6 @@ class Learner():
         #val_p = 0 
         #val_r = 0
         #val_f = 0
-
         self.clf.fit(self.train_X, self.train_y)
         y_pred = self.clf.predict(self.test_X)
         cnt = 0
@@ -83,7 +82,8 @@ class Learner():
             if item == 1:
                 cnt += 1
         print cnt
-        print len(y_pred)
+        for i in range(len(y_pred)):
+            print str(2*i+1) + "-" + str(y_pred[i]) + "-" + str(self.test_y[i])
         # calculate evaluation metrics: [accuracy, precision, recall, f1_score]
         val_a = accuracy_score(self.test_y,  y_pred)
         val_p = precision_score(self.test_y, y_pred, average='binary')
@@ -97,9 +97,14 @@ class Learner():
 if __name__ == '__main__':
     #learner = Learner("./Predict/train_uni", "./Predict/uni.sub.literal", "./Predict//uni.feat.literal")
     #learner.classify()
+    # args[1] are useseless ..
+    #args[2], args[3] files are for standard output file and input for svm
+    # args[4] is label file
+    # args[5] is features file for training 
+    # args[6] is the features file for test
     learner = Learner("./Predict/train_bi", "./Predict/train_bi", \
-        "./Predict/train_bi", "./Predict/bi.sub.literal", \
-        "./Predict/bi.feat.literal.prune","./Predict/bi.test.literal")
+        "./Predict/test_bi", "./Predict/bi.label.txt", \
+        "./Predict/bi.train.literal","./bi.test.literal")
     learner.classify()
 
 

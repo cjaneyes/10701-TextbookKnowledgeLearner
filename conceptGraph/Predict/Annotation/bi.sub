@@ -1,5 +1,5 @@
 Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
-Similar-9(polygon1-7,polygon2-12)	0:1 1:2.0 2:1 3:1 4:3.0 5:1 6:2 7:5.0 8:-1 
+1	Similar-9(polygon1-7,polygon2-12)	0:1 1:2.0 2:1 3:1 4:3.0 5:1 6:2 7:5.0 8:-1 
 Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
 Similar-9(polygon1-7,polygon3-16)	0:1 1:2.0 2:1 3:2 4:7.0 5:2 6:3 7:9.0 8:-1 
 Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
@@ -47,7 +47,7 @@ Similar-18(polygon2-12,polygon5-27)	0:2 1:6.0 2:-1 3:3 4:9.0 5:-1 6:3 7:15.0 8:-
 Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
 Similar-18(polygon2-12,polygon6-33)	0:2 1:6.0 2:-1 3:3 4:15.0 5:-1 6:3 7:21.0 8:-1 
 Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
-Similar-18(polygon3-16,polygon4-22)	0:1 1:2.0 2:1 3:2 4:4.0 5:2 6:3 7:6.0 8:-1 
+1	Similar-18(polygon3-16,polygon4-22)	0:1 1:2.0 2:1 3:2 4:4.0 5:2 6:3 7:6.0 8:-1 
 Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
 Similar-18(polygon3-16,polygon5-27)	0:1 1:2.0 2:1 3:3 4:9.0 5:-1 6:4 7:11.0 8:-1 
 Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
@@ -87,7 +87,7 @@ Similar-29(polygon4-22,polygon5-27)	0:4 1:7.0 2:4 3:1 4:2.0 5:1 6:5 7:5.0 8:-1
 Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
 Similar-29(polygon4-22,polygon6-33)	0:4 1:7.0 2:4 3:1 4:4.0 5:1 6:5 7:11.0 8:-1 
 Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
-Similar-29(polygon5-27,polygon6-33)	0:1 1:2.0 2:1 3:1 4:4.0 5:1 6:2 7:6.0 8:-1 
+1	Similar-29(polygon5-27,polygon6-33)	0:1 1:2.0 2:1 3:1 4:4.0 5:1 6:2 7:6.0 8:-1 
 If any one angle is a right angle then the triangle is called a right angled triangle.
 AngleOf-4(angle1-4,triangle1-12)	0:0 1:0.0 2:0 3:3 4:8.0 5:-1 6:3 7:8.0 8:-1 
 If any one angle is a right angle then the triangle is called a right angled triangle.
@@ -129,7 +129,7 @@ AngleOf-4(angle1-4,constant-8)	0:0 1:0.0 2:0 3:2 4:4.0 5:-1 6:2 7:4.0 8:-1
 If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
 AngleOf-4(angle2-17,constant-8)	0:4 1:13.0 2:-1 3:2 4:4.0 5:-1 6:4 7:9.0 8:-1 
 If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
-AngleOf-4(angle1-4,triangle1-12)	0:0 1:0.0 2:0 3:3 4:8.0 5:-1 6:3 7:8.0 8:-1 
+1	AngleOf-4(angle1-4,triangle1-12)	0:0 1:0.0 2:0 3:3 4:8.0 5:-1 6:3 7:8.0 8:-1 
 If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
 AngleOf-4(angle1-4,triangle2-18)	0:0 1:0.0 2:0 3:3 4:14.0 5:-1 6:3 7:14.0 8:-1 
 If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
@@ -137,7 +137,7 @@ AngleOf-4(angle2-17,triangle1-12)	0:4 1:13.0 2:-1 3:3 4:8.0 5:-1 6:3 7:5.0 8:-1
 If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
 AngleOf-4(angle2-17,triangle2-18)	0:4 1:13.0 2:-1 3:3 4:14.0 5:-1 6:1 7:1.0 8:-1 
 If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
-GreaterThan-6(angle1-4,constant-8)	0:3 1:2.0 2:-1 3:1 4:2.0 5:-1 6:2 7:4.0 8:-1 
+1	GreaterThan-6(angle1-4,constant-8)	0:3 1:2.0 2:-1 3:1 4:2.0 5:-1 6:2 7:4.0 8:-1 
 If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
 GreaterThan-6(triangle1-12,constant-8)	0:4 1:6.0 2:-1 3:1 4:2.0 5:-1 6:3 7:4.0 8:-1 
 If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
@@ -168,24 +168,34 @@ If any one angle is greater than 90°, then the triangle is called an obtuse ang
 AngleOf-17(angle2-17,triangle1-12)	0:0 1:0.0 2:0 3:3 4:5.0 5:-1 6:3 7:5.0 8:-1 
 If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
 AngleOf-17(angle2-17,triangle2-18)	0:0 1:0.0 2:0 3:1 4:1.0 5:-1 6:1 7:1.0 8:-1 
+One more obvious property of the rectangle you can see is that opposite sides are of equal length.
+Opposite-13(rectangle1-7,side1-14)	0:5 1:6.0 2:-1 3:1 4:1.0 5:-1 6:4 7:7.0 8:-1 
+One more obvious property of the rectangle you can see is that opposite sides are of equal length.
+SideOf-14(rectangle1-7,side1-14)	0:4 1:7.0 2:-1 3:0 4:0.0 5:0 6:4 7:7.0 8:-1 
+One more obvious property of the rectangle you can see is that opposite sides are of equal length.
+1	SideOf-14(side1-14,rectangle1-7)	0:0 1:0.0 2:0 3:4 4:7.0 5:-1 6:4 7:7.0 8:-1 
 hence that measure of a straight angle is 180°.
-MeasureOf-4(constant-10,angle1-8)	0:1 1:6.0 2:-1 3:1 4:4.0 5:1 6:2 7:2.0 8:2 
+1	MeasureOf-4(constant-10,angle1-8)	0:1 1:6.0 2:-1 3:1 4:4.0 5:1 6:2 7:2.0 8:2 
 hence that measure of a straight angle is 180°.
-MeasureOf-4(angle1-8,constant-10)	0:1 1:4.0 2:1 3:1 4:6.0 5:-1 6:2 7:2.0 8:-1 
+1	MeasureOf-4(angle1-8,constant-10)	0:1 1:4.0 2:1 3:1 4:6.0 5:-1 6:2 7:2.0 8:-1 
 hence that measure of a straight angle is 180°.
 AngleOf-8(angle1-8,constant-10)	0:0 1:0.0 2:0 3:2 4:2.0 5:-1 6:2 7:2.0 8:-1 
+A triangle is said to be isosceles, if at least any two of its sides are of same length.
+SideOf-16(triangle1-2,side1-16)	0:5 1:14.0 2:-1 3:0 4:0.0 5:0 6:5 7:14.0 8:-1 
+A triangle is said to be isosceles, if at least any two of its sides are of same length.
+1	SideOf-16(side1-16,triangle1-2)	0:0 1:0.0 2:0 3:5 4:14.0 5:-1 6:5 7:14.0 8:-1 
 If two line segments have the same (i.e., equal) length, they are congruent.
-Equals-9(segment1-4,segment2-4)	0:3 1:5.0 2:-1 3:3 4:5.0 5:-1 6:0 7:0.0 8:0 
+1	Equals-9(segment1-4,segment2-4)	0:3 1:5.0 2:-1 3:3 4:5.0 5:-1 6:0 7:0.0 8:0 
 If two line segments have the same (i.e., equal) length, they are congruent.
-Congruent-14(segment1-4,segment2-4)	0:2 1:10.0 2:2 3:2 4:10.0 5:2 6:0 7:0.0 8:0 
+1	Congruent-14(segment1-4,segment2-4)	0:2 1:10.0 2:2 3:2 4:10.0 5:2 6:0 7:0.0 8:0 
 Two line segments, say, AB and CD , are congruent if they have equal lengths.
-Congruent-9(segment1-3,segment2-3)	0:2 1:6.0 2:-1 3:2 4:6.0 5:-1 6:0 7:0.0 8:0 
+1	Congruent-9(segment1-3,segment2-3)	0:2 1:6.0 2:-1 3:2 4:6.0 5:-1 6:0 7:0.0 8:0 
 Two line segments, say, AB and CD , are congruent if they have equal lengths.
-Equals-14(segment1-3,segment2-3)	0:5 1:11.0 2:-1 3:5 4:11.0 5:-1 6:0 7:0.0 8:0 
+1	Equals-14(segment1-3,segment2-3)	0:5 1:11.0 2:-1 3:5 4:11.0 5:-1 6:0 7:0.0 8:0 
 Two angles, say, ∠ABC and ∠PQR, are congruent if their measures are equal.
-Congruent-8(angle1-2,angle2-2)	0:2 1:6.0 2:-1 3:2 4:6.0 5:-1 6:0 7:0.0 8:0 
+1	Congruent-8(angle1-2,angle2-2)	0:2 1:6.0 2:-1 3:2 4:6.0 5:-1 6:0 7:0.0 8:0 
 Two angles, say, ∠ABC and ∠PQR, are congruent if their measures are equal.
-Equals-14(angle1-2,angle2-2)	0:3 1:12.0 2:-1 3:3 4:12.0 5:-1 6:0 7:0.0 8:0 
+1	Equals-14(angle1-2,angle2-2)	0:3 1:12.0 2:-1 3:3 4:12.0 5:-1 6:0 7:0.0 8:0 
 An acute angle measures between 0° and 90°.
 AngleOf-3(angle1-3,constant-7)	0:0 1:0.0 2:0 3:3 4:4.0 5:-1 6:3 7:4.0 8:-1 
 An acute angle measures between 0° and 90°.
@@ -201,7 +211,7 @@ AngleOf-2(angle1-2,constant-9)	0:0 1:0.0 2:0 3:2 4:7.0 5:2 6:2 7:7.0 8:2
 An angle greater than 90° but less than 180° is called an obtuse angle.
 AngleOf-2(angle2-15,constant-9)	0:2 1:13.0 2:-1 3:2 4:7.0 5:2 6:4 7:6.0 8:-1 
 An angle greater than 90° but less than 180° is called an obtuse angle.
-GreaterThan-3(angle1-2,constant-5)	0:2 1:1.0 2:-1 3:1 4:2.0 5:-1 6:1 7:3.0 8:1 
+1	GreaterThan-3(angle1-2,constant-5)	0:2 1:1.0 2:-1 3:1 4:2.0 5:-1 6:1 7:3.0 8:1 
 An angle greater than 90° but less than 180° is called an obtuse angle.
 GreaterThan-3(angle2-15,constant-5)	0:4 1:12.0 2:-1 3:1 4:2.0 5:-1 6:3 7:10.0 8:-1 
 An angle greater than 90° but less than 180° is called an obtuse angle.
@@ -219,7 +229,7 @@ LessThan-7(angle1-2,constant-5)	0:3 1:5.0 2:-1 3:4 4:2.0 5:-1 6:1 7:3.0 8:1
 An angle greater than 90° but less than 180° is called an obtuse angle.
 LessThan-7(angle2-15,constant-5)	0:5 1:8.0 2:-1 3:4 4:2.0 5:-1 6:3 7:10.0 8:-1 
 An angle greater than 90° but less than 180° is called an obtuse angle.
-LessThan-7(angle1-2,constant-9)	0:3 1:5.0 2:-1 3:1 4:2.0 5:-1 6:2 7:7.0 8:2 
+1	LessThan-7(angle1-2,constant-9)	0:3 1:5.0 2:-1 3:1 4:2.0 5:-1 6:2 7:7.0 8:2 
 An angle greater than 90° but less than 180° is called an obtuse angle.
 LessThan-7(angle2-15,constant-9)	0:5 1:8.0 2:-1 3:1 4:2.0 5:-1 6:4 7:6.0 8:-1 
 An angle greater than 90° but less than 180° is called an obtuse angle.
@@ -239,17 +249,17 @@ AngleOf-15(angle2-15,constant-9)	0:0 1:0.0 2:0 3:4 4:6.0 5:-1 6:4 7:6.0 8:-1
 Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
 Parallel-5(line1-2,line2-2)	0:2 1:3.0 2:-1 3:2 4:3.0 5:-1 6:0 7:0.0 8:0 
 Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
-Parallel-5(line1-2,line3-9)	0:2 1:3.0 2:-1 3:1 4:4.0 5:-1 6:1 7:7.0 8:1 
+1	Parallel-5(line1-2,line3-9)	0:2 1:3.0 2:-1 3:1 4:4.0 5:-1 6:1 7:7.0 8:1 
 Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
-Parallel-5(line2-2,line3-9)	0:2 1:3.0 2:-1 3:1 4:4.0 5:-1 6:1 7:7.0 8:1 
+1	Parallel-5(line2-2,line3-9)	0:2 1:3.0 2:-1 3:1 4:4.0 5:-1 6:1 7:7.0 8:1 
 Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
-Parallel-12(line1-2,line2-2)	0:2 1:10.0 2:-1 3:2 4:10.0 5:-1 6:0 7:0.0 8:0 
+1	Parallel-12(line1-2,line2-2)	0:2 1:10.0 2:-1 3:2 4:10.0 5:-1 6:0 7:0.0 8:0 
 Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
 Parallel-12(line1-2,line3-9)	0:2 1:10.0 2:-1 3:3 4:3.0 5:-1 6:1 7:7.0 8:1 
 Theorem 6.6 : Two lines which are parallel to the same line are parallel to each other.
 Parallel-12(line2-2,line3-9)	0:2 1:10.0 2:-1 3:3 4:3.0 5:-1 6:1 7:7.0 8:1 
 A rectangle is a parallelogram in which one angle is a right angle.
-AngleOf-10(angle1-10,rectangle1-2)	0:0 1:0.0 2:0 3:4 4:8.0 5:-1 6:4 7:8.0 8:-1 
+1	AngleOf-10(angle1-10,rectangle1-2)	0:0 1:0.0 2:0 3:4 4:8.0 5:-1 6:4 7:8.0 8:-1 
 A rectangle is a parallelogram in which one angle is a right angle.
 AngleOf-10(angle2-14,rectangle1-2)	0:1 1:4.0 2:-1 3:4 4:8.0 5:-1 6:3 7:12.0 8:-1 
 A rectangle is a parallelogram in which one angle is a right angle.
@@ -269,7 +279,7 @@ ChordOf-2(chord1-2,centre1-7)	0:0 1:0.0 2:0 3:2 4:5.0 5:2 6:2 7:5.0 8:2
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
 ChordOf-2(centre1-7,chord1-2)	0:2 1:5.0 2:2 3:0 4:0.0 5:0 6:2 7:5.0 8:-1 
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
-ChordOf-2(chord1-2,circle1-10)	0:0 1:0.0 2:0 3:4 4:8.0 5:4 6:4 7:8.0 8:4 
+1	ChordOf-2(chord1-2,circle1-10)	0:0 1:0.0 2:0 3:4 4:8.0 5:4 6:4 7:8.0 8:4 
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
 ChordOf-2(circle1-10,chord1-2)	0:4 1:8.0 2:4 3:0 4:0.0 5:0 6:4 7:8.0 8:-1 
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
@@ -289,7 +299,7 @@ ChordOf-2(circle1-10,circle2-18)	0:4 1:8.0 2:4 3:3 4:16.0 5:-1 6:7 7:8.0 8:-1
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
 ChordOf-2(circle2-18,circle1-10)	0:3 1:16.0 2:-1 3:4 4:8.0 5:4 6:7 7:8.0 8:-1 
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
-IsOn-5(chord1-2,centre1-7)	0:3 1:3.0 2:-1 3:1 4:2.0 5:-1 6:2 7:5.0 8:2 
+1	IsOn-5(chord1-2,centre1-7)	0:3 1:3.0 2:-1 3:1 4:2.0 5:-1 6:2 7:5.0 8:2 
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
 IsOn-5(chord1-2,circle1-10)	0:3 1:3.0 2:-1 3:3 4:5.0 5:-1 6:4 7:8.0 8:4 
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
@@ -313,7 +323,7 @@ CentreOf-7(chord1-2,circle2-18)	0:2 1:5.0 2:-1 3:5 4:11.0 5:-1 6:3 7:16.0 8:-1
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
 CentreOf-7(circle2-18,chord1-2)	0:5 1:11.0 2:-1 3:2 4:5.0 5:-1 6:3 7:16.0 8:-1 
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
-CentreOf-7(centre1-7,circle1-10)	0:0 1:0.0 2:0 3:2 4:3.0 5:2 6:2 7:3.0 8:2 
+1	CentreOf-7(centre1-7,circle1-10)	0:0 1:0.0 2:0 3:2 4:3.0 5:2 6:2 7:3.0 8:2 
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
 CentreOf-7(circle1-10,centre1-7)	0:2 1:3.0 2:2 3:0 4:0.0 5:0 6:2 7:3.0 8:-1 
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
@@ -329,7 +339,7 @@ DiameterOf-15(chord1-2,centre1-7)	0:2 1:13.0 2:-1 3:4 4:8.0 5:-1 6:2 7:5.0 8:2
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
 DiameterOf-15(centre1-7,chord1-2)	0:4 1:8.0 2:-1 3:2 4:13.0 5:-1 6:2 7:5.0 8:-1 
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
-DiameterOf-15(chord1-2,circle1-10)	0:2 1:13.0 2:-1 3:6 4:5.0 5:-1 6:4 7:8.0 8:4 
+1	DiameterOf-15(chord1-2,circle1-10)	0:2 1:13.0 2:-1 3:6 4:5.0 5:-1 6:4 7:8.0 8:4 
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
 DiameterOf-15(circle1-10,chord1-2)	0:6 1:5.0 2:-1 3:2 4:13.0 5:-1 6:4 7:8.0 8:-1 
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
@@ -349,7 +359,7 @@ DiameterOf-15(circle1-10,circle2-18)	0:6 1:5.0 2:-1 3:1 4:3.0 5:1 6:7 7:8.0 8:-1
 The chord, which passes through the centre of the circle, is called a diameter of the circle.
 DiameterOf-15(circle2-18,circle1-10)	0:1 1:3.0 2:1 3:6 4:5.0 5:-1 6:7 7:8.0 8:-1 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
-IsOn-4(line1-2,centre1-6)	0:3 1:2.0 2:-1 3:1 4:2.0 5:-1 6:2 7:4.0 8:2 
+1	IsOn-4(line1-2,centre1-6)	0:3 1:2.0 2:-1 3:1 4:2.0 5:-1 6:2 7:4.0 8:2 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
 IsOn-4(line1-2,circle1-9)	0:3 1:2.0 2:-1 3:2 4:5.0 5:-1 6:3 7:7.0 8:3 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
@@ -385,7 +395,7 @@ CentreOf-6(line1-2,chord2-19)	0:2 1:4.0 2:-1 3:4 4:13.0 5:-1 6:2 7:17.0 8:-1
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
 CentreOf-6(chord2-19,line1-2)	0:4 1:13.0 2:-1 3:2 4:4.0 5:-1 6:2 7:17.0 8:-1 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
-CentreOf-6(centre1-6,circle1-9)	0:0 1:0.0 2:0 3:1 4:3.0 5:1 6:1 7:3.0 8:1 
+1	CentreOf-6(centre1-6,circle1-9)	0:0 1:0.0 2:0 3:1 4:3.0 5:1 6:1 7:3.0 8:1 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
 CentreOf-6(circle1-9,centre1-6)	0:1 1:3.0 2:1 3:0 4:0.0 5:0 6:1 7:3.0 8:-1 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
@@ -413,7 +423,7 @@ Bisect-11(line1-2,centre1-6)	0:2 1:9.0 2:-1 3:2 4:5.0 5:-1 6:2 7:4.0 8:2
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
 Bisect-11(line1-2,circle1-9)	0:2 1:9.0 2:-1 3:3 4:2.0 5:-1 6:3 7:7.0 8:3 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
-Bisect-11(line1-2,chord1-13)	0:2 1:9.0 2:-1 3:2 4:2.0 5:2 6:4 7:11.0 8:4 
+1	Bisect-11(line1-2,chord1-13)	0:2 1:9.0 2:-1 3:2 4:2.0 5:2 6:4 7:11.0 8:4 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
 Bisect-11(line1-2,chord2-19)	0:2 1:9.0 2:-1 3:4 4:8.0 5:-1 6:2 7:17.0 8:-1 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
@@ -459,7 +469,7 @@ ChordOf-13(chord2-19,centre1-6)	0:6 1:6.0 2:-1 3:4 4:7.0 5:-1 6:4 7:13.0 8:-1
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
 ChordOf-13(circle1-9,chord1-13)	0:5 1:4.0 2:-1 3:0 4:0.0 5:0 6:5 7:4.0 8:-1 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
-ChordOf-13(chord1-13,circle1-9)	0:0 1:0.0 2:0 3:5 4:4.0 5:-1 6:5 7:4.0 8:-1 
+1	ChordOf-13(chord1-13,circle1-9)	0:0 1:0.0 2:0 3:5 4:4.0 5:-1 6:5 7:4.0 8:-1 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
 ChordOf-13(circle1-9,chord2-19)	0:5 1:4.0 2:-1 3:6 4:6.0 5:-1 6:5 7:10.0 8:-1 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
@@ -473,7 +483,7 @@ Perpendicular-16(line1-2,centre1-6)	0:1 1:14.0 2:1 3:3 4:10.0 5:3 6:2 7:4.0 8:2
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
 Perpendicular-16(line1-2,circle1-9)	0:1 1:14.0 2:1 3:4 4:7.0 5:4 6:3 7:7.0 8:3 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
-Perpendicular-16(line1-2,chord1-13)	0:1 1:14.0 2:1 3:5 4:3.0 5:5 6:4 7:11.0 8:4 
+1	Perpendicular-16(line1-2,chord1-13)	0:1 1:14.0 2:1 3:5 4:3.0 5:5 6:4 7:11.0 8:4 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
 Perpendicular-16(line1-2,chord2-19)	0:1 1:14.0 2:1 3:1 4:3.0 5:1 6:2 7:17.0 8:-1 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
@@ -528,3 +538,155 @@ Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord i
 ChordOf-19(chord1-13,chord2-19)	0:6 1:6.0 2:-1 3:0 4:0.0 5:0 6:6 7:6.0 8:-1 
 Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
 ChordOf-19(chord2-19,chord1-13)	0:0 1:0.0 2:0 3:6 4:6.0 5:-1 6:6 7:6.0 8:-1 
+An acute angle is less than 90°.
+AngleOf-3(angle1-3,constant-8)	0:0 1:0.0 2:0 3:2 4:5.0 5:-1 6:2 7:5.0 8:-1 
+An acute angle is less than 90°.
+1	LessThan-6(angle1-3,constant-8)	0:3 1:3.0 2:-1 3:1 4:2.0 5:-1 6:2 7:5.0 8:-1 
+Two segments have equal lengths, if they are congruent.
+1	Equals-4(segment1-2,segment2-2)	0:4 1:2.0 2:-1 3:4 4:2.0 5:-1 6:0 7:0.0 8:0 
+Two segments have equal lengths, if they are congruent.
+1	Congruent-10(segment1-2,segment2-2)	0:2 1:8.0 2:-1 3:2 4:8.0 5:-1 6:0 7:0.0 8:0 
+A triangle with two sides of equal lengths is isosceles.
+SideOf-5(triangle1-2,side1-5)	0:1 1:3.0 2:-1 3:0 4:0.0 5:0 6:1 7:3.0 8:1 
+A triangle with two sides of equal lengths is isosceles.
+1	SideOf-5(side1-5,triangle1-2)	0:0 1:0.0 2:0 3:1 4:3.0 5:-1 6:1 7:3.0 8:-1 
+A triangle with two sides of equal lengths is isosceles.
+SideOf-5(triangle1-2,side2-5)	0:1 1:3.0 2:-1 3:0 4:0.0 5:0 6:1 7:3.0 8:1 
+A triangle with two sides of equal lengths is isosceles.
+1	SideOf-5(side2-5,triangle1-2)	0:0 1:0.0 2:0 3:1 4:3.0 5:-1 6:1 7:3.0 8:-1 
+A triangle with two sides of equal lengths is isosceles.
+SideOf-5(side1-5,side2-5)	0:0 1:0.0 2:0 3:0 4:0.0 5:0 6:0 7:0.0 8:0 
+A triangle with two sides of equal lengths is isosceles.
+SideOf-5(side2-5,side1-5)	0:0 1:0.0 2:0 3:0 4:0.0 5:0 6:0 7:0.0 8:0 
+A triangle with two sides of equal lengths is isosceles.
+1	Equals-7(side1-5,side2-5)	0:2 1:2.0 2:-1 3:2 4:2.0 5:-1 6:0 7:0.0 8:0 
+The diameter of the circle is a chord pass through the centre.
+DiameterOf-2(circle1-5,chord1-9)	0:2 1:3.0 2:2 3:2 4:7.0 5:-1 6:4 7:4.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+1	DiameterOf-2(chord1-9,circle1-5)	0:2 1:7.0 2:-1 3:2 4:3.0 5:2 6:4 7:4.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+DiameterOf-2(circle1-5,centre1-13)	0:2 1:3.0 2:2 3:2 4:11.0 5:-1 6:4 7:8.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+DiameterOf-2(centre1-13,circle1-5)	0:2 1:11.0 2:-1 3:2 4:3.0 5:2 6:4 7:8.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+DiameterOf-2(chord1-9,centre1-13)	0:2 1:7.0 2:-1 3:2 4:11.0 5:-1 6:2 7:4.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+DiameterOf-2(centre1-13,chord1-9)	0:2 1:11.0 2:-1 3:2 4:7.0 5:-1 6:2 7:4.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+ChordOf-9(circle1-5,chord1-9)	0:4 1:4.0 2:-1 3:0 4:0.0 5:0 6:4 7:4.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+1	ChordOf-9(chord1-9,circle1-5)	0:0 1:0.0 2:0 3:4 4:4.0 5:-1 6:4 7:4.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+ChordOf-9(circle1-5,centre1-13)	0:4 1:4.0 2:-1 3:2 4:4.0 5:-1 6:4 7:8.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+ChordOf-9(centre1-13,circle1-5)	0:2 1:4.0 2:-1 3:4 4:4.0 5:-1 6:4 7:8.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+ChordOf-9(chord1-9,centre1-13)	0:0 1:0.0 2:0 3:2 4:4.0 5:-1 6:2 7:4.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+ChordOf-9(centre1-13,chord1-9)	0:2 1:4.0 2:-1 3:0 4:0.0 5:0 6:2 7:4.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+IsOn-10(circle1-5,chord1-9)	0:3 1:5.0 2:3 3:1 4:1.0 5:1 6:4 7:4.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+IsOn-10(circle1-5,centre1-13)	0:3 1:5.0 2:3 3:1 4:3.0 5:1 6:4 7:8.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+1	IsOn-10(chord1-9,centre1-13)	0:1 1:1.0 2:1 3:1 4:3.0 5:1 6:2 7:4.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+IsOn-11(circle1-5,chord1-9)	0:5 1:6.0 2:-1 3:3 4:2.0 5:-1 6:4 7:4.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+IsOn-11(circle1-5,centre1-13)	0:5 1:6.0 2:-1 3:1 4:2.0 5:-1 6:4 7:8.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+IsOn-11(chord1-9,centre1-13)	0:3 1:2.0 2:-1 3:1 4:2.0 5:-1 6:2 7:4.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+CentreOf-13(circle1-5,chord1-9)	0:4 1:8.0 2:-1 3:2 4:4.0 5:-1 6:4 7:4.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+CentreOf-13(chord1-9,circle1-5)	0:2 1:4.0 2:-1 3:4 4:8.0 5:-1 6:4 7:4.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+CentreOf-13(circle1-5,centre1-13)	0:4 1:8.0 2:-1 3:0 4:0.0 5:0 6:4 7:8.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+1	CentreOf-13(centre1-13,circle1-5)	0:0 1:0.0 2:0 3:4 4:8.0 5:-1 6:4 7:8.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+CentreOf-13(chord1-9,centre1-13)	0:2 1:4.0 2:-1 3:0 4:0.0 5:0 6:2 7:4.0 8:-1 
+The diameter of the circle is a chord pass through the centre.
+CentreOf-13(centre1-13,chord1-9)	0:0 1:0.0 2:0 3:2 4:4.0 5:-1 6:2 7:4.0 8:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+1	Parallel-4(line1-2,line2-7)	0:2 1:2.0 2:-1 3:2 4:3.0 5:-1 6:2 7:5.0 8:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+Parallel-4(line1-2,line3-17)	0:2 1:2.0 2:-1 3:3 4:13.0 5:-1 6:3 7:15.0 8:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+Parallel-4(line2-7,line3-17)	0:2 1:3.0 2:-1 3:3 4:13.0 5:-1 6:3 7:10.0 8:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+Parallel-13(line1-2,line2-7)	0:2 1:11.0 2:-1 3:2 4:6.0 5:-1 6:2 7:5.0 8:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+1	Parallel-13(line1-2,line3-17)	0:2 1:11.0 2:-1 3:1 4:4.0 5:1 6:3 7:15.0 8:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+1	Parallel-13(line2-7,line3-17)	0:2 1:6.0 2:-1 3:1 4:4.0 5:1 6:3 7:10.0 8:-1 
+If an angle equals to 180°, then it is a straight angle.
+AngleOf-3(angle1-3,constant-6)	0:0 1:0.0 2:0 3:3 4:3.0 5:-1 6:3 7:3.0 8:-1 
+If an angle equals to 180°, then it is a straight angle.
+AngleOf-3(angle2-13,constant-6)	0:2 1:10.0 2:-1 3:3 4:3.0 5:-1 6:3 7:7.0 8:3 
+If an angle equals to 180°, then it is a straight angle.
+Equals-4(angle1-3,angle2-13)	0:1 1:1.0 2:1 3:1 4:9.0 5:-1 6:2 7:10.0 8:-1 
+If an angle equals to 180°, then it is a straight angle.
+Equals-6(angle1-3,angle2-13)	0:3 1:3.0 2:-1 3:3 4:7.0 5:-1 6:2 7:10.0 8:-1 
+If an angle equals to 180°, then it is a straight angle.
+AngleOf-13(angle1-3,constant-6)	0:2 1:10.0 2:2 3:3 4:7.0 5:3 6:3 7:3.0 8:-1 
+If an angle equals to 180°, then it is a straight angle.
+AngleOf-13(angle2-13,constant-6)	0:0 1:0.0 2:0 3:3 4:7.0 5:3 6:3 7:7.0 8:3 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+MeasureOf-2(constant-11,constant-15)	0:1 1:9.0 2:-1 3:2 4:13.0 5:-1 6:1 7:4.0 8:1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+MeasureOf-2(constant-15,constant-11)	0:2 1:13.0 2:-1 3:1 4:9.0 5:-1 6:1 7:4.0 8:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+MeasureOf-2(constant-11,angle1-6)	0:1 1:9.0 2:-1 3:2 4:4.0 5:2 6:3 7:5.0 8:3 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+MeasureOf-2(angle1-6,constant-11)	0:2 1:4.0 2:2 3:1 4:9.0 5:-1 6:3 7:5.0 8:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+MeasureOf-2(constant-15,angle1-6)	0:2 1:13.0 2:-1 3:2 4:4.0 5:2 6:4 7:9.0 8:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+MeasureOf-2(angle1-6,constant-15)	0:2 1:4.0 2:2 3:2 4:13.0 5:-1 6:4 7:9.0 8:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+AngleOf-6(angle1-6,constant-11)	0:0 1:0.0 2:0 3:3 4:5.0 5:-1 6:3 7:5.0 8:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+AngleOf-6(angle1-6,constant-15)	0:0 1:0.0 2:0 3:4 4:9.0 5:-1 6:4 7:9.0 8:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+1	GreaterThan-9(angle1-6,constant-11)	0:4 1:3.0 2:-1 3:1 4:2.0 5:-1 6:3 7:5.0 8:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+GreaterThan-9(angle1-6,constant-15)	0:4 1:3.0 2:-1 3:2 4:6.0 5:-1 6:4 7:9.0 8:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+LessThan-13(angle1-6,constant-11)	0:5 1:7.0 2:-1 3:2 4:2.0 5:-1 6:3 7:5.0 8:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+1	LessThan-13(angle1-6,constant-15)	0:5 1:7.0 2:-1 3:1 4:2.0 5:-1 6:4 7:9.0 8:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+1	AngleOf-3(angle1-3,parallelogram1-6)	0:0 1:0.0 2:0 3:1 4:3.0 5:1 6:1 7:3.0 8:1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf-3(angle1-3,rectangle1-16)	0:0 1:0.0 2:0 3:2 4:13.0 5:-1 6:2 7:13.0 8:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf-3(angle2-10,parallelogram1-6)	0:2 1:7.0 2:-1 3:1 4:3.0 5:1 6:3 7:4.0 8:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf-3(angle2-10,rectangle1-16)	0:2 1:7.0 2:-1 3:2 4:13.0 5:-1 6:2 7:6.0 8:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf-10(angle1-3,parallelogram1-6)	0:2 1:7.0 2:-1 3:3 4:4.0 5:-1 6:1 7:3.0 8:1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf-10(angle1-3,rectangle1-16)	0:2 1:7.0 2:-1 3:2 4:6.0 5:-1 6:2 7:13.0 8:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf-10(angle2-10,parallelogram1-6)	0:0 1:0.0 2:0 3:3 4:4.0 5:-1 6:3 7:4.0 8:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf-10(angle2-10,rectangle1-16)	0:0 1:0.0 2:0 3:2 4:6.0 5:-1 6:2 7:6.0 8:-1 
+The opposite sides of a rectangle are of equal length.
+Opposite-2(side1-3,rectangle1-6)	0:1 1:1.0 2:-1 3:2 4:4.0 5:-1 6:1 7:3.0 8:1 
+The opposite sides of a rectangle are of equal length.
+1	SideOf-3(side1-3,rectangle1-6)	0:0 1:0.0 2:0 3:1 4:3.0 5:1 6:1 7:3.0 8:1 
+The opposite sides of a rectangle are of equal length.
+SideOf-3(rectangle1-6,side1-3)	0:1 1:3.0 2:1 3:0 4:0.0 5:0 6:1 7:3.0 8:-1 
+An angle that equals to 90° is a right angle.
+AngleOf-2(angle1-2,constant-6)	0:0 1:0.0 2:0 3:3 4:4.0 5:3 6:3 7:4.0 8:3 
+An angle that equals to 90° is a right angle.
+AngleOf-2(angle2-11,constant-6)	0:1 1:9.0 2:-1 3:3 4:4.0 5:3 6:4 7:5.0 8:4 
+An angle that equals to 90° is a right angle.
+Equals-4(angle1-2,angle2-11)	0:1 1:2.0 2:-1 3:2 4:7.0 5:-1 6:1 7:9.0 8:-1 
+An angle that equals to 90° is a right angle.
+Equals-6(angle1-2,angle2-11)	0:3 1:4.0 2:-1 3:4 4:5.0 5:-1 6:1 7:9.0 8:-1 
+An angle that equals to 90° is a right angle.
+AngleOf-11(angle1-2,constant-6)	0:1 1:9.0 2:1 3:4 4:5.0 5:4 6:3 7:4.0 8:3 
+An angle that equals to 90° is a right angle.
+AngleOf-11(angle2-11,constant-6)	0:0 1:0.0 2:0 3:4 4:5.0 5:4 6:4 7:5.0 8:4 

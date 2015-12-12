@@ -1,0 +1,140 @@
+Remark : You can verify that if one polygon is similar to another polygon and this second polygon is similar to a third polygon, then the first polygon is similar to the third polygon.
+Similar(polygon1, polygon2);Similar(polygon2, polygon3) => Similar(polygon1, polygon3)
+
+DF  Remark : If two angles of a triangle are respectively equal to two angles of another triangle, then their third angles will also be equal.
+IsTriangle(triangle1);IsTriangle(triangle2);AngleOf(angle1, triangle1);AngleOf(angle2, triangle1);AngleOf(angle3, triangle1);AngleOf(angle4, triangle2);AngleOf(angle5, triangle1);AngleOf(angle6, triangle2);Equals(angle1, angle3);Equals(angle2, angle4) => Equals(angle5, angle6)
+
+The lengths of the two tangents from an external point to a circle are equal.
+Iscircle(Circle);TangentOf(segment1, Circle);TangentOf(segment2, Circle);PointOf(point, segment1);PointOf(point, segment2) => Equals(segment1, segment2)
+
+A triangle having two equal sides is called an Isosceles Triangle [(b),(f)].
+IsTriangle(triangle1);SideOf(side1, triangle);SideOf(side2, triangle);Equals(side1, side2)  => Isosceles(triangle1)
+
+A triangle having three equal sides is called an Equilateral Triangle [(a),(d)].
+IsTriangle(triangle1);SideOf(side1, triangle);SideOf(side2, triangle);SideOf(side3, triangle);Equals(side1, side2);Equals(side2, side3) => Equilateral(triangle)
+
+Naming triangles based on angles If each angle is less than 90°, then the triangle is called an acute angled triangle.
+IsTriangle(triangle1);LessThan(angle1,90);LessThan(angle2,90);LessThan(angle3,90);AngleOf(angle1, triangle1);AngleOf(angle2, triangle1);AngleOf(angle3, triangle1) => Acute(triangle1)
+
+If any one angle is a right angle then the triangle is called a right angled triangle.
+IsTriangle(triangle1);AngleOf(angle1, triangle1);RightAngle(angle1) => RightTriangle(triangle1)
+
+If any one angle is greater than 90°, then the triangle is called an obtuse angled triangle.
+IsTriangle(triangle1);AngleOf(angle1, triangle1);GreaterThan(angle1,90) => Obtuse(triangle1)
+
+One more obvious property of the rectangle you can see is that opposite sides are of equal length.
+IsRectangle(rectangle1);SideOf(side1, rectangle1);SideOf(side2, rectangle1);Opposite(side1, side2) => Equals(side1, side2)
+
+The measure of a right angle is 90° and 
+RightAngle(angle) => MeasureOf(angle,90)
+
+hence that measure of a straight angle is 180°.
+StraightAngle(angle) => MeasureOf(angle, 180)
+
+When the sum of the measures of two angles is 90°, the angles are called complementary angles.
+Equals(Sum(angle1,angle2),90) => Complementary(angle1, angle2)
+
+We also find that the difference between the length of any two sides of a triangle is smaller than the length of the third side.
+？	Istriangle(triangle);SideOf(side1, triangle);SideOf(side2, triangle);SideOf(side3, triangle) => SmallerThan(Difference(side1, side2),side3)
+
+The total measure of the three angles of a triangle is 180°.
+IsTriangle(triangle);AngleOf(angle1, triangle);AngleOf(angle2, triangle);AngleOf(angle3, triangle) => MeasureOf(Sum(Sum(angle1,angle2),angle3),180)
+
+Statement The total measure of the three angles of a triangle is 180°.
+IsTriangle(triangle);AngleOf(angle1, triangle);AngleOf(angle2, triangle);AngleOf(angle3, triangle) => MeasureOf(Sum(Sum(angle1,angle2),angle3),180)
+
+It may be stated as follows: In a right-angled triangle, the square on the hypotenuse = sum of the squares on the legs.
+RightTriangle(triangle);IsHypotenuse(side1, triangle);IsLeg(side2, triangle);IsLeg(side3, triangle) => Equals(Sum(square(side2),square(side3)),square(side1))
+
+In an equilateral triangle, each angle has measure 60°.
+IsTriangle(triangle1);Equilateral(triangle);AngleOf(angle1, triangle1);AngleOf(angle2, triangle1);AngleOf(angle3, triangle1) => MesureOf(angle1, 60);MesureOf(angle1, 60);MesureOf(angle1, 60)
+
+A triangle is said to be isosceles, if at least any two of its sides are of same length.
+IsTriangle(triangle1); SideOf(side1, triangle1);SideOf(side2, triangle1);Equals(side1, side2) => Isosceles(triangle1) 
+
+If two line segments have the same (i.e., equal) length, they are congruent.
+Equals(segment1, segment2) => Congruent(segment1, segment2)
+
+Two line segments, say, AB and CD , are congruent if they have equal lengths.
+Congruent(segment1, segment2) => Equals(segment1, segment2) 
+
+Two angles, say, ∠ABC and ∠PQR, are congruent if their measures are equal.
+Equal(angle1, angle2) => Congruent(angle1, angle2)
+
+RHS Congruence of two right-angled triangles: Under a given correspondence, two right-angled triangles are congruent if the hypotenuse and a leg of one of the triangles are equal to the hypotenuse and the corresponding leg of the other triangle.
+RightTriangle(triangle1);RightTriangle(triangle2);IsHypotenuse(side1, triangle1);IsHypotenuse(side2, triangle2);IsLeg(side3, triangle1);IsLeg(side4, triangle2);Equals(side1, side2);Equals(side3, side4) => Congruent(triangle1, triangle2)
+
+The adjacent angles in a parallelogram are supplementary.
+IsParallelogram(parallelogram1); AngleOf(angle1, parallelogram1);AngleOf(angle2, parallelogram1);Adjacent(angle1, angle2) => supplementary(angle1, angle2)
+
+A parallelogram is a quadrilateral whose opposite sides are parallel.
+IsQuadrilateral(quadrilateral);SideOf(side1,quadrilateral);SideOf(side2,quadrilateral);SideOf(side3,quadrilateral);SideOf(side4,quadrilateral);Opposite(side1, side3);Opposite(side2, side4);Parallel(side1, side3);Parallel(side2, side4) => IsParallelogram(quadrilateral)
+
+So, a rectangle is a parallelogram in which every angle is a right angle.
+IsRectangle(parallelogram) => IsParallelogram(parallelogram);AngleOf(angle1, parallelogram);AngleOf(angle1, parallelogram);AngleOf(angle2, parallelogram);AngleOf(angle3, parallelogram);AngleOf(angle4, parallelogram);RightAngle(angle1);RightAngle(angle2);RightAngle(angle3);RightAngle(angle4)
+
+Property: The diagonals of a square are perpendicular bisectors of each other.
+IsSquare(square);DiagonalOf(diagonal1, square);DiagonalOf(diagonal2, Square) => Perpendicular(diagonal1, diagonal2);Bisect(diagonal1, diagonal2);Bisect(diagonal2, diagonal1)
+
+An acute angle measures between 0° and 90°.
+AcuteAngle(angle1) => LessThan(angle1, 90);GreaterThan(angle1, 0)
+
+whereas a right angle is exactly equal to 90°.
+RightAngle(angle1) => Equals(angle1, 90)
+
+An angle greater than 90° but less than 180° is called an obtuse angle.
+IsAngle(ang);GreaterThan(ang, 90);LessThan(ang, 180) => ObtuseAngle(ang)
+
+Further, two angles whose sum is 90° are called complementary angles.
+IsAngle(angle1);IsAngle(angle2);Equals(Sum(angle1, angle2),90) => Complementary(angle1, angle2)
+
+ and two angles whose sum is 180° are called supplementary angles.
+IsAngle(angle1);IsAngle(angle2);Equals(Sum(angle1, angle2),180) => Supplementary(angle1, angle2)
+
+Theorem 6.6 : Lines which are parallel to the same line are parallel to each other.
+IsLine(line1);IsLine(line2);IsLine(line3);Parallel(line1, line2);Parallel(line1, line3) => Parallel(line2, line3)
+
+In any triangle, the side opposite to the larger (greater) angle is longer.
+IsTriangle(triangle);AngleOf(angle1, triangle);AngleOf(angle2, triangle);GreaterThan(angle1, angle2);SideOf(side1, triangle);SideOf(side2, triangle);Opposite(side1, angle1);Opposite(side2, angle2) => GreaterThan(side1, side2)
+
+Theorem 8.2 : In a parallelogram, opposite sides are equal.
+IsParallelogram(parallelogram);SideOf(side1, parallelogram);SideOf(side2, parallelogram);SideOf(side3, parallelogram);SideOf(side4, parallelogram);Opposite(side1, side2);Opposite(side3, side4) => Equals(side1, side2);Equals(side3, side4)
+
+If a quadrilateral is a parallelogram, then each pair of its opposite sides is equal.
+IsQuadrilateral(parallelogram);IsParallelogram(parallelogram);SideOf(side1, parallelogram);SideOf(side2, parallelogram);SideOf(side3, parallelogram);SideOf(side4, parallelogram);Opposite(side1, side2);Opposite(side3, side4) => Equals(side1, side2);Equals(side3, side4)
+
+Theorem 8.3 : If each pair of opposite sides of a quadrilateral is equal, then it is a parallelogram.
+IsQuadrilateral(parallelogram);SideOf(side1, parallelogram);SideOf(side2, parallelogram);SideOf(side3, parallelogram);SideOf(side4, parallelogram);Opposite(side1, side2);Opposite(side3, side4);Equals(side1, side2);Equals(side3, side4) => IsParallelogram(parallelogram)
+
+Theorem 8.4 : In a parallelogram, opposite angles are equal.
+IsParallelogram(parallelogram);SideOf(side1, parallelogram);SideOf(side2, parallelogram);SideOf(side3, parallelogram);SideOf(side4, parallelogram);Opposite(side1, side2);Opposite(side3, side4) => Equals(side1, side2);Equals(side3, side4)
+
+Theorem 8.5 : If in a quadrilateral, each pair of opposite angles is equal, then it is a parallelogram.
+IsQuadrilateral(parallelogram);AngleOf(angle1, parallelogram);AngleOf(angle2, parallelogram);AngleOf(angle3, parallelogram);AngleOf(angle4, parallelogram);Opposite(angle1, angle2);Opposite(angle3, angle4);Equals(angle1, angle2);Equals(angle3, angle4) => IsParallelogram(parallelogram)
+
+Theorem 8.6 : The diagonals of a parallelogram bisect each other.
+IsParallelogram(parallelogram);DiagonalOf(diagonal1, parallelogram);DiagonalOf(diagonal2, parallelogram) => Bisect(diagonal1, diagonal2);Bisect(diagonal2, diagonal1)
+
+Theorem 8.7 : If the diagonals of a quadrilateral bisect each other, then it is a parallelogram.
+IsQuadrilateral(parallelogram);DiagonalOf(diagonal1, parallelogram);DiagonalOf(diagonal2, parallelogram);Bisect(diagonal1, diagonal2);Bisect(diagonal2, diagonal1) => IsParallelogram(parallelogram)
+
+A rectangle is a parallelogram in which one angle is a right angle.
+IsRectangle(parallelogram) => IsParallelogram(parallelogram);AngleOf(angle1, parallelogram);RightAngle(angle1)
+
+Theorem 8.8 : A quadrilateral is a parallelogram if a pair of opposite sides is equal and parallel.
+IsQuadrilateral(parallelogram); SideOf(side1, parallelogram);SideOf(side2, parallelogram);SideOf(side3, parallelogram);SideOf(side4, parallelogram);Opposite(side1, side2);Opposite(side3, side4);Equals(side1, side2);Equals(side3, side4);Parallel(side1, side2);Parallel(side3, side4) => IsParallelogram(parallelogram)
+
+Theorem 8.9 : The line segment joining the mid-points of two sides of a triangle is parallel to the third side.
+IsTriangle(triangle);SideOf(side1, triangle);SideOf(side2, triangle);SideOf(side4, triangle);IsSegment(side3);Bisect(side3, side1);Bisect(side3, side2) => parallel(side3, side4)
+
+Theorem 8.10 : The line drawn through the mid-points of one side of a triangle, parallel to another side bisects the third side.
+IsTriangle(triangle);SideOf(side1, triangle);SideOf(side2, triangle);SideOf(side4, triangle);IsSegment(side3);Bisect(side3, side1);parallel(side3, side4) => Bisect(side3, side2)
+
+Sum of the angles of a quadrilateral is 360°.
+IsQuadrilateral(quadrilateral);AngleOf(angle1, quadrilateral);AngleOf(angle2, quadrilateral);AngleOf(angle3, quadrilateral);AngleOf(angle4, quadrilateral) => Equals(Sum(Sum(angle1, angle2),Sum(angle3, angle4)),360)
+
+The chord, which passes through the centre of the circle, is called a diameter of the circle.
+IsCircle(circle);ChordOf(chord, circle);CentreOf(centre, circle);IsOn(centre, chord) => DiameterOf(chord, circle)
+
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord.
+IsLine(line);IsCircle(circle);CentreOf(centre, circle);IsOn(centre, line);ChordOf(circle);Bisect(line, chord) => Perpendicular(line, chord)
