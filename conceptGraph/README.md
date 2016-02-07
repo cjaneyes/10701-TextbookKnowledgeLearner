@@ -23,7 +23,7 @@ RightAngle is a predicate with one parameter "angle1-2", where angle1 is a varia
 Adding the human annotation for each literal as:
 
 If this literal is true:
-An angle that equals to 90° is a right angle.
+An angle that equals to 90° is a right angle.  
 1	RightAngle-10(angle1-2)	0:2 1:8.0 2:-1 
 
 If this literal is considerd invalid, those two lines remain the same. 
@@ -31,28 +31,28 @@ If this literal is considerd invalid, those two lines remain the same.
 ## Format of "console.output"
 In case you cannot run our codes, we save the outputs to this file. 
 
-an angle that equals to 90  > is a right angle.
-angle is angle1	1 variable	 =>  If
-angle is IsAngle	3 variable	 =>  If
-angle is AngleOf	3 variable	 =>  If
-equals is Equals	3 variable	 =>  If
-90 is constant	0 variable	 =>  If
-90 is Equals	3 variable	 =>  If
-right is RightAngle	3 variable	 =>  Then
-right is RightTriangle	3 variable	 =>  Then
-angle is angle2	1 variable	 =>  Then
-angle is IsAngle	3 variable	 =>  Then
-angle is AngleOf	3 variable	 =>  Then
-=== end of this sentence ====
-An angle that equals to 90° is a right angle.
-IsAngle( constant-6)
-[3, 4.0, 3]
-An angle that equals to 90° is a right angle.
-IsAngle( angle1-2)
-[0, 0.0, 0]
-....
-....
-....
+an angle that equals to 90  > is a right angle.  
+angle is angle1	1 variable	 =>  If  
+angle is IsAngle	3 variable	 =>  If  
+angle is AngleOf	3 variable	 =>  If  
+equals is Equals	3 variable	 =>  If  
+90 is constant	0 variable	 =>  If  
+90 is Equals	3 variable	 =>  If  
+right is RightAngle	3 variable	 =>  Then  
+right is RightTriangle	3 variable	 =>  Then  
+angle is angle2	1 variable	 =>  Then  
+angle is IsAngle	3 variable	 =>  Then  
+angle is AngleOf	3 variable	 =>  Then  
+=== end of this sentence ====  
+An angle that equals to 90° is a right angle.  
+IsAngle( constant-6)  
+[3, 4.0, 3]  
+An angle that equals to 90° is a right angle.  
+IsAngle( angle1-2)  
+[0, 0.0, 0]  
+....  
+....  
+....  
 
 Here symbol ">"  indicate a if-then
 The terms before ">" are from condition part and the terms behind that symbol are considered to be conclusions.
