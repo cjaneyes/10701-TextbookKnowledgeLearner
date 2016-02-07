@@ -162,3 +162,167 @@ An angle that equals to 90° is a right angle.
 IsAngle-11(angle1-2)	0:1 1:9.0 2:1 
 An angle that equals to 90° is a right angle.
 IsAngle-11(angle2-11)	0:0 1:0.0 2:0 
+An acute angle is less than 90°.
+AcuteAngle-2(constant-8)	0:2 1:6.0 2:-1 
+An acute angle is less than 90°.
+AcuteAngle-2(angle1-3)	0:2 1:1.0 2:-1 
+An acute angle is less than 90°.
+Acute-2(constant-8)	0:2 1:6.0 2:-1 
+An acute angle is less than 90°.
+Acute-2(angle1-3)	0:2 1:1.0 2:-1 
+An acute angle is less than 90°.
+IsAngle-3(constant-8)	0:2 1:5.0 2:-1 
+An acute angle is less than 90°.
+IsAngle-3(angle1-3)	0:0 1:0.0 2:0 
+Two segments have equal lengths, if they are congruent.
+IsSegment-2(segment1-2)	0:0 1:0.0 2:0 
+Two segments have equal lengths, if they are congruent.
+IsSegment-2(segment2-2)	0:0 1:0.0 2:0 
+A triangle with two sides of equal lengths is isosceles.
+IsTriangle-2(triangle1-2)	0:0 1:0.0 2:0 
+A triangle with two sides of equal lengths is isosceles.
+IsTriangle-2(side1-5)	0:1 1:3.0 2:1 
+A triangle with two sides of equal lengths is isosceles.
+IsTriangle-2(side2-5)	0:1 1:3.0 2:1 
+A triangle with two sides of equal lengths is isosceles.
+Isosceles-11(triangle1-2)	0:1 1:9.0 2:1 
+A triangle with two sides of equal lengths is isosceles.
+Isosceles-11(side1-5)	0:2 1:6.0 2:2 
+A triangle with two sides of equal lengths is isosceles.
+Isosceles-11(side2-5)	0:2 1:6.0 2:2 
+The diameter of the circle is a chord pass through the centre.
+IsCircle-5(circle1-5)	0:0 1:0.0 2:0 
+The diameter of the circle is a chord pass through the centre.
+IsCircle-5(chord1-9)	0:4 1:4.0 2:-1 
+The diameter of the circle is a chord pass through the centre.
+IsCircle-5(centre1-13)	0:4 1:8.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-2(line1-2)	0:0 1:0.0 2:0 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-2(line2-7)	0:2 1:5.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-2(line3-17)	0:3 1:15.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-7(line1-2)	0:2 1:5.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-7(line2-7)	0:0 1:0.0 2:0 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-7(line3-17)	0:3 1:10.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-17(line1-2)	0:3 1:15.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-17(line2-7)	0:3 1:10.0 2:-1 
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine-17(line3-17)	0:0 1:0.0 2:0 
+If an angle equals to 180°, then it is a straight angle.
+IsAngle-3(constant-6)	0:3 1:3.0 2:-1 
+If an angle equals to 180°, then it is a straight angle.
+IsAngle-3(angle1-3)	0:0 1:0.0 2:0 
+If an angle equals to 180°, then it is a straight angle.
+IsAngle-3(angle2-13)	0:2 1:10.0 2:-1 
+If an angle equals to 180°, then it is a straight angle.
+StraightAngle-12(constant-6)	0:4 1:6.0 2:-1 
+If an angle equals to 180°, then it is a straight angle.
+StraightAngle-12(angle1-3)	0:3 1:9.0 2:-1 
+If an angle equals to 180°, then it is a straight angle.
+StraightAngle-12(angle2-13)	0:1 1:1.0 2:-1 
+If an angle equals to 180°, then it is a straight angle.
+IsAngle-13(constant-6)	0:3 1:7.0 2:3 
+If an angle equals to 180°, then it is a straight angle.
+IsAngle-13(angle1-3)	0:2 1:10.0 2:2 
+If an angle equals to 180°, then it is a straight angle.
+IsAngle-13(angle2-13)	0:0 1:0.0 2:0 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+ObtuseAngle-5(constant-11)	0:3 1:6.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+ObtuseAngle-5(constant-15)	0:4 1:10.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+ObtuseAngle-5(angle1-6)	0:2 1:1.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+Obtuse-5(constant-11)	0:3 1:6.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+Obtuse-5(constant-15)	0:4 1:10.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+Obtuse-5(angle1-6)	0:2 1:1.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+IsAngle-6(constant-11)	0:3 1:5.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+IsAngle-6(constant-15)	0:4 1:9.0 2:-1 
+The measure of an obtuse angle is greater than 90° but less than 180°.
+IsAngle-6(angle1-6)	0:0 1:0.0 2:0 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle-3(angle1-3)	0:0 1:0.0 2:0 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle-3(parallelogram1-6)	0:1 1:3.0 2:1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle-3(angle2-10)	0:2 1:7.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle-3(rectangle1-16)	0:2 1:13.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsParallelogram-6(angle1-3)	0:1 1:3.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsParallelogram-6(parallelogram1-6)	0:0 1:0.0 2:0 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsParallelogram-6(angle2-10)	0:3 1:4.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsParallelogram-6(rectangle1-16)	0:3 1:10.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightAngle-9(angle1-3)	0:2 1:6.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightAngle-9(parallelogram1-6)	0:3 1:3.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightAngle-9(angle2-10)	0:2 1:1.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightAngle-9(rectangle1-16)	0:2 1:7.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightTriangle-9(angle1-3)	0:2 1:6.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightTriangle-9(parallelogram1-6)	0:3 1:3.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightTriangle-9(angle2-10)	0:2 1:1.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightTriangle-9(rectangle1-16)	0:2 1:7.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle-10(angle1-3)	0:2 1:7.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle-10(parallelogram1-6)	0:3 1:4.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle-10(angle2-10)	0:0 1:0.0 2:0 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle-10(rectangle1-16)	0:2 1:6.0 2:-1 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsRectangle-16(angle1-3)	0:2 1:13.0 2:2 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsRectangle-16(parallelogram1-6)	0:3 1:10.0 2:3 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsRectangle-16(angle2-10)	0:2 1:6.0 2:2 
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsRectangle-16(rectangle1-16)	0:0 1:0.0 2:0 
+The opposite sides of a rectangle are of equal length.
+IsRectangle-6(side1-3)	0:1 1:3.0 2:-1 
+The opposite sides of a rectangle are of equal length.
+IsRectangle-6(rectangle1-6)	0:0 1:0.0 2:0 
+An angle that equals to 90° is a right angle.
+IsAngle-2(constant-6)	0:3 1:4.0 2:3 
+An angle that equals to 90° is a right angle.
+IsAngle-2(angle1-2)	0:0 1:0.0 2:0 
+An angle that equals to 90° is a right angle.
+IsAngle-2(angle2-11)	0:1 1:9.0 2:-1 
+An angle that equals to 90° is a right angle.
+RightAngle-10(constant-6)	0:5 1:4.0 2:-1 
+An angle that equals to 90° is a right angle.
+RightAngle-10(angle1-2)	0:2 1:8.0 2:-1 
+An angle that equals to 90° is a right angle.
+RightAngle-10(angle2-11)	0:1 1:1.0 2:-1 
+An angle that equals to 90° is a right angle.
+RightTriangle-10(constant-6)	0:5 1:4.0 2:-1 
+An angle that equals to 90° is a right angle.
+RightTriangle-10(angle1-2)	0:2 1:8.0 2:-1 
+An angle that equals to 90° is a right angle.
+RightTriangle-10(angle2-11)	0:1 1:1.0 2:-1 
+An angle that equals to 90° is a right angle.
+IsAngle-11(constant-6)	0:4 1:5.0 2:4 
+An angle that equals to 90° is a right angle.
+IsAngle-11(angle1-2)	0:1 1:9.0 2:1 
+An angle that equals to 90° is a right angle.
+IsAngle-11(angle2-11)	0:0 1:0.0 2:0 

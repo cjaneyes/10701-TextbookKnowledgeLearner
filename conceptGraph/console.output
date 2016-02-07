@@ -1,0 +1,627 @@
+an acute angle  > is less than 90.
+acute is AcuteAngle	3 variable	 =>  If
+acute is Acute	3 variable	 =>  If
+angle is angle1	1 variable	 =>  If
+angle is IsAngle	3 variable	 =>  If
+angle is AngleOf	3 variable	 =>  If
+less is LessThan	3 variable	 =>  Then
+90 is constant	0 variable	 =>  Then
+90 is Equals	3 variable	 =>  Then
+=== end of this sentence ====
+An acute angle is less than 90°.
+AcuteAngle( constant-8)
+[2, 6.0, -1]
+An acute angle is less than 90°.
+AcuteAngle( angle1-3)
+[2, 1.0, -1]
+An acute angle is less than 90°.
+Acute( constant-8)
+[2, 6.0, -1]
+An acute angle is less than 90°.
+Acute( angle1-3)
+[2, 1.0, -1]
+An acute angle is less than 90°.
+IsAngle( constant-8)
+[2, 5.0, -1]
+An acute angle is less than 90°.
+IsAngle( angle1-3)
+[0, 0.0, 0]
+An acute angle is less than 90°.
+AngleOf( angle1-3,constant-8)
+[0, 0.0, 0, 2, 5.0, -1, 2, 5.0, -1]
+An acute angle is less than 90°.
+LessThan( angle1-3,constant-8)
+[3, 3.0, -1, 1, 2.0, -1, 2, 5.0, -1]
+An acute angle is less than 90°.
+Equals( constant-8,angle1-3)
+[0, 0.0, 0, 2, 5.0, 2, 2, 5.0, 2]
+two segments have equal lengths <  if they are congruent.
+segments is segment1	1 variable	 =>  Then
+segments is segment2	1 variable	 =>  Then
+segments is IsSegment	3 variable	 =>  Then
+equal is Equals	3 variable	 =>  Then
+congruent is Congruent	3 variable	 =>  If
+=== end of this sentence ====
+Two segments have equal lengths, if they are congruent.
+IsSegment( segment1-2)
+[0, 0.0, 0]
+Two segments have equal lengths, if they are congruent.
+IsSegment( segment2-2)
+[0, 0.0, 0]
+Two segments have equal lengths, if they are congruent.
+Equals( segment1-2,segment2-2)
+[4, 2.0, -1, 4, 2.0, -1, 0, 0.0, 0]
+Two segments have equal lengths, if they are congruent.
+Congruent( segment1-2,segment2-2)
+[2, 8.0, -1, 2, 8.0, -1, 0, 0.0, 0]
+a triangle with two sides of equal lengths  > is isosceles.
+triangle is triangle1	1 variable	 =>  If
+triangle is IsTriangle	3 variable	 =>  If
+sides is side1	1 variable	 =>  If
+sides is side2	1 variable	 =>  If
+sides is SideOf	3 variable	 =>  If
+equal is Equals	3 variable	 =>  If
+isosceles is Isosceles	3 variable	 =>  Then
+=== end of this sentence ====
+A triangle with two sides of equal lengths is isosceles.
+IsTriangle( triangle1-2)
+[0, 0.0, 0]
+A triangle with two sides of equal lengths is isosceles.
+IsTriangle( side1-5)
+[1, 3.0, 1]
+A triangle with two sides of equal lengths is isosceles.
+IsTriangle( side2-5)
+[1, 3.0, 1]
+A triangle with two sides of equal lengths is isosceles.
+SideOf( triangle1-2,side1-5)
+[1, 3.0, -1, 0, 0.0, 0, 1, 3.0, 1]
+A triangle with two sides of equal lengths is isosceles.
+SideOf( side1-5,triangle1-2)
+[0, 0.0, 0, 1, 3.0, -1, 1, 3.0, -1]
+A triangle with two sides of equal lengths is isosceles.
+SideOf( triangle1-2,side2-5)
+[1, 3.0, -1, 0, 0.0, 0, 1, 3.0, 1]
+A triangle with two sides of equal lengths is isosceles.
+SideOf( side2-5,triangle1-2)
+[0, 0.0, 0, 1, 3.0, -1, 1, 3.0, -1]
+A triangle with two sides of equal lengths is isosceles.
+SideOf( side1-5,side2-5)
+[0, 0.0, 0, 0, 0.0, 0, 0, 0.0, 0]
+A triangle with two sides of equal lengths is isosceles.
+SideOf( side2-5,side1-5)
+[0, 0.0, 0, 0, 0.0, 0, 0, 0.0, 0]
+A triangle with two sides of equal lengths is isosceles.
+Equals( side1-5,side2-5)
+[2, 2.0, -1, 2, 2.0, -1, 0, 0.0, 0]
+A triangle with two sides of equal lengths is isosceles.
+Isosceles( triangle1-2)
+[1, 9.0, 1]
+A triangle with two sides of equal lengths is isosceles.
+Isosceles( side1-5)
+[2, 6.0, 2]
+A triangle with two sides of equal lengths is isosceles.
+Isosceles( side2-5)
+[2, 6.0, 2]
+the diameter of the circle  > is a chord pass through the centre.
+diameter is DiameterOf	3 variable	 =>  If
+circle is circle1	1 variable	 =>  If
+circle is IsCircle	3 variable	 =>  If
+chord is chord1	1 variable	 =>  Then
+chord is ChordOf	3 variable	 =>  Then
+pass is IsOn	3 variable	 =>  Then
+through is IsOn	3 variable	 =>  Then
+centre is centre1	1 variable	 =>  Then
+centre is CentreOf	3 variable	 =>  Then
+=== end of this sentence ====
+The diameter of the circle is a chord pass through the centre.
+DiameterOf( circle1-5,chord1-9)
+[2, 3.0, 2, 2, 7.0, -1, 4, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+DiameterOf( chord1-9,circle1-5)
+[2, 7.0, -1, 2, 3.0, 2, 4, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+DiameterOf( circle1-5,centre1-13)
+[2, 3.0, 2, 2, 11.0, -1, 4, 8.0, -1]
+The diameter of the circle is a chord pass through the centre.
+DiameterOf( centre1-13,circle1-5)
+[2, 11.0, -1, 2, 3.0, 2, 4, 8.0, -1]
+The diameter of the circle is a chord pass through the centre.
+DiameterOf( chord1-9,centre1-13)
+[2, 7.0, -1, 2, 11.0, -1, 2, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+DiameterOf( centre1-13,chord1-9)
+[2, 11.0, -1, 2, 7.0, -1, 2, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+IsCircle( circle1-5)
+[0, 0.0, 0]
+The diameter of the circle is a chord pass through the centre.
+IsCircle( chord1-9)
+[4, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+IsCircle( centre1-13)
+[4, 8.0, -1]
+The diameter of the circle is a chord pass through the centre.
+ChordOf( circle1-5,chord1-9)
+[4, 4.0, -1, 0, 0.0, 0, 4, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+ChordOf( chord1-9,circle1-5)
+[0, 0.0, 0, 4, 4.0, -1, 4, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+ChordOf( circle1-5,centre1-13)
+[4, 4.0, -1, 2, 4.0, -1, 4, 8.0, -1]
+The diameter of the circle is a chord pass through the centre.
+ChordOf( centre1-13,circle1-5)
+[2, 4.0, -1, 4, 4.0, -1, 4, 8.0, -1]
+The diameter of the circle is a chord pass through the centre.
+ChordOf( chord1-9,centre1-13)
+[0, 0.0, 0, 2, 4.0, -1, 2, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+ChordOf( centre1-13,chord1-9)
+[2, 4.0, -1, 0, 0.0, 0, 2, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+IsOn( circle1-5,chord1-9)
+[3, 5.0, 3, 1, 1.0, 1, 4, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+IsOn( circle1-5,centre1-13)
+[3, 5.0, 3, 1, 3.0, 1, 4, 8.0, -1]
+The diameter of the circle is a chord pass through the centre.
+IsOn( chord1-9,centre1-13)
+[1, 1.0, 1, 1, 3.0, 1, 2, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+IsOn( circle1-5,chord1-9)
+[5, 6.0, -1, 3, 2.0, -1, 4, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+IsOn( circle1-5,centre1-13)
+[5, 6.0, -1, 1, 2.0, -1, 4, 8.0, -1]
+The diameter of the circle is a chord pass through the centre.
+IsOn( chord1-9,centre1-13)
+[3, 2.0, -1, 1, 2.0, -1, 2, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+CentreOf( circle1-5,chord1-9)
+[4, 8.0, -1, 2, 4.0, -1, 4, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+CentreOf( chord1-9,circle1-5)
+[2, 4.0, -1, 4, 8.0, -1, 4, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+CentreOf( circle1-5,centre1-13)
+[4, 8.0, -1, 0, 0.0, 0, 4, 8.0, -1]
+The diameter of the circle is a chord pass through the centre.
+CentreOf( centre1-13,circle1-5)
+[0, 0.0, 0, 4, 8.0, -1, 4, 8.0, -1]
+The diameter of the circle is a chord pass through the centre.
+CentreOf( chord1-9,centre1-13)
+[2, 4.0, -1, 0, 0.0, 0, 2, 4.0, -1]
+The diameter of the circle is a chord pass through the centre.
+CentreOf( centre1-13,chord1-9)
+[0, 0.0, 0, 2, 4.0, -1, 2, 4.0, -1]
+a line is parallel to another line <  if they are both parallel to a third line.
+line is line1	1 variable	 =>  Then
+line is IsLine	3 variable	 =>  Then
+parallel is Parallel	3 variable	 =>  Then
+line is line2	1 variable	 =>  Then
+line is IsLine	3 variable	 =>  Then
+parallel is Parallel	3 variable	 =>  If
+line is line3	1 variable	 =>  If
+line is IsLine	3 variable	 =>  If
+=== end of this sentence ====
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine( line1-2)
+[0, 0.0, 0]
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine( line2-7)
+[2, 5.0, -1]
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine( line3-17)
+[3, 15.0, -1]
+A line is parallel to another line, if they are both parallel to a third line.
+Parallel( line1-2,line2-7)
+[2, 2.0, -1, 2, 3.0, -1, 2, 5.0, -1]
+A line is parallel to another line, if they are both parallel to a third line.
+Parallel( line1-2,line3-17)
+[2, 2.0, -1, 3, 13.0, -1, 3, 15.0, -1]
+A line is parallel to another line, if they are both parallel to a third line.
+Parallel( line2-7,line3-17)
+[2, 3.0, -1, 3, 13.0, -1, 3, 10.0, -1]
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine( line1-2)
+[2, 5.0, -1]
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine( line2-7)
+[0, 0.0, 0]
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine( line3-17)
+[3, 10.0, -1]
+A line is parallel to another line, if they are both parallel to a third line.
+Parallel( line1-2,line2-7)
+[2, 11.0, -1, 2, 6.0, -1, 2, 5.0, -1]
+A line is parallel to another line, if they are both parallel to a third line.
+Parallel( line1-2,line3-17)
+[2, 11.0, -1, 1, 4.0, 1, 3, 15.0, -1]
+A line is parallel to another line, if they are both parallel to a third line.
+Parallel( line2-7,line3-17)
+[2, 6.0, -1, 1, 4.0, 1, 3, 10.0, -1]
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine( line1-2)
+[3, 15.0, -1]
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine( line2-7)
+[3, 10.0, -1]
+A line is parallel to another line, if they are both parallel to a third line.
+IsLine( line3-17)
+[0, 0.0, 0]
+if an angle equals to 180  > then it is a straight angle.
+angle is angle1	1 variable	 =>  If
+angle is IsAngle	3 variable	 =>  If
+angle is AngleOf	3 variable	 =>  If
+equals is Equals	3 variable	 =>  If
+180 is constant	0 variable	 =>  If
+180 is Equals	3 variable	 =>  If
+straight is StraightAngle	3 variable	 =>  Then
+angle is angle2	1 variable	 =>  Then
+angle is IsAngle	3 variable	 =>  Then
+angle is AngleOf	3 variable	 =>  Then
+=== end of this sentence ====
+If an angle equals to 180°, then it is a straight angle.
+IsAngle( constant-6)
+[3, 3.0, -1]
+If an angle equals to 180°, then it is a straight angle.
+IsAngle( angle1-3)
+[0, 0.0, 0]
+If an angle equals to 180°, then it is a straight angle.
+IsAngle( angle2-13)
+[2, 10.0, -1]
+If an angle equals to 180°, then it is a straight angle.
+AngleOf( angle1-3,constant-6)
+[0, 0.0, 0, 3, 3.0, -1, 3, 3.0, -1]
+If an angle equals to 180°, then it is a straight angle.
+AngleOf( angle2-13,constant-6)
+[2, 10.0, -1, 3, 3.0, -1, 3, 7.0, 3]
+If an angle equals to 180°, then it is a straight angle.
+Equals( constant-6,angle1-3)
+[2, 2.0, 2, 1, 1.0, 1, 3, 3.0, -1]
+If an angle equals to 180°, then it is a straight angle.
+Equals( constant-6,angle2-13)
+[2, 2.0, 2, 1, 9.0, -1, 3, 7.0, -1]
+If an angle equals to 180°, then it is a straight angle.
+Equals( angle1-3,angle2-13)
+[1, 1.0, 1, 1, 9.0, -1, 2, 10.0, -1]
+If an angle equals to 180°, then it is a straight angle.
+Equals( constant-6,angle1-3)
+[0, 0.0, 0, 3, 3.0, -1, 3, 3.0, -1]
+If an angle equals to 180°, then it is a straight angle.
+Equals( constant-6,angle2-13)
+[0, 0.0, 0, 3, 7.0, -1, 3, 7.0, -1]
+If an angle equals to 180°, then it is a straight angle.
+Equals( angle1-3,angle2-13)
+[3, 3.0, -1, 3, 7.0, -1, 2, 10.0, -1]
+If an angle equals to 180°, then it is a straight angle.
+StraightAngle( constant-6)
+[4, 6.0, -1]
+If an angle equals to 180°, then it is a straight angle.
+StraightAngle( angle1-3)
+[3, 9.0, -1]
+If an angle equals to 180°, then it is a straight angle.
+StraightAngle( angle2-13)
+[1, 1.0, -1]
+If an angle equals to 180°, then it is a straight angle.
+IsAngle( constant-6)
+[3, 7.0, 3]
+If an angle equals to 180°, then it is a straight angle.
+IsAngle( angle1-3)
+[2, 10.0, 2]
+If an angle equals to 180°, then it is a straight angle.
+IsAngle( angle2-13)
+[0, 0.0, 0]
+If an angle equals to 180°, then it is a straight angle.
+AngleOf( angle1-3,constant-6)
+[2, 10.0, 2, 3, 7.0, 3, 3, 3.0, -1]
+If an angle equals to 180°, then it is a straight angle.
+AngleOf( angle2-13,constant-6)
+[0, 0.0, 0, 3, 7.0, 3, 3, 7.0, 3]
+the measure of an obtuse angle  > is greater than 90 but less than 180.
+measure is MeasureOf	3 variable	 =>  If
+obtuse is ObtuseAngle	3 variable	 =>  If
+obtuse is Obtuse	3 variable	 =>  If
+angle is angle1	1 variable	 =>  If
+angle is IsAngle	3 variable	 =>  If
+angle is AngleOf	3 variable	 =>  If
+greater is GreaterThan	3 variable	 =>  Then
+90 is constant	0 variable	 =>  Then
+90 is Equals	3 variable	 =>  Then
+less is LessThan	3 variable	 =>  Then
+180 is constant	0 variable	 =>  Then
+180 is Equals	3 variable	 =>  Then
+=== end of this sentence ====
+The measure of an obtuse angle is greater than 90° but less than 180°.
+MeasureOf( constant-11,constant-15)
+[1, 9.0, -1, 2, 13.0, -1, 1, 4.0, 1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+MeasureOf( constant-15,constant-11)
+[2, 13.0, -1, 1, 9.0, -1, 1, 4.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+MeasureOf( constant-11,angle1-6)
+[1, 9.0, -1, 2, 4.0, 2, 3, 5.0, 3]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+MeasureOf( angle1-6,constant-11)
+[2, 4.0, 2, 1, 9.0, -1, 3, 5.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+MeasureOf( constant-15,angle1-6)
+[2, 13.0, -1, 2, 4.0, 2, 4, 9.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+MeasureOf( angle1-6,constant-15)
+[2, 4.0, 2, 2, 13.0, -1, 4, 9.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+ObtuseAngle( constant-11)
+[3, 6.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+ObtuseAngle( constant-15)
+[4, 10.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+ObtuseAngle( angle1-6)
+[2, 1.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+Obtuse( constant-11)
+[3, 6.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+Obtuse( constant-15)
+[4, 10.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+Obtuse( angle1-6)
+[2, 1.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+IsAngle( constant-11)
+[3, 5.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+IsAngle( constant-15)
+[4, 9.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+IsAngle( angle1-6)
+[0, 0.0, 0]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+AngleOf( angle1-6,constant-11)
+[0, 0.0, 0, 3, 5.0, -1, 3, 5.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+AngleOf( angle1-6,constant-15)
+[0, 0.0, 0, 4, 9.0, -1, 4, 9.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+GreaterThan( angle1-6,constant-11)
+[4, 3.0, -1, 1, 2.0, -1, 3, 5.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+GreaterThan( angle1-6,constant-15)
+[4, 3.0, -1, 2, 6.0, -1, 4, 9.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+Equals( constant-11,constant-15)
+[0, 0.0, 0, 1, 4.0, 1, 1, 4.0, 1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+Equals( constant-11,angle1-6)
+[0, 0.0, 0, 3, 5.0, 3, 3, 5.0, 3]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+Equals( constant-15,angle1-6)
+[1, 4.0, 1, 3, 5.0, 3, 4, 9.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+LessThan( angle1-6,constant-11)
+[5, 7.0, -1, 2, 2.0, -1, 3, 5.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+LessThan( angle1-6,constant-15)
+[5, 7.0, -1, 1, 2.0, -1, 4, 9.0, -1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+Equals( constant-11,constant-15)
+[1, 4.0, -1, 0, 0.0, 0, 1, 4.0, 1]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+Equals( constant-11,angle1-6)
+[1, 4.0, -1, 4, 9.0, -1, 3, 5.0, 3]
+The measure of an obtuse angle is greater than 90° but less than 180°.
+Equals( constant-15,angle1-6)
+[0, 0.0, 0, 4, 9.0, -1, 4, 9.0, -1]
+if one angle of a parallelogram is a right angle  > then it is a rectangle.
+angle is angle1	1 variable	 =>  If
+angle is IsAngle	3 variable	 =>  If
+angle is AngleOf	3 variable	 =>  If
+parallelogram is parallelogram1	1 variable	 =>  If
+parallelogram is IsParallelogram	3 variable	 =>  If
+right is RightAngle	3 variable	 =>  If
+right is RightTriangle	3 variable	 =>  If
+angle is angle2	1 variable	 =>  If
+angle is IsAngle	3 variable	 =>  If
+angle is AngleOf	3 variable	 =>  If
+rectangle is rectangle1	1 variable	 =>  Then
+rectangle is IsRectangle	3 variable	 =>  Then
+=== end of this sentence ====
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle( angle1-3)
+[0, 0.0, 0]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle( parallelogram1-6)
+[1, 3.0, 1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle( angle2-10)
+[2, 7.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle( rectangle1-16)
+[2, 13.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf( angle1-3,parallelogram1-6)
+[0, 0.0, 0, 1, 3.0, 1, 1, 3.0, 1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf( angle1-3,rectangle1-16)
+[0, 0.0, 0, 2, 13.0, -1, 2, 13.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf( angle2-10,parallelogram1-6)
+[2, 7.0, -1, 1, 3.0, 1, 3, 4.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf( angle2-10,rectangle1-16)
+[2, 7.0, -1, 2, 13.0, -1, 2, 6.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsParallelogram( angle1-3)
+[1, 3.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsParallelogram( parallelogram1-6)
+[0, 0.0, 0]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsParallelogram( angle2-10)
+[3, 4.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsParallelogram( rectangle1-16)
+[3, 10.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightAngle( angle1-3)
+[2, 6.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightAngle( parallelogram1-6)
+[3, 3.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightAngle( angle2-10)
+[2, 1.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightAngle( rectangle1-16)
+[2, 7.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightTriangle( angle1-3)
+[2, 6.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightTriangle( parallelogram1-6)
+[3, 3.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightTriangle( angle2-10)
+[2, 1.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+RightTriangle( rectangle1-16)
+[2, 7.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle( angle1-3)
+[2, 7.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle( parallelogram1-6)
+[3, 4.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle( angle2-10)
+[0, 0.0, 0]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsAngle( rectangle1-16)
+[2, 6.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf( angle1-3,parallelogram1-6)
+[2, 7.0, -1, 3, 4.0, -1, 1, 3.0, 1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf( angle1-3,rectangle1-16)
+[2, 7.0, -1, 2, 6.0, -1, 2, 13.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf( angle2-10,parallelogram1-6)
+[0, 0.0, 0, 3, 4.0, -1, 3, 4.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+AngleOf( angle2-10,rectangle1-16)
+[0, 0.0, 0, 2, 6.0, -1, 2, 6.0, -1]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsRectangle( angle1-3)
+[2, 13.0, 2]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsRectangle( parallelogram1-6)
+[3, 10.0, 3]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsRectangle( angle2-10)
+[2, 6.0, 2]
+If one angle of a parallelogram is a right angle, then it is a rectangle.
+IsRectangle( rectangle1-16)
+[0, 0.0, 0]
+the opposite sides of a rectangle are  > of equal length.
+opposite is Opposite	3 variable	 =>  If
+sides is side1	1 variable	 =>  If
+sides is SideOf	3 variable	 =>  If
+rectangle is rectangle1	1 variable	 =>  If
+rectangle is IsRectangle	3 variable	 =>  If
+equal is Equals	3 variable	 =>  Then
+=== end of this sentence ====
+The opposite sides of a rectangle are of equal length.
+Opposite( side1-3,rectangle1-6)
+[1, 1.0, -1, 2, 4.0, -1, 1, 3.0, 1]
+The opposite sides of a rectangle are of equal length.
+SideOf( side1-3,rectangle1-6)
+[0, 0.0, 0, 1, 3.0, 1, 1, 3.0, 1]
+The opposite sides of a rectangle are of equal length.
+SideOf( rectangle1-6,side1-3)
+[1, 3.0, 1, 0, 0.0, 0, 1, 3.0, -1]
+The opposite sides of a rectangle are of equal length.
+IsRectangle( side1-3)
+[1, 3.0, -1]
+The opposite sides of a rectangle are of equal length.
+IsRectangle( rectangle1-6)
+[0, 0.0, 0]
+an angle that equals to 90  > is a right angle.
+angle is angle1	1 variable	 =>  If
+angle is IsAngle	3 variable	 =>  If
+angle is AngleOf	3 variable	 =>  If
+equals is Equals	3 variable	 =>  If
+90 is constant	0 variable	 =>  If
+90 is Equals	3 variable	 =>  If
+right is RightAngle	3 variable	 =>  Then
+right is RightTriangle	3 variable	 =>  Then
+angle is angle2	1 variable	 =>  Then
+angle is IsAngle	3 variable	 =>  Then
+angle is AngleOf	3 variable	 =>  Then
+=== end of this sentence ====
+An angle that equals to 90° is a right angle.
+IsAngle( constant-6)
+[3, 4.0, 3]
+An angle that equals to 90° is a right angle.
+IsAngle( angle1-2)
+[0, 0.0, 0]
+An angle that equals to 90° is a right angle.
+IsAngle( angle2-11)
+[1, 9.0, -1]
+An angle that equals to 90° is a right angle.
+AngleOf( angle1-2,constant-6)
+[0, 0.0, 0, 3, 4.0, 3, 3, 4.0, 3]
+An angle that equals to 90° is a right angle.
+AngleOf( angle2-11,constant-6)
+[1, 9.0, -1, 3, 4.0, 3, 4, 5.0, 4]
+An angle that equals to 90° is a right angle.
+Equals( constant-6,angle1-2)
+[2, 2.0, 2, 1, 2.0, -1, 3, 4.0, -1]
+An angle that equals to 90° is a right angle.
+Equals( constant-6,angle2-11)
+[2, 2.0, 2, 2, 7.0, -1, 4, 5.0, -1]
+An angle that equals to 90° is a right angle.
+Equals( angle1-2,angle2-11)
+[1, 2.0, -1, 2, 7.0, -1, 1, 9.0, -1]
+An angle that equals to 90° is a right angle.
+Equals( constant-6,angle1-2)
+[0, 0.0, 0, 3, 4.0, -1, 3, 4.0, -1]
+An angle that equals to 90° is a right angle.
+Equals( constant-6,angle2-11)
+[0, 0.0, 0, 4, 5.0, -1, 4, 5.0, -1]
+An angle that equals to 90° is a right angle.
+Equals( angle1-2,angle2-11)
+[3, 4.0, -1, 4, 5.0, -1, 1, 9.0, -1]
+An angle that equals to 90° is a right angle.
+RightAngle( constant-6)
+[5, 4.0, -1]
+An angle that equals to 90° is a right angle.
+RightAngle( angle1-2)
+[2, 8.0, -1]
+An angle that equals to 90° is a right angle.
+RightAngle( angle2-11)
+[1, 1.0, -1]
+An angle that equals to 90° is a right angle.
+RightTriangle( constant-6)
+[5, 4.0, -1]
+An angle that equals to 90° is a right angle.
+RightTriangle( angle1-2)
+[2, 8.0, -1]
+An angle that equals to 90° is a right angle.
+RightTriangle( angle2-11)
+[1, 1.0, -1]
+An angle that equals to 90° is a right angle.
+IsAngle( constant-6)
+[4, 5.0, 4]
+An angle that equals to 90° is a right angle.
+IsAngle( angle1-2)
+[1, 9.0, 1]
+An angle that equals to 90° is a right angle.
+IsAngle( angle2-11)
+[0, 0.0, 0]
+An angle that equals to 90° is a right angle.
+AngleOf( angle1-2,constant-6)
+[1, 9.0, 1, 4, 5.0, 4, 3, 4.0, 3]
+An angle that equals to 90° is a right angle.
+AngleOf( angle2-11,constant-6)
+[0, 0.0, 0, 4, 5.0, 4, 4, 5.0, 4]

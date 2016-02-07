@@ -75,3 +75,13 @@ MeasureOf	ObtuseAngle	Obtuse	angle1	IsAngle	AngleOf	GreaterThan	constant	Equals	
 angle1	IsAngle	AngleOf	parallelogram1	IsParallelogram	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	rectangle1	IsRectangle	
 Opposite	side1	SideOf	rectangle1	IsRectangle	Equals	
 angle1	IsAngle	AngleOf	Equals	constant	Equals	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	
+AcuteAngle	Acute	angle1	IsAngle	AngleOf	LessThan	constant	Equals	
+segment1	segment2	IsSegment	Equals	Congruent	
+triangle1	IsTriangle	side1	side2	SideOf	Equals	Isosceles	
+DiameterOf	circle1	IsCircle	chord1	ChordOf	IsOn	IsOn	centre1	CentreOf	
+line1	IsLine	Parallel	line2	IsLine	Parallel	line3	IsLine	
+angle1	IsAngle	AngleOf	Equals	constant	Equals	StraightAngle	angle2	IsAngle	AngleOf	
+MeasureOf	ObtuseAngle	Obtuse	angle1	IsAngle	AngleOf	GreaterThan	constant	Equals	LessThan	constant	Equals	
+angle1	IsAngle	AngleOf	parallelogram1	IsParallelogram	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	rectangle1	IsRectangle	
+Opposite	side1	SideOf	rectangle1	IsRectangle	Equals	
+angle1	IsAngle	AngleOf	Equals	constant	Equals	RightAngle	RightTriangle	angle2	IsAngle	AngleOf	
