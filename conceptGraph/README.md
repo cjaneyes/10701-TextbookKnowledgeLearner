@@ -58,3 +58,17 @@ Here symbol ">"  indicate a if-then
 The terms before ">" are from condition part and the terms behind that symbol are considered to be conclusions.
 The prdicates and variable generatation process are shown in the following lines.
 After line "=== end of this sentence ====" are potentail literal combinations which are similar to file "uni.test.literal"
+
+## File path:
+*Raw sentences file:  
+train: conceptGraph/test/annotation.sub  
+test: conceptGraph/test/annotation_test.txt  
+
+*literal files:
+Mainly on folder conceptGraph/Predict 
+uni.train.literal  
+uni.test.literal  
+bi.train.literal  
+bi.test.literal  
+
+
