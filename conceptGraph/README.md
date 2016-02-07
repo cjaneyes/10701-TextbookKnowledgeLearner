@@ -2,6 +2,7 @@ Main.py is the main function of the conceptGraph module.
 
 You can run this module by simply execute(but it requires external Stanford parser library for dependency parsing)
 * python Main.py
+
 The parameter of "./test/annotation_test.txt" is the input file path of raw knowledge containing sentences.
 Command "m.output('./Evaluation/tmp.txt')" outputs the produced predicates & variables to files for evaluation with recall and precision
 
@@ -10,9 +11,9 @@ Main.py will output potential literals to file bi.test.literal and uni.test.lite
 Learning.py will learn a classifer from annotated data and make prediction for test data. The parameters setting can be found in comments. Accuracy, Prcision and F-measures are reported. 
 
 ##The format of literal file:
-For example, here is a example in file "uni.test.literal"
+For example, here is a example in file "uni.test.literal"  
 
-An angle that equals to 90° is a right angle.
+An angle that equals to 90° is a right angle.  
 RightAngle-10(angle1-2)	0:2 1:8.0 2:-1 
 
 The first line is the raw sentences and the second line is a potential valid literal.
